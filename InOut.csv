@@ -1,0 +1,4716 @@
+Country,Group,Year,In,Out,Net,iso_alpha
+Lebanon,Arabs,1996,1284211,1471201,-186990,LBN
+Lebanon,Arabs,1997,1352116,1504190,-152074,LBN
+Lebanon,Arabs,1998,1477189,1650379,-173190,LBN
+Lebanon,Arabs,1999,2238857,2515533,-276676,LBN
+Lebanon,Arabs,2000,1907894,2094911,-187017,LBN
+Lebanon,Arabs,2001,1965300,2210391,-245091,LBN
+Lebanon,Arabs,2002,2321336,2462785,-141449,LBN
+Lebanon,Arabs,2003,2413357,2629292,-215935,LBN
+Lebanon,Arabs,2004,2652169,2796599,-144430,LBN
+Lebanon,Arabs,2005,2286496,2414430,-127934,LBN
+Lebanon,Arabs,2006,2467256,2503757,-36501,LBN
+Lebanon,Arabs,2007,2421516,2509551,-88035,LBN
+Lebanon,Arabs,2008,2560786,2681535,-120749,LBN
+Lebanon,Arabs,2009,2897837,3027447,-129610,LBN
+Lebanon,Arabs,2010,3320484,3481586,-161102,LBN
+Lebanon,Arabs,2011,2497481,2565365,-67884,LBN
+Lebanon,Arabs,2012,2244216,2293607,-49391,LBN
+Lebanon,Arabs,2013,2316704,2316704,0,LBN
+Lebanon,Arabs,2014,2563871,2594404,-30533,LBN
+Lebanon,Arabs,2015,2619002,2662109,-43107,LBN
+Lebanon,Arabs,2016,2234899,2235256,-357,LBN
+Lebanon,Arabs,2017,2994910,3017332,-22422,LBN
+Lebanon,Arabs,2018,3484268,3515428,-31160,LBN
+Syria,Arabs,1996,1841540,1481784,359756,SYR
+Syria,Arabs,1997,1648379,1280126,368253,SYR
+Syria,Arabs,1998,2271007,1909923,361084,SYR
+Syria,Arabs,1999,3354859,2920980,433879,SYR
+Syria,Arabs,2000,2861720,2569566,292154,SYR
+Syria,Arabs,2001,2900930,2475472,425458,SYR
+Syria,Arabs,2002,2927916,2680919,246997,SYR
+Syria,Arabs,2003,3145029,2921778,223251,SYR
+Syria,Arabs,2004,3414192,3412377,1815,SYR
+Syria,Arabs,2005,2371572,2433125,-61553,SYR
+Syria,Arabs,2006,1938827,2014540,-75713,SYR
+Syria,Arabs,2007,2028170,1754795,273375,SYR
+Syria,Arabs,2008,2507037,2093936,413101,SYR
+Syria,Arabs,2009,3371876,2930476,441400,SYR
+Syria,Arabs,2010,4031514,3692960,338554,SYR
+Syria,Arabs,2011,3890394,3675386,215008,SYR
+Syria,Arabs,2012,4116463,3658197,458266,SYR
+Syria,Arabs,2013,4459842,4459842,0,SYR
+Syria,Arabs,2014,3614539,3526617,87922,SYR
+Syria,Arabs,2015,1956194,1996253,-40059,SYR
+Syria,Arabs,2016,1802598,1765940,36658,SYR
+Syria,Arabs,2017,2377368,2387596,-10228,SYR
+Syria,Arabs,2018,2687509,2796432,-108923,SYR
+Egypt,Arabs,1996,20439,27958,-7519,EGY
+Egypt,Arabs,1997,30135,53036,-22901,EGY
+Egypt,Arabs,1998,39482,33683,5799,EGY
+Egypt,Arabs,1999,34363,39781,-5418,EGY
+Egypt,Arabs,2000,35691,40752,-5061,EGY
+Egypt,Arabs,2001,36358,40862,-4504,EGY
+Egypt,Arabs,2002,38571,42843,-4272,EGY
+Egypt,Arabs,2003,39022,42680,-3658,EGY
+Egypt,Arabs,2004,46056,50527,-4471,EGY
+Egypt,Arabs,2005,34271,37457,-3186,EGY
+Egypt,Arabs,2006,38678,45579,-6901,EGY
+Egypt,Arabs,2007,29585,31610,-2025,EGY
+Egypt,Arabs,2008,41657,41899,-242,EGY
+Egypt,Arabs,2009,57379,57360,19,EGY
+Egypt,Arabs,2010,67773,68992,-1219,EGY
+Egypt,Arabs,2011,62825,64871,-2046,EGY
+Egypt,Arabs,2012,64017,66356,-2339,EGY
+Egypt,Arabs,2013,63578,63578,0,EGY
+Egypt,Arabs,2014,69179,70391,-1212,EGY
+Egypt,Arabs,2015,75524,77024,-1500,EGY
+Egypt,Arabs,2016,83337,83494,-157,EGY
+Egypt,Arabs,2017,82282,80611,1671,EGY
+Egypt,Arabs,2018,92173,89310,2863,EGY
+Irak,Arabs,1996,2950,2774,176,IRQ
+Irak,Arabs,1997,3357,3291,66,IRQ
+Irak,Arabs,1998,4057,4056,1,IRQ
+Irak,Arabs,1999,5956,6493,-537,IRQ
+Irak,Arabs,2000,6183,7222,-1039,IRQ
+Irak,Arabs,2001,10759,11563,-804,IRQ
+Irak,Arabs,2002,13467,13669,-202,IRQ
+Irak,Arabs,2003,7863,10247,-2384,IRQ
+Irak,Arabs,2004,17159,18589,-1430,IRQ
+Irak,Arabs,2005,20677,20861,-184,IRQ
+Irak,Arabs,2006,60414,59827,587,IRQ
+Irak,Arabs,2007,83159,82921,238,IRQ
+Irak,Arabs,2008,72805,73239,-434,IRQ
+Irak,Arabs,2009,101561,102298,-737,IRQ
+Irak,Arabs,2010,129847,128477,1370,IRQ
+Irak,Arabs,2011,129294,128425,869,IRQ
+Irak,Arabs,2012,126982,128334,-1352,IRQ
+Irak,Arabs,2013,141986,141986,0,IRQ
+Irak,Arabs,2014,189156,179403,9753,IRQ
+Irak,Arabs,2015,191578,189530,2048,IRQ
+Irak,Arabs,2016,236013,236601,-588,IRQ
+Irak,Arabs,2017,226930,230099,-3169,IRQ
+Irak,Arabs,2018,211589,214785,-3196,IRQ
+Jordan,Arabs,1996,47946,48655,-709,JOR
+Jordan,Arabs,1997,57690,55344,2346,JOR
+Jordan,Arabs,1998,53640,50507,3133,JOR
+Jordan,Arabs,1999,61013,59376,1637,JOR
+Jordan,Arabs,2000,69625,65389,4236,JOR
+Jordan,Arabs,2001,74450,75153,-703,JOR
+Jordan,Arabs,2002,81705,81716,-11,JOR
+Jordan,Arabs,2003,87798,87625,173,JOR
+Jordan,Arabs,2004,92840,92784,56,JOR
+Jordan,Arabs,2005,135227,134152,1075,JOR
+Jordan,Arabs,2006,144166,143327,839,JOR
+Jordan,Arabs,2007,127042,127354,-312,JOR
+Jordan,Arabs,2008,180887,180418,469,JOR
+Jordan,Arabs,2009,223793,222674,1119,JOR
+Jordan,Arabs,2010,274615,274652,-37,JOR
+Jordan,Arabs,2011,129640,130819,-1179,JOR
+Jordan,Arabs,2012,89100,89485,-385,JOR
+Jordan,Arabs,2013,78018,78018,0,JOR
+Jordan,Arabs,2014,73822,73327,495,JOR
+Jordan,Arabs,2015,77960,78035,-75,JOR
+Jordan,Arabs,2016,86693,85864,829,JOR
+Jordan,Arabs,2017,90077,89854,223,JOR
+Jordan,Arabs,2018,92920,92174,746,JOR
+Hadramout,Arabs,1996,70,46,24,0
+Hadramout,Arabs,1997,68,61,7,0
+Hadramout,Arabs,1998,5,4,1,0
+Hadramout,Arabs,1999,17,1,16,0
+Hadramout,Arabs,2000,2,5,-3,0
+Hadramout,Arabs,2001,0,0,0,0
+Hadramout,Arabs,2002,0,0,0,0
+Hadramout,Arabs,2003,0,0,0,0
+Hadramout,Arabs,2004,0,0,0,0
+Hadramout,Arabs,2005,0,0,0,0
+Hadramout,Arabs,2006,0,0,0,0
+Hadramout,Arabs,2007,0,0,0,0
+Hadramout,Arabs,2008,0,0,0,0
+Hadramout,Arabs,2009,0,0,0,0
+Hadramout,Arabs,2010,0,0,0,0
+Hadramout,Arabs,2011,0,0,0,0
+Hadramout,Arabs,2012,0,0,0,0
+Hadramout,Arabs,2013,0,0,0,0
+Hadramout,Arabs,2014,0,0,0,0
+Hadramout,Arabs,2015,0,0,0,0
+Hadramout,Arabs,2016,0,0,0,0
+Hadramout,Arabs,2017,0,0,0,0
+Hadramout,Arabs,2018,0,0,0,0
+Saudi Arabia,Arabs,1996,33342,32775,567,SAU
+Saudi Arabia,Arabs,1997,59726,55252,4474,SAU
+Saudi Arabia,Arabs,1998,69331,66151,3180,SAU
+Saudi Arabia,Arabs,1999,82646,80089,2557,SAU
+Saudi Arabia,Arabs,2000,98343,96868,1475,SAU
+Saudi Arabia,Arabs,2001,116938,117530,-592,SAU
+Saudi Arabia,Arabs,2002,144569,144017,552,SAU
+Saudi Arabia,Arabs,2003,162230,161689,541,SAU
+Saudi Arabia,Arabs,2004,200899,200980,-81,SAU
+Saudi Arabia,Arabs,2005,124687,128219,-3532,SAU
+Saudi Arabia,Arabs,2006,93570,92880,690,SAU
+Saudi Arabia,Arabs,2007,63918,64092,-174,SAU
+Saudi Arabia,Arabs,2008,219749,100474,119275,SAU
+Saudi Arabia,Arabs,2009,173294,172394,900,SAU
+Saudi Arabia,Arabs,2010,191066,191509,-443,SAU
+Saudi Arabia,Arabs,2011,111701,112410,-709,SAU
+Saudi Arabia,Arabs,2012,72658,74472,-1814,SAU
+Saudi Arabia,Arabs,2013,40958,40958,0,SAU
+Saudi Arabia,Arabs,2014,45788,45094,694,SAU
+Saudi Arabia,Arabs,2015,47831,48067,-236,SAU
+Saudi Arabia,Arabs,2016,40391,39838,553,SAU
+Saudi Arabia,Arabs,2017,64270,65400,-1130,SAU
+Saudi Arabia,Arabs,2018,61547,58130,3417,SAU
+Yemen,Arabs,1996,1476,1493,-17,YEM
+Yemen,Arabs,1997,2239,2227,12,YEM
+Yemen,Arabs,1998,2479,2464,15,YEM
+Yemen,Arabs,1999,2734,2696,38,YEM
+Yemen,Arabs,2000,2808,2811,-3,YEM
+Yemen,Arabs,2001,3414,3382,32,YEM
+Yemen,Arabs,2002,4118,4076,42,YEM
+Yemen,Arabs,2003,4410,4384,26,YEM
+Yemen,Arabs,2004,4917,4912,5,YEM
+Yemen,Arabs,2005,3500,3514,-14,YEM
+Yemen,Arabs,2006,2960,2980,-20,YEM
+Yemen,Arabs,2007,2187,2170,17,YEM
+Yemen,Arabs,2008,3671,3594,77,YEM
+Yemen,Arabs,2009,6108,6008,100,YEM
+Yemen,Arabs,2010,7109,7057,52,YEM
+Yemen,Arabs,2011,5357,5290,67,YEM
+Yemen,Arabs,2012,5633,5647,-14,YEM
+Yemen,Arabs,2013,5268,5268,0,YEM
+Yemen,Arabs,2014,5105,5058,47,YEM
+Yemen,Arabs,2015,3819,3574,245,YEM
+Yemen,Arabs,2016,4498,4590,-92,YEM
+Yemen,Arabs,2017,4747,4828,-81,YEM
+Yemen,Arabs,2018,4658,4862,-204,YEM
+Djibouti,Arabs,1996,75,13,62,DJI
+Djibouti,Arabs,1997,14,30,-16,DJI
+Djibouti,Arabs,1998,26,30,-4,DJI
+Djibouti,Arabs,1999,17,33,-16,DJI
+Djibouti,Arabs,2000,36,31,5,DJI
+Djibouti,Arabs,2001,24,21,3,DJI
+Djibouti,Arabs,2002,104,97,7,DJI
+Djibouti,Arabs,2003,63,63,0,DJI
+Djibouti,Arabs,2004,42,40,2,DJI
+Djibouti,Arabs,2005,14,15,-1,DJI
+Djibouti,Arabs,2006,15,17,-2,DJI
+Djibouti,Arabs,2007,11,10,1,DJI
+Djibouti,Arabs,2008,35,30,5,DJI
+Djibouti,Arabs,2009,64,67,-3,DJI
+Djibouti,Arabs,2010,54,53,1,DJI
+Djibouti,Arabs,2011,42,44,-2,DJI
+Djibouti,Arabs,2012,68,68,0,DJI
+Djibouti,Arabs,2013,27,27,0,DJI
+Djibouti,Arabs,2014,25,24,1,DJI
+Djibouti,Arabs,2015,33,31,2,DJI
+Djibouti,Arabs,2016,49,49,0,DJI
+Djibouti,Arabs,2017,47,48,-1,DJI
+Djibouti,Arabs,2018,56,55,1,DJI
+Somalia,Arabs,1996,118,115,3,SOM
+Somalia,Arabs,1997,80,76,4,SOM
+Somalia,Arabs,1998,90,88,2,SOM
+Somalia,Arabs,1999,80,89,-9,SOM
+Somalia,Arabs,2000,86,84,2,SOM
+Somalia,Arabs,2001,106,123,-17,SOM
+Somalia,Arabs,2002,149,151,-2,SOM
+Somalia,Arabs,2003,125,147,-22,SOM
+Somalia,Arabs,2004,112,162,-50,SOM
+Somalia,Arabs,2005,158,188,-30,SOM
+Somalia,Arabs,2006,217,236,-19,SOM
+Somalia,Arabs,2007,152,158,-6,SOM
+Somalia,Arabs,2008,245,247,-2,SOM
+Somalia,Arabs,2009,223,226,-3,SOM
+Somalia,Arabs,2010,402,346,56,SOM
+Somalia,Arabs,2011,308,231,77,SOM
+Somalia,Arabs,2012,424,278,146,SOM
+Somalia,Arabs,2013,512,512,0,SOM
+Somalia,Arabs,2014,403,410,-7,SOM
+Somalia,Arabs,2015,385,365,20,SOM
+Somalia,Arabs,2016,382,369,13,SOM
+Somalia,Arabs,2017,546,524,22,SOM
+Somalia,Arabs,2018,436,406,30,SOM
+Eritria,Arabs,1996,160,110,50,ERI
+Eritria,Arabs,1997,292,198,94,ERI
+Eritria,Arabs,1998,280,359,-79,ERI
+Eritria,Arabs,1999,474,535,-61,ERI
+Eritria,Arabs,2000,554,565,-11,ERI
+Eritria,Arabs,2001,720,815,-95,ERI
+Eritria,Arabs,2002,856,887,-31,ERI
+Eritria,Arabs,2003,907,909,-2,ERI
+Eritria,Arabs,2004,1019,993,26,ERI
+Eritria,Arabs,2005,781,761,20,ERI
+Eritria,Arabs,2006,591,624,-33,ERI
+Eritria,Arabs,2007,369,393,-24,ERI
+Eritria,Arabs,2008,578,604,-26,ERI
+Eritria,Arabs,2009,709,688,21,ERI
+Eritria,Arabs,2010,616,648,-32,ERI
+Eritria,Arabs,2011,468,461,7,ERI
+Eritria,Arabs,2012,305,327,-22,ERI
+Eritria,Arabs,2013,253,253,0,ERI
+Eritria,Arabs,2014,252,253,-1,ERI
+Eritria,Arabs,2015,227,257,-30,ERI
+Eritria,Arabs,2016,193,205,-12,ERI
+Eritria,Arabs,2017,228,244,-16,ERI
+Eritria,Arabs,2018,253,257,-4,ERI
+Sudan,Arabs,1996,1454,1701,-247,SDN
+Sudan,Arabs,1997,2404,2470,-66,SDN
+Sudan,Arabs,1998,2815,2854,-39,SDN
+Sudan,Arabs,1999,3201,3421,-220,SDN
+Sudan,Arabs,2000,2992,3492,-500,SDN
+Sudan,Arabs,2001,3455,4076,-621,SDN
+Sudan,Arabs,2002,3322,3692,-370,SDN
+Sudan,Arabs,2003,3242,3877,-635,SDN
+Sudan,Arabs,2004,3945,4901,-956,SDN
+Sudan,Arabs,2005,2799,4020,-1221,SDN
+Sudan,Arabs,2006,2888,5578,-2690,SDN
+Sudan,Arabs,2007,2373,2975,-602,SDN
+Sudan,Arabs,2008,3163,3901,-738,SDN
+Sudan,Arabs,2009,4377,5287,-910,SDN
+Sudan,Arabs,2010,4723,6692,-1969,SDN
+Sudan,Arabs,2011,3813,5990,-2177,SDN
+Sudan,Arabs,2012,3720,5821,-2101,SDN
+Sudan,Arabs,2013,3349,3349,0,SDN
+Sudan,Arabs,2014,3099,4151,-1052,SDN
+Sudan,Arabs,2015,3392,4126,-734,SDN
+Sudan,Arabs,2016,3318,3917,-599,SDN
+Sudan,Arabs,2017,3856,4131,-275,SDN
+Sudan,Arabs,2018,3611,4362,-751,SDN
+Bahrain,Arabs,1996,2311,2331,-20,BHR
+Bahrain,Arabs,1997,4470,4227,243,BHR
+Bahrain,Arabs,1998,6151,5617,534,BHR
+Bahrain,Arabs,1999,6304,6020,284,BHR
+Bahrain,Arabs,2000,8024,7609,415,BHR
+Bahrain,Arabs,2001,13360,13467,-107,BHR
+Bahrain,Arabs,2002,20947,20770,177,BHR
+Bahrain,Arabs,2003,25002,24992,10,BHR
+Bahrain,Arabs,2004,27184,27103,81,BHR
+Bahrain,Arabs,2005,17624,17577,47,BHR
+Bahrain,Arabs,2006,10012,10099,-87,BHR
+Bahrain,Arabs,2007,12021,12065,-44,BHR
+Bahrain,Arabs,2008,17424,17176,248,BHR
+Bahrain,Arabs,2009,25218,25035,183,BHR
+Bahrain,Arabs,2010,25096,25257,-161,BHR
+Bahrain,Arabs,2011,9493,9485,8,BHR
+Bahrain,Arabs,2012,7365,7624,-259,BHR
+Bahrain,Arabs,2013,5481,5481,0,BHR
+Bahrain,Arabs,2014,7576,7440,136,BHR
+Bahrain,Arabs,2015,10222,10247,-25,BHR
+Bahrain,Arabs,2016,10195,10173,22,BHR
+Bahrain,Arabs,2017,8756,8842,-86,BHR
+Bahrain,Arabs,2018,7956,7871,85,BHR
+Kuwait,Arabs,1996,22077,22113,-36,KWT
+Kuwait,Arabs,1997,34925,34079,846,KWT
+Kuwait,Arabs,1998,40191,39142,1049,KWT
+Kuwait,Arabs,1999,41058,40994,64,KWT
+Kuwait,Arabs,2000,47630,46367,1263,KWT
+Kuwait,Arabs,2001,52907,53342,-435,KWT
+Kuwait,Arabs,2002,69516,69130,386,KWT
+Kuwait,Arabs,2003,55959,56032,-73,KWT
+Kuwait,Arabs,2004,79830,79776,54,KWT
+Kuwait,Arabs,2005,64193,64365,-172,KWT
+Kuwait,Arabs,2006,50108,49810,298,KWT
+Kuwait,Arabs,2007,44534,44644,-110,KWT
+Kuwait,Arabs,2008,68936,68209,727,KWT
+Kuwait,Arabs,2009,102537,102194,343,KWT
+Kuwait,Arabs,2010,95824,96300,-476,KWT
+Kuwait,Arabs,2011,61756,61622,134,KWT
+Kuwait,Arabs,2012,40121,41165,-1044,KWT
+Kuwait,Arabs,2013,29598,29598,0,KWT
+Kuwait,Arabs,2014,31970,31733,237,KWT
+Kuwait,Arabs,2015,31953,32156,-203,KWT
+Kuwait,Arabs,2016,25653,25084,569,KWT
+Kuwait,Arabs,2017,40886,41368,-482,KWT
+Kuwait,Arabs,2018,40382,39527,855,KWT
+Oman,Arabs,1996,842,851,-9,OMN
+Oman,Arabs,1997,1717,1376,341,OMN
+Oman,Arabs,1998,2249,2047,202,OMN
+Oman,Arabs,1999,2546,2544,2,OMN
+Oman,Arabs,2000,2205,2193,12,OMN
+Oman,Arabs,2001,2757,2741,16,OMN
+Oman,Arabs,2002,4371,4392,-21,OMN
+Oman,Arabs,2003,4424,4424,0,OMN
+Oman,Arabs,2004,5392,5377,15,OMN
+Oman,Arabs,2005,3742,3719,23,OMN
+Oman,Arabs,2006,3072,3077,-5,OMN
+Oman,Arabs,2007,2435,2419,16,OMN
+Oman,Arabs,2008,4012,3997,15,OMN
+Oman,Arabs,2009,5717,5755,-38,OMN
+Oman,Arabs,2010,6639,6656,-17,OMN
+Oman,Arabs,2011,4494,4452,42,OMN
+Oman,Arabs,2012,3128,3200,-72,OMN
+Oman,Arabs,2013,2189,2189,0,OMN
+Oman,Arabs,2014,2035,2028,7,OMN
+Oman,Arabs,2015,2700,2741,-41,OMN
+Oman,Arabs,2016,3182,3147,35,OMN
+Oman,Arabs,2017,4521,4536,-15,OMN
+Oman,Arabs,2018,4301,4330,-29,OMN
+Qatar,Arabs,1996,2068,1876,192,QAT
+Qatar,Arabs,1997,3440,3149,291,QAT
+Qatar,Arabs,1998,4620,4391,229,QAT
+Qatar,Arabs,1999,4524,4425,99,QAT
+Qatar,Arabs,2000,4802,4672,130,QAT
+Qatar,Arabs,2001,5409,5386,23,QAT
+Qatar,Arabs,2002,7986,7934,52,QAT
+Qatar,Arabs,2003,10728,10664,64,QAT
+Qatar,Arabs,2004,14819,14794,25,QAT
+Qatar,Arabs,2005,12064,12126,-62,QAT
+Qatar,Arabs,2006,11666,11573,93,QAT
+Qatar,Arabs,2007,8380,8620,-240,QAT
+Qatar,Arabs,2008,14093,13965,128,QAT
+Qatar,Arabs,2009,19358,19307,51,QAT
+Qatar,Arabs,2010,18436,18540,-104,QAT
+Qatar,Arabs,2011,11171,11293,-122,QAT
+Qatar,Arabs,2012,5124,5381,-257,QAT
+Qatar,Arabs,2013,1800,1800,0,QAT
+Qatar,Arabs,2014,2827,2782,45,QAT
+Qatar,Arabs,2015,3610,3652,-42,QAT
+Qatar,Arabs,2016,2865,2812,53,QAT
+Qatar,Arabs,2017,5578,5456,122,QAT
+Qatar,Arabs,2018,12256,11621,635,QAT
+United Arab Emirates,Arabs,1996,4669,4723,-54,ARE
+United Arab Emirates,Arabs,1997,8603,8263,340,ARE
+United Arab Emirates,Arabs,1998,10142,9191,951,ARE
+United Arab Emirates,Arabs,1999,9308,9075,233,ARE
+United Arab Emirates,Arabs,2000,9742,9618,124,ARE
+United Arab Emirates,Arabs,2001,10269,10389,-120,ARE
+United Arab Emirates,Arabs,2002,14127,14059,68,ARE
+United Arab Emirates,Arabs,2003,20261,20202,59,ARE
+United Arab Emirates,Arabs,2004,26837,26699,138,ARE
+United Arab Emirates,Arabs,2005,17044,16963,81,ARE
+United Arab Emirates,Arabs,2006,16051,16118,-67,ARE
+United Arab Emirates,Arabs,2007,12273,11686,587,ARE
+United Arab Emirates,Arabs,2008,24673,24715,-42,ARE
+United Arab Emirates,Arabs,2009,42974,42838,136,ARE
+United Arab Emirates,Arabs,2010,46923,46906,17,ARE
+United Arab Emirates,Arabs,2011,32058,31543,515,ARE
+United Arab Emirates,Arabs,2012,17742,19328,-1586,ARE
+United Arab Emirates,Arabs,2013,6709,6709,0,ARE
+United Arab Emirates,Arabs,2014,7660,7382,278,ARE
+United Arab Emirates,Arabs,2015,8235,8506,-271,ARE
+United Arab Emirates,Arabs,2016,2114,2314,-200,ARE
+United Arab Emirates,Arabs,2017,1891,1947,-56,ARE
+United Arab Emirates,Arabs,2018,1770,1659,111,ARE
+Algeria,Arabs,1996,1882,1825,57,DZA
+Algeria,Arabs,1997,1988,2123,-135,DZA
+Algeria,Arabs,1998,1635,1717,-82,DZA
+Algeria,Arabs,1999,1669,1682,-13,DZA
+Algeria,Arabs,2000,2239,2318,-79,DZA
+Algeria,Arabs,2001,3659,3653,6,DZA
+Algeria,Arabs,2002,3925,3884,41,DZA
+Algeria,Arabs,2003,3419,3416,3,DZA
+Algeria,Arabs,2004,5194,5088,106,DZA
+Algeria,Arabs,2005,2988,2914,74,DZA
+Algeria,Arabs,2006,3247,3325,-78,DZA
+Algeria,Arabs,2007,2281,2281,0,DZA
+Algeria,Arabs,2008,3203,3147,56,DZA
+Algeria,Arabs,2009,4648,4544,104,DZA
+Algeria,Arabs,2010,5377,5446,-69,DZA
+Algeria,Arabs,2011,4223,4191,32,DZA
+Algeria,Arabs,2012,4005,4023,-18,DZA
+Algeria,Arabs,2013,4009,4009,0,DZA
+Algeria,Arabs,2014,3800,3850,-50,DZA
+Algeria,Arabs,2015,4356,4380,-24,DZA
+Algeria,Arabs,2016,5192,5035,157,DZA
+Algeria,Arabs,2017,5860,5893,-33,DZA
+Algeria,Arabs,2018,7213,7104,109,DZA
+Lybia,Arabs,1996,1313,1307,6,LBY
+Lybia,Arabs,1997,2162,2147,15,LBY
+Lybia,Arabs,1998,2702,2633,69,LBY
+Lybia,Arabs,1999,2954,2901,53,LBY
+Lybia,Arabs,2000,3028,3006,22,LBY
+Lybia,Arabs,2001,3324,3335,-11,LBY
+Lybia,Arabs,2002,3623,3600,23,LBY
+Lybia,Arabs,2003,3451,3489,-38,LBY
+Lybia,Arabs,2004,4297,4248,49,LBY
+Lybia,Arabs,2005,3519,3492,27,LBY
+Lybia,Arabs,2006,2626,2656,-30,LBY
+Lybia,Arabs,2007,2758,2708,50,LBY
+Lybia,Arabs,2008,2964,2936,28,LBY
+Lybia,Arabs,2009,3913,3888,25,LBY
+Lybia,Arabs,2010,4570,4559,11,LBY
+Lybia,Arabs,2011,2484,2338,146,LBY
+Lybia,Arabs,2012,5094,5115,-21,LBY
+Lybia,Arabs,2013,5837,5837,0,LBY
+Lybia,Arabs,2014,5680,5632,48,LBY
+Lybia,Arabs,2015,4399,4498,-99,LBY
+Lybia,Arabs,2016,3512,3600,-88,LBY
+Lybia,Arabs,2017,2757,2801,-44,LBY
+Lybia,Arabs,2018,2711,2667,44,LBY
+Mauritania,Arabs,1996,169,147,22,MRT
+Mauritania,Arabs,1997,171,141,30,MRT
+Mauritania,Arabs,1998,168,167,1,MRT
+Mauritania,Arabs,1999,166,156,10,MRT
+Mauritania,Arabs,2000,145,158,-13,MRT
+Mauritania,Arabs,2001,129,144,-15,MRT
+Mauritania,Arabs,2002,210,209,1,MRT
+Mauritania,Arabs,2003,137,134,3,MRT
+Mauritania,Arabs,2004,205,200,5,MRT
+Mauritania,Arabs,2005,137,140,-3,MRT
+Mauritania,Arabs,2006,165,175,-10,MRT
+Mauritania,Arabs,2007,128,123,5,MRT
+Mauritania,Arabs,2008,196,197,-1,MRT
+Mauritania,Arabs,2009,233,223,10,MRT
+Mauritania,Arabs,2010,182,194,-12,MRT
+Mauritania,Arabs,2011,179,176,3,MRT
+Mauritania,Arabs,2012,221,220,1,MRT
+Mauritania,Arabs,2013,194,194,0,MRT
+Mauritania,Arabs,2014,244,225,19,MRT
+Mauritania,Arabs,2015,272,273,-1,MRT
+Mauritania,Arabs,2016,322,311,11,MRT
+Mauritania,Arabs,2017,352,340,12,MRT
+Mauritania,Arabs,2018,307,303,4,MRT
+Morocco,Arabs,1996,1210,1164,46,MAR
+Morocco,Arabs,1997,1810,1764,46,MAR
+Morocco,Arabs,1998,2004,2002,2,MAR
+Morocco,Arabs,1999,2525,2525,0,MAR
+Morocco,Arabs,2000,2801,2674,127,MAR
+Morocco,Arabs,2001,3602,3610,-8,MAR
+Morocco,Arabs,2002,4165,4113,52,MAR
+Morocco,Arabs,2003,4044,3981,63,MAR
+Morocco,Arabs,2004,4692,4714,-22,MAR
+Morocco,Arabs,2005,3859,3722,137,MAR
+Morocco,Arabs,2006,4584,4520,64,MAR
+Morocco,Arabs,2007,3642,3479,163,MAR
+Morocco,Arabs,2008,5281,4900,381,MAR
+Morocco,Arabs,2009,7503,7387,116,MAR
+Morocco,Arabs,2010,7830,8417,-587,MAR
+Morocco,Arabs,2011,6318,6156,162,MAR
+Morocco,Arabs,2012,6219,6274,-55,MAR
+Morocco,Arabs,2013,6767,6767,0,MAR
+Morocco,Arabs,2014,6472,6465,7,MAR
+Morocco,Arabs,2015,7192,7144,48,MAR
+Morocco,Arabs,2016,7328,7315,13,MAR
+Morocco,Arabs,2017,8933,8960,-27,MAR
+Morocco,Arabs,2018,9426,9202,224,MAR
+Tunisia,Arabs,1996,1979,2078,-99,TUN
+Tunisia,Arabs,1997,2633,2726,-93,TUN
+Tunisia,Arabs,1998,3414,3209,205,TUN
+Tunisia,Arabs,1999,4026,3959,67,TUN
+Tunisia,Arabs,2000,3605,3561,44,TUN
+Tunisia,Arabs,2001,4295,4319,-24,TUN
+Tunisia,Arabs,2002,4964,4534,430,TUN
+Tunisia,Arabs,2003,5118,4962,156,TUN
+Tunisia,Arabs,2004,9711,9412,299,TUN
+Tunisia,Arabs,2005,4146,3997,149,TUN
+Tunisia,Arabs,2006,3831,3999,-168,TUN
+Tunisia,Arabs,2007,2834,2751,83,TUN
+Tunisia,Arabs,2008,3891,3478,413,TUN
+Tunisia,Arabs,2009,6376,5850,526,TUN
+Tunisia,Arabs,2010,7642,7430,212,TUN
+Tunisia,Arabs,2011,5973,6430,-457,TUN
+Tunisia,Arabs,2012,6143,6387,-244,TUN
+Tunisia,Arabs,2013,5547,5547,0,TUN
+Tunisia,Arabs,2014,5729,5617,112,TUN
+Tunisia,Arabs,2015,7035,7126,-91,TUN
+Tunisia,Arabs,2016,7685,7546,139,TUN
+Tunisia,Arabs,2017,8756,8673,83,TUN
+Tunisia,Arabs,2018,8970,8936,34,TUN
+Palestinian refugee in Lebanon,Special Categories,1996,23801,25527,-1726,0
+Palestinian refugee in Lebanon,Special Categories,1997,28316,31681,-3365,0
+Palestinian refugee in Lebanon,Special Categories,1998,29921,33939,-4018,0
+Palestinian refugee in Lebanon,Special Categories,1999,57607,58704,-1097,0
+Palestinian refugee in Lebanon,Special Categories,2000,58343,61400,-3057,0
+Palestinian refugee in Lebanon,Special Categories,2001,61721,63113,-1392,0
+Palestinian refugee in Lebanon,Special Categories,2002,65189,66844,-1655,0
+Palestinian refugee in Lebanon,Special Categories,2003,68884,70294,-1410,0
+Palestinian refugee in Lebanon,Special Categories,2004,75634,76827,-1193,0
+Palestinian refugee in Lebanon,Special Categories,2005,73216,75818,-2602,0
+Palestinian refugee in Lebanon,Special Categories,2006,78752,80715,-1963,0
+Palestinian refugee in Lebanon,Special Categories,2007,91070,90762,308,0
+Palestinian refugee in Lebanon,Special Categories,2008,101229,102606,-1377,0
+Palestinian refugee in Lebanon,Special Categories,2009,107325,108320,-995,0
+Palestinian refugee in Lebanon,Special Categories,2010,117560,118527,-967,0
+Palestinian refugee in Lebanon,Special Categories,2011,86199,85953,246,0
+Palestinian refugee in Lebanon,Special Categories,2012,65995,65882,113,0
+Palestinian refugee in Lebanon,Special Categories,2013,52846,52846,0,0
+Palestinian refugee in Lebanon,Special Categories,2014,56252,58324,-2072,0
+Palestinian refugee in Lebanon,Special Categories,2015,60213,62977,-2764,0
+Palestinian refugee in Lebanon,Special Categories,2016,61503,61623,-120,0
+Palestinian refugee in Lebanon,Special Categories,2017,65941,67846,-1905,0
+Palestinian refugee in Lebanon,Special Categories,2018,68412,70125,-1713,0
+Foreign Palestinian,Special Categories,1996,404,269,135,0
+Foreign Palestinian,Special Categories,1997,400,397,3,0
+Foreign Palestinian,Special Categories,1998,427,397,30,0
+Foreign Palestinian,Special Categories,1999,3392,2982,410,0
+Foreign Palestinian,Special Categories,2000,2043,1947,96,0
+Foreign Palestinian,Special Categories,2001,4281,4185,96,0
+Foreign Palestinian,Special Categories,2002,7100,7003,97,0
+Foreign Palestinian,Special Categories,2003,7761,7662,99,0
+Foreign Palestinian,Special Categories,2004,10274,10184,90,0
+Foreign Palestinian,Special Categories,2005,9136,9060,76,0
+Foreign Palestinian,Special Categories,2006,8262,8005,257,0
+Foreign Palestinian,Special Categories,2007,8582,8548,34,0
+Foreign Palestinian,Special Categories,2008,13291,13028,263,0
+Foreign Palestinian,Special Categories,2009,20981,20776,205,0
+Foreign Palestinian,Special Categories,2010,28297,27852,445,0
+Foreign Palestinian,Special Categories,2011,28767,28485,282,0
+Foreign Palestinian,Special Categories,2012,65087,48186,16901,0
+Foreign Palestinian,Special Categories,2013,140814,140814,0,0
+Foreign Palestinian,Special Categories,2014,39004,43901,-4897,0
+Foreign Palestinian,Special Categories,2015,28016,32004,-3988,0
+Foreign Palestinian,Special Categories,2016,31510,33028,-1518,0
+Foreign Palestinian,Special Categories,2017,37650,39423,-1773,0
+Foreign Palestinian,Special Categories,2018,36539,38752,-2213,0
+Under study,Special Categories,1996,290,263,27,0
+Under study,Special Categories,1997,297,326,-29,0
+Under study,Special Categories,1998,214,237,-23,0
+Under study,Special Categories,1999,177,191,-14,0
+Under study,Special Categories,2000,161,191,-30,0
+Under study,Special Categories,2001,244,248,-4,0
+Under study,Special Categories,2002,264,286,-22,0
+Under study,Special Categories,2003,314,307,7,0
+Under study,Special Categories,2004,367,378,-11,0
+Under study,Special Categories,2005,396,426,-30,0
+Under study,Special Categories,2006,443,449,-6,0
+Under study,Special Categories,2007,464,464,0,0
+Under study,Special Categories,2008,531,537,-6,0
+Under study,Special Categories,2009,529,545,-16,0
+Under study,Special Categories,2010,643,669,-26,0
+Under study,Special Categories,2011,500,504,-4,0
+Under study,Special Categories,2012,369,359,10,0
+Under study,Special Categories,2013,342,342,0,0
+Under study,Special Categories,2014,305,302,3,0
+Under study,Special Categories,2015,248,245,3,0
+Under study,Special Categories,2016,224,221,3,0
+Under study,Special Categories,2017,283,287,-4,0
+Under study,Special Categories,2018,385,371,14,0
+Pass Passport,Special Categories,1996,28,38,-10,0
+Pass Passport,Special Categories,1997,128,22,106,0
+Pass Passport,Special Categories,1998,449,122,327,0
+Pass Passport,Special Categories,1999,972,492,480,0
+Pass Passport,Special Categories,2000,315,202,113,0
+Pass Passport,Special Categories,2001,62,132,-70,0
+Pass Passport,Special Categories,2002,29,9,20,0
+Pass Passport,Special Categories,2003,0,0,0,0
+Pass Passport,Special Categories,2004,0,0,0,0
+Pass Passport,Special Categories,2005,0,0,0,0
+Pass Passport,Special Categories,2006,0,0,0,0
+Pass Passport,Special Categories,2007,0,0,0,0
+Pass Passport,Special Categories,2008,0,0,0,0
+Pass Passport,Special Categories,2009,0,0,0,0
+Pass Passport,Special Categories,2010,0,0,0,0
+Pass Passport,Special Categories,2011,0,0,0,0
+Pass Passport,Special Categories,2012,0,0,0,0
+Pass Passport,Special Categories,2013,0,0,0,0
+Pass Passport,Special Categories,2014,0,0,0,0
+Pass Passport,Special Categories,2015,0,0,0,0
+Pass Passport,Special Categories,2016,0,0,0,0
+Pass Passport,Special Categories,2017,0,0,0,0
+Pass Passport,Special Categories,2018,0,0,0,0
+Angola,Central Africa,1996,9,4,5,AGO
+Angola,Central Africa,1997,9,12,-3,AGO
+Angola,Central Africa,1998,24,15,9,AGO
+Angola,Central Africa,1999,11,42,-31,AGO
+Angola,Central Africa,2000,32,36,-4,AGO
+Angola,Central Africa,2001,31,29,2,AGO
+Angola,Central Africa,2002,76,67,9,AGO
+Angola,Central Africa,2003,58,55,3,AGO
+Angola,Central Africa,2004,57,63,-6,AGO
+Angola,Central Africa,2005,140,127,13,AGO
+Angola,Central Africa,2006,62,53,9,AGO
+Angola,Central Africa,2007,89,74,15,AGO
+Angola,Central Africa,2008,91,104,-13,AGO
+Angola,Central Africa,2009,78,69,9,AGO
+Angola,Central Africa,2010,75,61,14,AGO
+Angola,Central Africa,2011,96,87,9,AGO
+Angola,Central Africa,2012,89,93,-4,AGO
+Angola,Central Africa,2013,122,122,0,AGO
+Angola,Central Africa,2014,107,92,15,AGO
+Angola,Central Africa,2015,160,160,0,AGO
+Angola,Central Africa,2016,131,119,12,AGO
+Angola,Central Africa,2017,111,97,14,AGO
+Angola,Central Africa,2018,165,165,0,AGO
+Cameroun,Central Africa,1996,36,35,1,CMR
+Cameroun,Central Africa,1997,40,36,4,CMR
+Cameroun,Central Africa,1998,101,71,30,CMR
+Cameroun,Central Africa,1999,43,54,-11,CMR
+Cameroun,Central Africa,2000,78,42,36,CMR
+Cameroun,Central Africa,2001,86,76,10,CMR
+Cameroun,Central Africa,2002,151,136,15,CMR
+Cameroun,Central Africa,2003,118,94,24,CMR
+Cameroun,Central Africa,2004,119,97,22,CMR
+Cameroun,Central Africa,2005,144,114,30,CMR
+Cameroun,Central Africa,2006,133,105,28,CMR
+Cameroun,Central Africa,2007,180,109,71,CMR
+Cameroun,Central Africa,2008,276,173,103,CMR
+Cameroun,Central Africa,2009,450,356,94,CMR
+Cameroun,Central Africa,2010,402,256,146,CMR
+Cameroun,Central Africa,2011,560,354,206,CMR
+Cameroun,Central Africa,2012,882,380,502,CMR
+Cameroun,Central Africa,2013,873,873,0,CMR
+Cameroun,Central Africa,2014,1585,743,842,CMR
+Cameroun,Central Africa,2015,1361,1192,169,CMR
+Cameroun,Central Africa,2016,584,1296,-712,CMR
+Cameroun,Central Africa,2017,634,1244,-610,CMR
+Cameroun,Central Africa,2018,624,963,-339,CMR
+Central Africa,Central Africa,1996,25,28,-3,CAF
+Central Africa,Central Africa,1997,13,19,-6,CAF
+Central Africa,Central Africa,1998,14,27,-13,CAF
+Central Africa,Central Africa,1999,35,48,-13,CAF
+Central Africa,Central Africa,2000,45,52,-7,CAF
+Central Africa,Central Africa,2001,52,43,9,CAF
+Central Africa,Central Africa,2002,96,99,-3,CAF
+Central Africa,Central Africa,2003,66,64,2,CAF
+Central Africa,Central Africa,2004,58,48,10,CAF
+Central Africa,Central Africa,2005,50,56,-6,CAF
+Central Africa,Central Africa,2006,85,79,6,CAF
+Central Africa,Central Africa,2007,94,78,16,CAF
+Central Africa,Central Africa,2008,96,92,4,CAF
+Central Africa,Central Africa,2009,102,95,7,CAF
+Central Africa,Central Africa,2010,81,87,-6,CAF
+Central Africa,Central Africa,2011,66,67,-1,CAF
+Central Africa,Central Africa,2012,55,52,3,CAF
+Central Africa,Central Africa,2013,66,66,0,CAF
+Central Africa,Central Africa,2014,61,77,-16,CAF
+Central Africa,Central Africa,2015,34,36,-2,CAF
+Central Africa,Central Africa,2016,41,33,8,CAF
+Central Africa,Central Africa,2017,56,60,-4,CAF
+Central Africa,Central Africa,2018,36,36,0,CAF
+Tchad,Central Africa,1996,12,20,-8,TCD
+Tchad,Central Africa,1997,18,21,-3,TCD
+Tchad,Central Africa,1998,36,20,16,TCD
+Tchad,Central Africa,1999,16,15,1,TCD
+Tchad,Central Africa,2000,35,38,-3,TCD
+Tchad,Central Africa,2001,38,40,-2,TCD
+Tchad,Central Africa,2002,101,96,5,TCD
+Tchad,Central Africa,2003,47,55,-8,TCD
+Tchad,Central Africa,2004,74,73,1,TCD
+Tchad,Central Africa,2005,14,18,-4,TCD
+Tchad,Central Africa,2006,18,23,-5,TCD
+Tchad,Central Africa,2007,24,24,0,TCD
+Tchad,Central Africa,2008,40,34,6,TCD
+Tchad,Central Africa,2009,107,106,1,TCD
+Tchad,Central Africa,2010,59,63,-4,TCD
+Tchad,Central Africa,2011,58,62,-4,TCD
+Tchad,Central Africa,2012,41,43,-2,TCD
+Tchad,Central Africa,2013,52,52,0,TCD
+Tchad,Central Africa,2014,46,46,0,TCD
+Tchad,Central Africa,2015,41,40,1,TCD
+Tchad,Central Africa,2016,66,66,0,TCD
+Tchad,Central Africa,2017,78,71,7,TCD
+Tchad,Central Africa,2018,58,63,-5,TCD
+Congo,Central Africa,1996,7,6,1,COD
+Congo,Central Africa,1997,4,5,-1,COD
+Congo,Central Africa,1998,27,34,-7,COD
+Congo,Central Africa,1999,53,48,5,COD
+Congo,Central Africa,2000,91,76,15,COD
+Congo,Central Africa,2001,142,111,31,COD
+Congo,Central Africa,2002,195,199,-4,COD
+Congo,Central Africa,2003,216,175,41,COD
+Congo,Central Africa,2004,225,209,16,COD
+Congo,Central Africa,2005,189,205,-16,COD
+Congo,Central Africa,2006,186,179,7,COD
+Congo,Central Africa,2007,168,185,-17,COD
+Congo,Central Africa,2008,280,253,27,COD
+Congo,Central Africa,2009,500,517,-17,COD
+Congo,Central Africa,2010,319,307,12,COD
+Congo,Central Africa,2011,415,377,38,COD
+Congo,Central Africa,2012,441,463,-22,COD
+Congo,Central Africa,2013,460,460,0,COD
+Congo,Central Africa,2014,373,397,-24,COD
+Congo,Central Africa,2015,728,767,-39,COD
+Congo,Central Africa,2016,519,531,-12,COD
+Congo,Central Africa,2017,509,546,-37,COD
+Congo,Central Africa,2018,557,564,-7,COD
+Euqtorial Guinee,Central Africa,1996,49,90,-41,GNQ
+Euqtorial Guinee,Central Africa,1997,1,3,-2,GNQ
+Euqtorial Guinee,Central Africa,1998,5,18,-13,GNQ
+Euqtorial Guinee,Central Africa,1999,8,21,-13,GNQ
+Euqtorial Guinee,Central Africa,2000,0,0,0,GNQ
+Euqtorial Guinee,Central Africa,2001,2,4,-2,GNQ
+Euqtorial Guinee,Central Africa,2002,25,18,7,GNQ
+Euqtorial Guinee,Central Africa,2003,8,7,1,GNQ
+Euqtorial Guinee,Central Africa,2004,15,8,7,GNQ
+Euqtorial Guinee,Central Africa,2005,9,10,-1,GNQ
+Euqtorial Guinee,Central Africa,2006,15,14,1,GNQ
+Euqtorial Guinee,Central Africa,2007,2,2,0,GNQ
+Euqtorial Guinee,Central Africa,2008,15,9,6,GNQ
+Euqtorial Guinee,Central Africa,2009,21,13,8,GNQ
+Euqtorial Guinee,Central Africa,2010,22,14,8,GNQ
+Euqtorial Guinee,Central Africa,2011,16,9,7,GNQ
+Euqtorial Guinee,Central Africa,2012,8,5,3,GNQ
+Euqtorial Guinee,Central Africa,2013,27,27,0,GNQ
+Euqtorial Guinee,Central Africa,2014,26,25,1,GNQ
+Euqtorial Guinee,Central Africa,2015,26,31,-5,GNQ
+Euqtorial Guinee,Central Africa,2016,88,58,30,GNQ
+Euqtorial Guinee,Central Africa,2017,27,15,12,GNQ
+Euqtorial Guinee,Central Africa,2018,26,15,11,GNQ
+Gabon,Central Africa,1996,28,31,-3,GAB
+Gabon,Central Africa,1997,58,47,11,GAB
+Gabon,Central Africa,1998,130,150,-20,GAB
+Gabon,Central Africa,1999,95,108,-13,GAB
+Gabon,Central Africa,2000,201,189,12,GAB
+Gabon,Central Africa,2001,275,269,6,GAB
+Gabon,Central Africa,2002,326,326,0,GAB
+Gabon,Central Africa,2003,350,328,22,GAB
+Gabon,Central Africa,2004,359,356,3,GAB
+Gabon,Central Africa,2005,565,586,-21,GAB
+Gabon,Central Africa,2006,710,707,3,GAB
+Gabon,Central Africa,2007,887,853,34,GAB
+Gabon,Central Africa,2008,815,817,-2,GAB
+Gabon,Central Africa,2009,737,759,-22,GAB
+Gabon,Central Africa,2010,625,654,-29,GAB
+Gabon,Central Africa,2011,633,599,34,GAB
+Gabon,Central Africa,2012,488,523,-35,GAB
+Gabon,Central Africa,2013,516,516,0,GAB
+Gabon,Central Africa,2014,454,448,6,GAB
+Gabon,Central Africa,2015,401,375,26,GAB
+Gabon,Central Africa,2016,422,409,13,GAB
+Gabon,Central Africa,2017,366,382,-16,GAB
+Gabon,Central Africa,2018,335,328,7,GAB
+Saw Tomey & Priceps,Central Africa,1996,0,0,0,0
+Saw Tomey & Priceps,Central Africa,1997,0,0,0,0
+Saw Tomey & Priceps,Central Africa,1998,0,0,0,0
+Saw Tomey & Priceps,Central Africa,1999,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2000,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2001,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2002,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2003,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2004,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2005,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2006,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2007,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2008,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2009,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2010,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2011,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2012,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2013,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2014,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2015,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2016,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2017,0,0,0,0
+Saw Tomey & Priceps,Central Africa,2018,0,0,0,0
+Zaire,Central Africa,1996,67,60,7,0
+Zaire,Central Africa,1997,64,73,-9,0
+Zaire,Central Africa,1998,37,34,3,0
+Zaire,Central Africa,1999,21,34,-13,0
+Zaire,Central Africa,2000,3,14,-11,0
+Zaire,Central Africa,2001,15,7,8,0
+Zaire,Central Africa,2002,0,1,-1,0
+Zaire,Central Africa,2003,0,2,-2,0
+Zaire,Central Africa,2004,1,5,-4,0
+Zaire,Central Africa,2005,0,1,-1,0
+Zaire,Central Africa,2006,0,0,0,0
+Zaire,Central Africa,2007,0,0,0,0
+Zaire,Central Africa,2008,0,0,0,0
+Zaire,Central Africa,2009,0,0,0,0
+Zaire,Central Africa,2010,0,0,0,0
+Zaire,Central Africa,2011,0,1,-1,0
+Zaire,Central Africa,2012,0,0,0,0
+Zaire,Central Africa,2013,0,0,0,0
+Zaire,Central Africa,2014,0,0,0,0
+Zaire,Central Africa,2015,0,0,0,0
+Zaire,Central Africa,2016,0,0,0,0
+Zaire,Central Africa,2017,0,0,0,0
+Zaire,Central Africa,2018,9,2,7,0
+Burundi,East Africa,1996,0,0,0,BDI
+Burundi,East Africa,1997,0,0,0,BDI
+Burundi,East Africa,1998,0,1,-1,BDI
+Burundi,East Africa,1999,2,2,0,BDI
+Burundi,East Africa,2000,2,0,2,BDI
+Burundi,East Africa,2001,3,3,0,BDI
+Burundi,East Africa,2002,28,27,1,BDI
+Burundi,East Africa,2003,8,8,0,BDI
+Burundi,East Africa,2004,20,18,2,BDI
+Burundi,East Africa,2005,4,2,2,BDI
+Burundi,East Africa,2006,5,3,2,BDI
+Burundi,East Africa,2007,3,2,1,BDI
+Burundi,East Africa,2008,13,10,3,BDI
+Burundi,East Africa,2009,26,31,-5,BDI
+Burundi,East Africa,2010,2,2,0,BDI
+Burundi,East Africa,2011,18,12,6,BDI
+Burundi,East Africa,2012,20,13,7,BDI
+Burundi,East Africa,2013,44,44,0,BDI
+Burundi,East Africa,2014,18,11,7,BDI
+Burundi,East Africa,2015,31,33,-2,BDI
+Burundi,East Africa,2016,65,48,17,BDI
+Burundi,East Africa,2017,58,51,7,BDI
+Burundi,East Africa,2018,61,47,14,BDI
+Comoros,East Africa,1996,35,3,32,COM
+Comoros,East Africa,1997,5,113,-108,COM
+Comoros,East Africa,1998,6,1,5,COM
+Comoros,East Africa,1999,9,9,0,COM
+Comoros,East Africa,2000,4,6,-2,COM
+Comoros,East Africa,2001,5,4,1,COM
+Comoros,East Africa,2002,28,29,-1,COM
+Comoros,East Africa,2003,12,13,-1,COM
+Comoros,East Africa,2004,5,5,0,COM
+Comoros,East Africa,2005,8,10,-2,COM
+Comoros,East Africa,2006,5,4,1,COM
+Comoros,East Africa,2007,6,6,0,COM
+Comoros,East Africa,2008,15,11,4,COM
+Comoros,East Africa,2009,60,54,6,COM
+Comoros,East Africa,2010,95,80,15,COM
+Comoros,East Africa,2011,186,176,10,COM
+Comoros,East Africa,2012,171,171,0,COM
+Comoros,East Africa,2013,81,81,0,COM
+Comoros,East Africa,2014,81,77,4,COM
+Comoros,East Africa,2015,141,127,14,COM
+Comoros,East Africa,2016,101,103,-2,COM
+Comoros,East Africa,2017,97,100,-3,COM
+Comoros,East Africa,2018,100,58,42,COM
+Ethiopia,East Africa,1996,784,313,471,ETH
+Ethiopia,East Africa,1997,2364,1096,1268,ETH
+Ethiopia,East Africa,1998,6564,2370,4194,ETH
+Ethiopia,East Africa,1999,8907,3740,5167,ETH
+Ethiopia,East Africa,2000,3242,4375,-1133,ETH
+Ethiopia,East Africa,2001,4666,6176,-1510,ETH
+Ethiopia,East Africa,2002,8976,7860,1116,ETH
+Ethiopia,East Africa,2003,12169,7071,5098,ETH
+Ethiopia,East Africa,2004,8082,7561,521,ETH
+Ethiopia,East Africa,2005,3459,7521,-4062,ETH
+Ethiopia,East Africa,2006,11230,10755,475,ETH
+Ethiopia,East Africa,2007,34312,9215,25097,ETH
+Ethiopia,East Africa,2008,15198,11594,3604,ETH
+Ethiopia,East Africa,2009,18031,20102,-2071,ETH
+Ethiopia,East Africa,2010,18676,22052,-3376,ETH
+Ethiopia,East Africa,2011,39158,18356,20802,ETH
+Ethiopia,East Africa,2012,39321,21558,17763,ETH
+Ethiopia,East Africa,2013,41223,41223,0,ETH
+Ethiopia,East Africa,2014,23292,34177,-10885,ETH
+Ethiopia,East Africa,2015,57714,38688,19026,ETH
+Ethiopia,East Africa,2016,79140,40981,38159,ETH
+Ethiopia,East Africa,2017,84412,50888,33524,ETH
+Ethiopia,East Africa,2018,80767,66300,14467,ETH
+Kenya,East Africa,1996,78,85,-7,KEN
+Kenya,East Africa,1997,80,63,17,KEN
+Kenya,East Africa,1998,136,139,-3,KEN
+Kenya,East Africa,1999,167,169,-2,KEN
+Kenya,East Africa,2000,127,132,-5,KEN
+Kenya,East Africa,2001,208,197,11,KEN
+Kenya,East Africa,2002,250,246,4,KEN
+Kenya,East Africa,2003,273,276,-3,KEN
+Kenya,East Africa,2004,388,392,-4,KEN
+Kenya,East Africa,2005,234,252,-18,KEN
+Kenya,East Africa,2006,322,295,27,KEN
+Kenya,East Africa,2007,251,247,4,KEN
+Kenya,East Africa,2008,320,300,20,KEN
+Kenya,East Africa,2009,431,425,6,KEN
+Kenya,East Africa,2010,635,452,183,KEN
+Kenya,East Africa,2011,1687,683,1004,KEN
+Kenya,East Africa,2012,1763,1033,730,KEN
+Kenya,East Africa,2013,2872,2872,0,KEN
+Kenya,East Africa,2014,9048,3116,5932,KEN
+Kenya,East Africa,2015,4208,4685,-477,KEN
+Kenya,East Africa,2016,1670,6236,-4566,KEN
+Kenya,East Africa,2017,1921,4029,-2108,KEN
+Kenya,East Africa,2018,2094,2560,-466,KEN
+Madagascar,East Africa,1996,32,10,22,MDG
+Madagascar,East Africa,1997,41,36,5,MDG
+Madagascar,East Africa,1998,86,71,15,MDG
+Madagascar,East Africa,1999,117,86,31,MDG
+Madagascar,East Africa,2000,61,100,-39,MDG
+Madagascar,East Africa,2001,90,149,-59,MDG
+Madagascar,East Africa,2002,92,151,-59,MDG
+Madagascar,East Africa,2003,137,120,17,MDG
+Madagascar,East Africa,2004,120,102,18,MDG
+Madagascar,East Africa,2005,129,123,6,MDG
+Madagascar,East Africa,2006,195,134,61,MDG
+Madagascar,East Africa,2007,891,191,700,MDG
+Madagascar,East Africa,2008,1818,327,1491,MDG
+Madagascar,East Africa,2009,4085,728,3357,MDG
+Madagascar,East Africa,2010,375,1150,-775,MDG
+Madagascar,East Africa,2011,280,1481,-1201,MDG
+Madagascar,East Africa,2012,389,2249,-1860,MDG
+Madagascar,East Africa,2013,728,728,0,MDG
+Madagascar,East Africa,2014,981,679,302,MDG
+Madagascar,East Africa,2015,461,703,-242,MDG
+Madagascar,East Africa,2016,418,704,-286,MDG
+Madagascar,East Africa,2017,494,779,-285,MDG
+Madagascar,East Africa,2018,428,607,-179,MDG
+Malawi,East Africa,1996,0,0,0,MWI
+Malawi,East Africa,1997,0,3,-3,MWI
+Malawi,East Africa,1998,4,7,-3,MWI
+Malawi,East Africa,1999,3,4,-1,MWI
+Malawi,East Africa,2000,3,2,1,MWI
+Malawi,East Africa,2001,8,8,0,MWI
+Malawi,East Africa,2002,6,5,1,MWI
+Malawi,East Africa,2003,7,7,0,MWI
+Malawi,East Africa,2004,18,16,2,MWI
+Malawi,East Africa,2005,36,33,3,MWI
+Malawi,East Africa,2006,51,47,4,MWI
+Malawi,East Africa,2007,75,59,16,MWI
+Malawi,East Africa,2008,86,87,-1,MWI
+Malawi,East Africa,2009,87,83,4,MWI
+Malawi,East Africa,2010,93,97,-4,MWI
+Malawi,East Africa,2011,93,89,4,MWI
+Malawi,East Africa,2012,113,103,10,MWI
+Malawi,East Africa,2013,122,122,0,MWI
+Malawi,East Africa,2014,148,140,8,MWI
+Malawi,East Africa,2015,200,195,5,MWI
+Malawi,East Africa,2016,215,181,34,MWI
+Malawi,East Africa,2017,198,213,-15,MWI
+Malawi,East Africa,2018,173,189,-16,MWI
+Muaritiaus,East Africa,1996,22,34,-12,MUS
+Muaritiaus,East Africa,1997,38,24,14,MUS
+Muaritiaus,East Africa,1998,52,46,6,MUS
+Muaritiaus,East Africa,1999,61,51,10,MUS
+Muaritiaus,East Africa,2000,81,107,-26,MUS
+Muaritiaus,East Africa,2001,69,94,-25,MUS
+Muaritiaus,East Africa,2002,88,108,-20,MUS
+Muaritiaus,East Africa,2003,90,107,-17,MUS
+Muaritiaus,East Africa,2004,69,83,-14,MUS
+Muaritiaus,East Africa,2005,74,81,-7,MUS
+Muaritiaus,East Africa,2006,52,59,-7,MUS
+Muaritiaus,East Africa,2007,63,68,-5,MUS
+Muaritiaus,East Africa,2008,51,56,-5,MUS
+Muaritiaus,East Africa,2009,133,137,-4,MUS
+Muaritiaus,East Africa,2010,87,89,-2,MUS
+Muaritiaus,East Africa,2011,128,121,7,MUS
+Muaritiaus,East Africa,2012,104,111,-7,MUS
+Muaritiaus,East Africa,2013,80,80,0,MUS
+Muaritiaus,East Africa,2014,99,109,-10,MUS
+Muaritiaus,East Africa,2015,101,104,-3,MUS
+Muaritiaus,East Africa,2016,125,124,1,MUS
+Muaritiaus,East Africa,2017,155,174,-19,MUS
+Muaritiaus,East Africa,2018,161,164,-3,MUS
+Rwanda,East Africa,1996,5,5,0,RWA
+Rwanda,East Africa,1997,4,2,2,RWA
+Rwanda,East Africa,1998,0,3,-3,RWA
+Rwanda,East Africa,1999,4,5,-1,RWA
+Rwanda,East Africa,2000,2,0,2,RWA
+Rwanda,East Africa,2001,6,6,0,RWA
+Rwanda,East Africa,2002,24,19,5,RWA
+Rwanda,East Africa,2003,10,12,-2,RWA
+Rwanda,East Africa,2004,19,19,0,RWA
+Rwanda,East Africa,2005,9,12,-3,RWA
+Rwanda,East Africa,2006,15,13,2,RWA
+Rwanda,East Africa,2007,21,20,1,RWA
+Rwanda,East Africa,2008,22,28,-6,RWA
+Rwanda,East Africa,2009,87,86,1,RWA
+Rwanda,East Africa,2010,31,31,0,RWA
+Rwanda,East Africa,2011,35,33,2,RWA
+Rwanda,East Africa,2012,53,48,5,RWA
+Rwanda,East Africa,2013,58,58,0,RWA
+Rwanda,East Africa,2014,42,40,2,RWA
+Rwanda,East Africa,2015,67,69,-2,RWA
+Rwanda,East Africa,2016,77,68,9,RWA
+Rwanda,East Africa,2017,100,90,10,RWA
+Rwanda,East Africa,2018,112,117,-5,RWA
+Seyschells,East Africa,1996,3,1,2,SYC
+Seyschells,East Africa,1997,11,9,2,SYC
+Seyschells,East Africa,1998,11,8,3,SYC
+Seyschells,East Africa,1999,5,4,1,SYC
+Seyschells,East Africa,2000,9,12,-3,SYC
+Seyschells,East Africa,2001,12,14,-2,SYC
+Seyschells,East Africa,2002,19,17,2,SYC
+Seyschells,East Africa,2003,9,19,-10,SYC
+Seyschells,East Africa,2004,31,26,5,SYC
+Seyschells,East Africa,2005,18,21,-3,SYC
+Seyschells,East Africa,2006,18,28,-10,SYC
+Seyschells,East Africa,2007,17,13,4,SYC
+Seyschells,East Africa,2008,28,23,5,SYC
+Seyschells,East Africa,2009,62,67,-5,SYC
+Seyschells,East Africa,2010,48,44,4,SYC
+Seyschells,East Africa,2011,35,38,-3,SYC
+Seyschells,East Africa,2012,37,38,-1,SYC
+Seyschells,East Africa,2013,27,27,0,SYC
+Seyschells,East Africa,2014,24,32,-8,SYC
+Seyschells,East Africa,2015,22,22,0,SYC
+Seyschells,East Africa,2016,32,37,-5,SYC
+Seyschells,East Africa,2017,39,44,-5,SYC
+Seyschells,East Africa,2018,51,55,-4,SYC
+Tanzanie,East Africa,1996,33,16,17,TZA
+Tanzanie,East Africa,1997,22,47,-25,TZA
+Tanzanie,East Africa,1998,19,19,0,TZA
+Tanzanie,East Africa,1999,37,44,-7,TZA
+Tanzanie,East Africa,2000,53,48,5,TZA
+Tanzanie,East Africa,2001,47,46,1,TZA
+Tanzanie,East Africa,2002,47,39,8,TZA
+Tanzanie,East Africa,2003,55,57,-2,TZA
+Tanzanie,East Africa,2004,94,86,8,TZA
+Tanzanie,East Africa,2005,56,60,-4,TZA
+Tanzanie,East Africa,2006,74,69,5,TZA
+Tanzanie,East Africa,2007,209,144,65,TZA
+Tanzanie,East Africa,2008,248,259,-11,TZA
+Tanzanie,East Africa,2009,245,244,1,TZA
+Tanzanie,East Africa,2010,179,184,-5,TZA
+Tanzanie,East Africa,2011,289,223,66,TZA
+Tanzanie,East Africa,2012,315,306,9,TZA
+Tanzanie,East Africa,2013,383,383,0,TZA
+Tanzanie,East Africa,2014,466,458,8,TZA
+Tanzanie,East Africa,2015,370,499,-129,TZA
+Tanzanie,East Africa,2016,535,354,181,TZA
+Tanzanie,East Africa,2017,521,551,-30,TZA
+Tanzanie,East Africa,2018,971,976,-5,TZA
+Uganda,East Africa,1996,1,3,-2,UGA
+Uganda,East Africa,1997,8,21,-13,UGA
+Uganda,East Africa,1998,10,11,-1,UGA
+Uganda,East Africa,1999,18,17,1,UGA
+Uganda,East Africa,2000,15,15,0,UGA
+Uganda,East Africa,2001,20,20,0,UGA
+Uganda,East Africa,2002,13,14,-1,UGA
+Uganda,East Africa,2003,12,12,0,UGA
+Uganda,East Africa,2004,12,11,1,UGA
+Uganda,East Africa,2005,24,23,1,UGA
+Uganda,East Africa,2006,25,21,4,UGA
+Uganda,East Africa,2007,45,30,15,UGA
+Uganda,East Africa,2008,95,92,3,UGA
+Uganda,East Africa,2009,89,97,-8,UGA
+Uganda,East Africa,2010,106,95,11,UGA
+Uganda,East Africa,2011,106,112,-6,UGA
+Uganda,East Africa,2012,100,99,1,UGA
+Uganda,East Africa,2013,206,206,0,UGA
+Uganda,East Africa,2014,301,280,21,UGA
+Uganda,East Africa,2015,395,381,14,UGA
+Uganda,East Africa,2016,424,418,6,UGA
+Uganda,East Africa,2017,464,463,1,UGA
+Uganda,East Africa,2018,529,538,-9,UGA
+Zambia,East Africa,1996,12,0,12,ZMB
+Zambia,East Africa,1997,8,15,-7,ZMB
+Zambia,East Africa,1998,6,4,2,ZMB
+Zambia,East Africa,1999,17,17,0,ZMB
+Zambia,East Africa,2000,14,8,6,ZMB
+Zambia,East Africa,2001,19,15,4,ZMB
+Zambia,East Africa,2002,33,38,-5,ZMB
+Zambia,East Africa,2003,20,17,3,ZMB
+Zambia,East Africa,2004,39,36,3,ZMB
+Zambia,East Africa,2005,36,25,11,ZMB
+Zambia,East Africa,2006,44,35,9,ZMB
+Zambia,East Africa,2007,63,42,21,ZMB
+Zambia,East Africa,2008,76,127,-51,ZMB
+Zambia,East Africa,2009,73,66,7,ZMB
+Zambia,East Africa,2010,76,75,1,ZMB
+Zambia,East Africa,2011,91,94,-3,ZMB
+Zambia,East Africa,2012,96,94,2,ZMB
+Zambia,East Africa,2013,111,111,0,ZMB
+Zambia,East Africa,2014,120,121,-1,ZMB
+Zambia,East Africa,2015,171,179,-8,ZMB
+Zambia,East Africa,2016,238,226,12,ZMB
+Zambia,East Africa,2017,226,222,4,ZMB
+Zambia,East Africa,2018,250,224,26,ZMB
+Botswana,South Africa,1996,0,0,0,BWA
+Botswana,South Africa,1997,0,0,0,BWA
+Botswana,South Africa,1998,0,0,0,BWA
+Botswana,South Africa,1999,0,0,0,BWA
+Botswana,South Africa,2000,0,0,0,BWA
+Botswana,South Africa,2001,87,100,-13,BWA
+Botswana,South Africa,2002,4,5,-1,BWA
+Botswana,South Africa,2003,10,7,3,BWA
+Botswana,South Africa,2004,3,2,1,BWA
+Botswana,South Africa,2005,1,1,0,BWA
+Botswana,South Africa,2006,1,1,0,BWA
+Botswana,South Africa,2007,0,1,-1,BWA
+Botswana,South Africa,2008,4,3,1,BWA
+Botswana,South Africa,2009,5,5,0,BWA
+Botswana,South Africa,2010,2,1,1,BWA
+Botswana,South Africa,2011,1,4,-3,BWA
+Botswana,South Africa,2012,2,2,0,BWA
+Botswana,South Africa,2013,3,3,0,BWA
+Botswana,South Africa,2014,1,1,0,BWA
+Botswana,South Africa,2015,1,3,-2,BWA
+Botswana,South Africa,2016,3,6,-3,BWA
+Botswana,South Africa,2017,8,5,3,BWA
+Botswana,South Africa,2018,10,6,4,BWA
+Lesotho,South Africa,1996,0,0,0,LSO
+Lesotho,South Africa,1997,0,0,0,LSO
+Lesotho,South Africa,1998,0,0,0,LSO
+Lesotho,South Africa,1999,0,0,0,LSO
+Lesotho,South Africa,2000,0,0,0,LSO
+Lesotho,South Africa,2001,2,2,0,LSO
+Lesotho,South Africa,2002,2,2,0,LSO
+Lesotho,South Africa,2003,0,1,-1,LSO
+Lesotho,South Africa,2004,1,1,0,LSO
+Lesotho,South Africa,2005,0,0,0,LSO
+Lesotho,South Africa,2006,1,0,1,LSO
+Lesotho,South Africa,2007,0,0,0,LSO
+Lesotho,South Africa,2008,0,0,0,LSO
+Lesotho,South Africa,2009,7,3,4,LSO
+Lesotho,South Africa,2010,4,3,1,LSO
+Lesotho,South Africa,2011,3,2,1,LSO
+Lesotho,South Africa,2012,2,2,0,LSO
+Lesotho,South Africa,2013,3,3,0,LSO
+Lesotho,South Africa,2014,4,5,-1,LSO
+Lesotho,South Africa,2015,5,6,-1,LSO
+Lesotho,South Africa,2016,3,35,-32,LSO
+Lesotho,South Africa,2017,10,5,5,LSO
+Lesotho,South Africa,2018,6,1,5,LSO
+Mozambique,South Africa,1996,1,0,1,MOZ
+Mozambique,South Africa,1997,0,1,-1,MOZ
+Mozambique,South Africa,1998,1,0,1,MOZ
+Mozambique,South Africa,1999,2,3,-1,MOZ
+Mozambique,South Africa,2000,14,14,0,MOZ
+Mozambique,South Africa,2001,20,17,3,MOZ
+Mozambique,South Africa,2002,41,18,23,MOZ
+Mozambique,South Africa,2003,89,114,-25,MOZ
+Mozambique,South Africa,2004,11,10,1,MOZ
+Mozambique,South Africa,2005,19,18,1,MOZ
+Mozambique,South Africa,2006,75,27,48,MOZ
+Mozambique,South Africa,2007,109,153,-44,MOZ
+Mozambique,South Africa,2008,54,48,6,MOZ
+Mozambique,South Africa,2009,39,43,-4,MOZ
+Mozambique,South Africa,2010,61,57,4,MOZ
+Mozambique,South Africa,2011,97,86,11,MOZ
+Mozambique,South Africa,2012,110,99,11,MOZ
+Mozambique,South Africa,2013,139,139,0,MOZ
+Mozambique,South Africa,2014,185,168,17,MOZ
+Mozambique,South Africa,2015,247,232,15,MOZ
+Mozambique,South Africa,2016,236,212,24,MOZ
+Mozambique,South Africa,2017,266,268,-2,MOZ
+Mozambique,South Africa,2018,287,273,14,MOZ
+Namibia,South Africa,1996,0,0,0,NAM
+Namibia,South Africa,1997,0,0,0,NAM
+Namibia,South Africa,1998,1,3,-2,NAM
+Namibia,South Africa,1999,0,0,0,NAM
+Namibia,South Africa,2000,3,4,-1,NAM
+Namibia,South Africa,2001,2,2,0,NAM
+Namibia,South Africa,2002,12,12,0,NAM
+Namibia,South Africa,2003,9,6,3,NAM
+Namibia,South Africa,2004,12,13,-1,NAM
+Namibia,South Africa,2005,8,5,3,NAM
+Namibia,South Africa,2006,7,12,-5,NAM
+Namibia,South Africa,2007,8,8,0,NAM
+Namibia,South Africa,2008,20,15,5,NAM
+Namibia,South Africa,2009,44,41,3,NAM
+Namibia,South Africa,2010,22,19,3,NAM
+Namibia,South Africa,2011,21,28,-7,NAM
+Namibia,South Africa,2012,19,21,-2,NAM
+Namibia,South Africa,2013,17,17,0,NAM
+Namibia,South Africa,2014,22,24,-2,NAM
+Namibia,South Africa,2015,21,19,2,NAM
+Namibia,South Africa,2016,21,218,-197,NAM
+Namibia,South Africa,2017,10,10,0,NAM
+Namibia,South Africa,2018,24,22,2,NAM
+South Africa,South Africa,1996,300,284,16,ZAF
+South Africa,South Africa,1997,515,548,-33,ZAF
+South Africa,South Africa,1998,545,581,-36,ZAF
+South Africa,South Africa,1999,817,676,141,ZAF
+South Africa,South Africa,2000,770,742,28,ZAF
+South Africa,South Africa,2001,795,816,-21,ZAF
+South Africa,South Africa,2002,883,876,7,ZAF
+South Africa,South Africa,2003,944,985,-41,ZAF
+South Africa,South Africa,2004,1340,1316,24,ZAF
+South Africa,South Africa,2005,1270,1243,27,ZAF
+South Africa,South Africa,2006,1332,1322,10,ZAF
+South Africa,South Africa,2007,1236,1245,-9,ZAF
+South Africa,South Africa,2008,1774,1724,50,ZAF
+South Africa,South Africa,2009,2326,2319,7,ZAF
+South Africa,South Africa,2010,2418,2399,19,ZAF
+South Africa,South Africa,2011,2000,2010,-10,ZAF
+South Africa,South Africa,2012,2139,2187,-48,ZAF
+South Africa,South Africa,2013,1958,1958,0,ZAF
+South Africa,South Africa,2014,1892,1878,14,ZAF
+South Africa,South Africa,2015,2215,2256,-41,ZAF
+South Africa,South Africa,2016,1968,1712,256,ZAF
+South Africa,South Africa,2017,2638,2605,33,ZAF
+South Africa,South Africa,2018,3260,3199,61,ZAF
+Swaziland,South Africa,1996,0,1,-1,0
+Swaziland,South Africa,1997,0,1,-1,0
+Swaziland,South Africa,1998,0,4,-4,0
+Swaziland,South Africa,1999,0,0,0,0
+Swaziland,South Africa,2000,0,0,0,0
+Swaziland,South Africa,2001,0,0,0,0
+Swaziland,South Africa,2002,0,0,0,0
+Swaziland,South Africa,2003,0,0,0,0
+Swaziland,South Africa,2004,0,0,0,0
+Swaziland,South Africa,2005,0,0,0,0
+Swaziland,South Africa,2006,0,0,0,0
+Swaziland,South Africa,2007,0,0,0,0
+Swaziland,South Africa,2008,0,0,0,0
+Swaziland,South Africa,2009,0,0,0,0
+Swaziland,South Africa,2010,5,4,1,0
+Swaziland,South Africa,2011,1,2,-1,0
+Swaziland,South Africa,2012,0,0,0,0
+Swaziland,South Africa,2013,4,4,0,0
+Swaziland,South Africa,2014,0,0,0,0
+Swaziland,South Africa,2015,2,0,2,0
+Swaziland,South Africa,2016,36,39,-3,0
+Swaziland,South Africa,2017,0,0,0,0
+Swaziland,South Africa,2018,3,1,2,0
+Zimbabwe,South Africa,1996,18,14,4,ZWE
+Zimbabwe,South Africa,1997,24,11,13,ZWE
+Zimbabwe,South Africa,1998,106,40,66,ZWE
+Zimbabwe,South Africa,1999,10,10,0,ZWE
+Zimbabwe,South Africa,2000,14,14,0,ZWE
+Zimbabwe,South Africa,2001,23,21,2,ZWE
+Zimbabwe,South Africa,2002,357,250,107,ZWE
+Zimbabwe,South Africa,2003,252,360,-108,ZWE
+Zimbabwe,South Africa,2004,75,73,2,ZWE
+Zimbabwe,South Africa,2005,60,60,0,ZWE
+Zimbabwe,South Africa,2006,43,44,-1,ZWE
+Zimbabwe,South Africa,2007,129,140,-11,ZWE
+Zimbabwe,South Africa,2008,128,65,63,ZWE
+Zimbabwe,South Africa,2009,92,103,-11,ZWE
+Zimbabwe,South Africa,2010,80,72,8,ZWE
+Zimbabwe,South Africa,2011,74,66,8,ZWE
+Zimbabwe,South Africa,2012,95,99,-4,ZWE
+Zimbabwe,South Africa,2013,102,102,0,ZWE
+Zimbabwe,South Africa,2014,144,143,1,ZWE
+Zimbabwe,South Africa,2015,217,208,9,ZWE
+Zimbabwe,South Africa,2016,349,291,58,ZWE
+Zimbabwe,South Africa,2017,378,375,3,ZWE
+Zimbabwe,South Africa,2018,366,373,-7,ZWE
+Benin,South Africa,1996,54,36,18,BEN
+Benin,South Africa,1997,78,35,43,BEN
+Benin,South Africa,1998,144,117,27,BEN
+Benin,South Africa,1999,176,161,15,BEN
+Benin,South Africa,2000,309,260,49,BEN
+Benin,South Africa,2001,344,332,12,BEN
+Benin,South Africa,2002,373,387,-14,BEN
+Benin,South Africa,2003,300,355,-55,BEN
+Benin,South Africa,2004,340,357,-17,BEN
+Benin,South Africa,2005,315,339,-24,BEN
+Benin,South Africa,2006,328,297,31,BEN
+Benin,South Africa,2007,320,296,24,BEN
+Benin,South Africa,2008,357,352,5,BEN
+Benin,South Africa,2009,406,397,9,BEN
+Benin,South Africa,2010,412,434,-22,BEN
+Benin,South Africa,2011,515,512,3,BEN
+Benin,South Africa,2012,422,370,52,BEN
+Benin,South Africa,2013,435,435,0,BEN
+Benin,South Africa,2014,518,433,85,BEN
+Benin,South Africa,2015,578,534,44,BEN
+Benin,South Africa,2016,693,599,94,BEN
+Benin,South Africa,2017,664,546,118,BEN
+Benin,South Africa,2018,731,609,122,BEN
+Borkina Fasso,South Africa,1996,51,48,3,BFA
+Borkina Fasso,South Africa,1997,59,79,-20,BFA
+Borkina Fasso,South Africa,1998,88,112,-24,BFA
+Borkina Fasso,South Africa,1999,98,102,-4,BFA
+Borkina Fasso,South Africa,2000,177,194,-17,BFA
+Borkina Fasso,South Africa,2001,206,204,2,BFA
+Borkina Fasso,South Africa,2002,321,338,-17,BFA
+Borkina Fasso,South Africa,2003,322,319,3,BFA
+Borkina Fasso,South Africa,2004,299,268,31,BFA
+Borkina Fasso,South Africa,2005,300,301,-1,BFA
+Borkina Fasso,South Africa,2006,290,287,3,BFA
+Borkina Fasso,South Africa,2007,268,251,17,BFA
+Borkina Fasso,South Africa,2008,372,362,10,BFA
+Borkina Fasso,South Africa,2009,494,502,-8,BFA
+Borkina Fasso,South Africa,2010,491,398,93,BFA
+Borkina Fasso,South Africa,2011,613,424,189,BFA
+Borkina Fasso,South Africa,2012,566,492,74,BFA
+Borkina Fasso,South Africa,2013,577,577,0,BFA
+Borkina Fasso,South Africa,2014,723,624,99,BFA
+Borkina Fasso,South Africa,2015,508,644,-136,BFA
+Borkina Fasso,South Africa,2016,564,669,-105,BFA
+Borkina Fasso,South Africa,2017,692,742,-50,BFA
+Borkina Fasso,South Africa,2018,686,764,-78,BFA
+Cap Verde,South Africa,1996,0,0,0,CPV
+Cap Verde,South Africa,1997,0,0,0,CPV
+Cap Verde,South Africa,1998,0,0,0,CPV
+Cap Verde,South Africa,1999,0,0,0,CPV
+Cap Verde,South Africa,2000,0,0,0,CPV
+Cap Verde,South Africa,2001,0,0,0,CPV
+Cap Verde,South Africa,2002,0,0,0,CPV
+Cap Verde,South Africa,2003,0,0,0,CPV
+Cap Verde,South Africa,2004,0,0,0,CPV
+Cap Verde,South Africa,2005,0,0,0,CPV
+Cap Verde,South Africa,2006,0,0,0,CPV
+Cap Verde,South Africa,2007,0,0,0,CPV
+Cap Verde,South Africa,2008,0,0,0,CPV
+Cap Verde,South Africa,2009,0,0,0,CPV
+Cap Verde,South Africa,2010,0,0,0,CPV
+Cap Verde,South Africa,2011,0,0,0,CPV
+Cap Verde,South Africa,2012,0,0,0,CPV
+Cap Verde,South Africa,2013,0,0,0,CPV
+Cap Verde,South Africa,2014,0,0,0,CPV
+Cap Verde,South Africa,2015,0,0,0,CPV
+Cap Verde,South Africa,2016,0,0,0,CPV
+Cap Verde,South Africa,2017,0,0,0,CPV
+Cap Verde,South Africa,2018,0,0,0,CPV
+Gambia,South Africa,1996,122,135,-13,GMB
+Gambia,South Africa,1997,66,48,18,GMB
+Gambia,South Africa,1998,81,78,3,GMB
+Gambia,South Africa,1999,80,134,-54,GMB
+Gambia,South Africa,2000,107,128,-21,GMB
+Gambia,South Africa,2001,144,146,-2,GMB
+Gambia,South Africa,2002,106,130,-24,GMB
+Gambia,South Africa,2003,225,108,117,GMB
+Gambia,South Africa,2004,219,219,0,GMB
+Gambia,South Africa,2005,193,211,-18,GMB
+Gambia,South Africa,2006,142,162,-20,GMB
+Gambia,South Africa,2007,193,209,-16,GMB
+Gambia,South Africa,2008,225,210,15,GMB
+Gambia,South Africa,2009,231,233,-2,GMB
+Gambia,South Africa,2010,293,288,5,GMB
+Gambia,South Africa,2011,317,335,-18,GMB
+Gambia,South Africa,2012,358,349,9,GMB
+Gambia,South Africa,2013,421,421,0,GMB
+Gambia,South Africa,2014,492,314,178,GMB
+Gambia,South Africa,2015,412,375,37,GMB
+Gambia,South Africa,2016,809,962,-153,GMB
+Gambia,South Africa,2017,407,495,-88,GMB
+Gambia,South Africa,2018,452,412,40,GMB
+Ghana,South Africa,1996,884,897,-13,GHA
+Ghana,South Africa,1997,968,950,18,GHA
+Ghana,South Africa,1998,986,1048,-62,GHA
+Ghana,South Africa,1999,868,1114,-246,GHA
+Ghana,South Africa,2000,1286,1519,-233,GHA
+Ghana,South Africa,2001,1145,1327,-182,GHA
+Ghana,South Africa,2002,1196,1296,-100,GHA
+Ghana,South Africa,2003,1136,1282,-146,GHA
+Ghana,South Africa,2004,2133,1923,210,GHA
+Ghana,South Africa,2005,3028,3024,4,GHA
+Ghana,South Africa,2006,2405,2394,11,GHA
+Ghana,South Africa,2007,2519,2443,76,GHA
+Ghana,South Africa,2008,2910,2832,78,GHA
+Ghana,South Africa,2009,3187,3157,30,GHA
+Ghana,South Africa,2010,3435,3570,-135,GHA
+Ghana,South Africa,2011,4115,3747,368,GHA
+Ghana,South Africa,2012,3940,3812,128,GHA
+Ghana,South Africa,2013,4002,4002,0,GHA
+Ghana,South Africa,2014,4902,4156,746,GHA
+Ghana,South Africa,2015,4469,3825,644,GHA
+Ghana,South Africa,2016,3973,3505,468,GHA
+Ghana,South Africa,2017,3706,4566,-860,GHA
+Ghana,South Africa,2018,4612,4977,-365,GHA
+Guinea,South Africa,1996,377,372,5,GIN
+Guinea,South Africa,1997,511,401,110,GIN
+Guinea,South Africa,1998,462,444,18,GIN
+Guinea,South Africa,1999,411,453,-42,GIN
+Guinea,South Africa,2000,656,640,16,GIN
+Guinea,South Africa,2001,518,549,-31,GIN
+Guinea,South Africa,2002,449,481,-32,GIN
+Guinea,South Africa,2003,406,433,-27,GIN
+Guinea,South Africa,2004,446,412,34,GIN
+Guinea,South Africa,2005,378,410,-32,GIN
+Guinea,South Africa,2006,427,383,44,GIN
+Guinea,South Africa,2007,543,495,48,GIN
+Guinea,South Africa,2008,663,589,74,GIN
+Guinea,South Africa,2009,529,519,10,GIN
+Guinea,South Africa,2010,574,568,6,GIN
+Guinea,South Africa,2011,627,692,-65,GIN
+Guinea,South Africa,2012,516,558,-42,GIN
+Guinea,South Africa,2013,427,427,0,GIN
+Guinea,South Africa,2014,398,387,11,GIN
+Guinea,South Africa,2015,372,427,-55,GIN
+Guinea,South Africa,2016,304,336,-32,GIN
+Guinea,South Africa,2017,446,429,17,GIN
+Guinea,South Africa,2018,376,428,-52,GIN
+Guinee Bissaw,South Africa,1996,0,0,0,GNB
+Guinee Bissaw,South Africa,1997,0,0,0,GNB
+Guinee Bissaw,South Africa,1998,0,0,0,GNB
+Guinee Bissaw,South Africa,1999,0,0,0,GNB
+Guinee Bissaw,South Africa,2000,0,0,0,GNB
+Guinee Bissaw,South Africa,2001,0,0,0,GNB
+Guinee Bissaw,South Africa,2002,0,0,0,GNB
+Guinee Bissaw,South Africa,2003,0,0,0,GNB
+Guinee Bissaw,South Africa,2004,0,0,0,GNB
+Guinee Bissaw,South Africa,2005,0,0,0,GNB
+Guinee Bissaw,South Africa,2006,0,0,0,GNB
+Guinee Bissaw,South Africa,2007,0,0,0,GNB
+Guinee Bissaw,South Africa,2008,0,0,0,GNB
+Guinee Bissaw,South Africa,2009,0,0,0,GNB
+Guinee Bissaw,South Africa,2010,0,0,0,GNB
+Guinee Bissaw,South Africa,2011,0,0,0,GNB
+Guinee Bissaw,South Africa,2012,0,0,0,GNB
+Guinee Bissaw,South Africa,2013,0,0,0,GNB
+Guinee Bissaw,South Africa,2014,0,0,0,GNB
+Guinee Bissaw,South Africa,2015,0,0,0,GNB
+Guinee Bissaw,South Africa,2016,0,0,0,GNB
+Guinee Bissaw,South Africa,2017,0,0,0,GNB
+Guinee Bissaw,South Africa,2018,0,0,0,GNB
+Ivory Caost,South Africa,1996,356,387,-31,0
+Ivory Caost,South Africa,1997,587,595,-8,0
+Ivory Caost,South Africa,1998,523,525,-2,0
+Ivory Caost,South Africa,1999,522,506,16,0
+Ivory Caost,South Africa,2000,760,747,13,0
+Ivory Caost,South Africa,2001,656,653,3,0
+Ivory Caost,South Africa,2002,758,743,15,0
+Ivory Caost,South Africa,2003,828,954,-126,0
+Ivory Caost,South Africa,2004,1029,988,41,0
+Ivory Caost,South Africa,2005,1011,981,30,0
+Ivory Caost,South Africa,2006,1099,1096,3,0
+Ivory Caost,South Africa,2007,1195,1153,42,0
+Ivory Caost,South Africa,2008,2358,2083,275,0
+Ivory Caost,South Africa,2009,2618,2358,260,0
+Ivory Caost,South Africa,2010,2851,2112,739,0
+Ivory Caost,South Africa,2011,2055,2482,-427,0
+Ivory Caost,South Africa,2012,1847,2067,-220,0
+Ivory Caost,South Africa,2013,1733,1733,0,0
+Ivory Caost,South Africa,2014,1926,2103,-177,0
+Ivory Caost,South Africa,2015,2317,2496,-179,0
+Ivory Caost,South Africa,2016,1916,1978,-62,0
+Ivory Caost,South Africa,2017,2507,2642,-135,0
+Ivory Caost,South Africa,2018,2720,2809,-89,0
+Liberia,South Africa,1996,73,55,18,LBR
+Liberia,South Africa,1997,56,96,-40,LBR
+Liberia,South Africa,1998,83,77,6,LBR
+Liberia,South Africa,1999,122,116,6,LBR
+Liberia,South Africa,2000,129,139,-10,LBR
+Liberia,South Africa,2001,116,129,-13,LBR
+Liberia,South Africa,2002,134,120,14,LBR
+Liberia,South Africa,2003,91,105,-14,LBR
+Liberia,South Africa,2004,111,116,-5,LBR
+Liberia,South Africa,2005,189,189,0,LBR
+Liberia,South Africa,2006,150,170,-20,LBR
+Liberia,South Africa,2007,158,157,1,LBR
+Liberia,South Africa,2008,194,183,11,LBR
+Liberia,South Africa,2009,258,229,29,LBR
+Liberia,South Africa,2010,225,239,-14,LBR
+Liberia,South Africa,2011,213,183,30,LBR
+Liberia,South Africa,2012,224,214,10,LBR
+Liberia,South Africa,2013,246,246,0,LBR
+Liberia,South Africa,2014,214,187,27,LBR
+Liberia,South Africa,2015,193,248,-55,LBR
+Liberia,South Africa,2016,218,229,-11,LBR
+Liberia,South Africa,2017,203,207,-4,LBR
+Liberia,South Africa,2018,245,241,4,LBR
+Mali,South Africa,1996,69,46,23,MLI
+Mali,South Africa,1997,52,56,-4,MLI
+Mali,South Africa,1998,87,61,26,MLI
+Mali,South Africa,1999,55,86,-31,MLI
+Mali,South Africa,2000,89,88,1,MLI
+Mali,South Africa,2001,93,97,-4,MLI
+Mali,South Africa,2002,136,142,-6,MLI
+Mali,South Africa,2003,74,78,-4,MLI
+Mali,South Africa,2004,103,104,-1,MLI
+Mali,South Africa,2005,100,99,1,MLI
+Mali,South Africa,2006,96,99,-3,MLI
+Mali,South Africa,2007,95,88,7,MLI
+Mali,South Africa,2008,224,148,76,MLI
+Mali,South Africa,2009,184,189,-5,MLI
+Mali,South Africa,2010,247,230,17,MLI
+Mali,South Africa,2011,255,235,20,MLI
+Mali,South Africa,2012,291,304,-13,MLI
+Mali,South Africa,2013,193,193,0,MLI
+Mali,South Africa,2014,271,223,48,MLI
+Mali,South Africa,2015,291,278,13,MLI
+Mali,South Africa,2016,248,263,-15,MLI
+Mali,South Africa,2017,206,250,-44,MLI
+Mali,South Africa,2018,242,249,-7,MLI
+Niger,South Africa,1996,12,16,-4,NER
+Niger,South Africa,1997,18,13,5,NER
+Niger,South Africa,1998,11,20,-9,NER
+Niger,South Africa,1999,78,47,31,NER
+Niger,South Africa,2000,44,34,10,NER
+Niger,South Africa,2001,28,41,-13,NER
+Niger,South Africa,2002,65,73,-8,NER
+Niger,South Africa,2003,181,80,101,NER
+Niger,South Africa,2004,148,163,-15,NER
+Niger,South Africa,2005,117,110,7,NER
+Niger,South Africa,2006,94,109,-15,NER
+Niger,South Africa,2007,62,58,4,NER
+Niger,South Africa,2008,126,101,25,NER
+Niger,South Africa,2009,183,186,-3,NER
+Niger,South Africa,2010,140,142,-2,NER
+Niger,South Africa,2011,122,133,-11,NER
+Niger,South Africa,2012,107,111,-4,NER
+Niger,South Africa,2013,113,113,0,NER
+Niger,South Africa,2014,105,103,2,NER
+Niger,South Africa,2015,98,93,5,NER
+Niger,South Africa,2016,442,364,78,NER
+Niger,South Africa,2017,94,80,14,NER
+Niger,South Africa,2018,57,63,-6,NER
+Nigeria,South Africa,1996,1234,1214,20,NGA
+Nigeria,South Africa,1997,1573,1433,140,NGA
+Nigeria,South Africa,1998,1380,1405,-25,NGA
+Nigeria,South Africa,1999,1366,1357,9,NGA
+Nigeria,South Africa,2000,1556,1554,2,NGA
+Nigeria,South Africa,2001,2127,2093,34,NGA
+Nigeria,South Africa,2002,2050,2085,-35,NGA
+Nigeria,South Africa,2003,1621,1723,-102,NGA
+Nigeria,South Africa,2004,1772,1768,4,NGA
+Nigeria,South Africa,2005,1592,1553,39,NGA
+Nigeria,South Africa,2006,1594,1548,46,NGA
+Nigeria,South Africa,2007,1617,1490,127,NGA
+Nigeria,South Africa,2008,2037,1994,43,NGA
+Nigeria,South Africa,2009,2475,2284,191,NGA
+Nigeria,South Africa,2010,2828,2637,191,NGA
+Nigeria,South Africa,2011,2703,2557,146,NGA
+Nigeria,South Africa,2012,2628,2555,73,NGA
+Nigeria,South Africa,2013,2623,2623,0,NGA
+Nigeria,South Africa,2014,2357,2402,-45,NGA
+Nigeria,South Africa,2015,2815,2854,-39,NGA
+Nigeria,South Africa,2016,2561,2605,-44,NGA
+Nigeria,South Africa,2017,2789,2709,80,NGA
+Nigeria,South Africa,2018,3295,3218,77,NGA
+Senegal,South Africa,1996,729,734,-5,SEN
+Senegal,South Africa,1997,907,749,158,SEN
+Senegal,South Africa,1998,953,976,-23,SEN
+Senegal,South Africa,1999,1040,1039,1,SEN
+Senegal,South Africa,2000,1173,1117,56,SEN
+Senegal,South Africa,2001,1222,1234,-12,SEN
+Senegal,South Africa,2002,1308,1395,-87,SEN
+Senegal,South Africa,2003,1286,1385,-99,SEN
+Senegal,South Africa,2004,1478,1548,-70,SEN
+Senegal,South Africa,2005,1399,1388,11,SEN
+Senegal,South Africa,2006,1148,1211,-63,SEN
+Senegal,South Africa,2007,1101,1106,-5,SEN
+Senegal,South Africa,2008,1695,1631,64,SEN
+Senegal,South Africa,2009,1997,1960,37,SEN
+Senegal,South Africa,2010,1796,1752,44,SEN
+Senegal,South Africa,2011,1809,1706,103,SEN
+Senegal,South Africa,2012,1502,1505,-3,SEN
+Senegal,South Africa,2013,1386,1386,0,SEN
+Senegal,South Africa,2014,1635,1565,70,SEN
+Senegal,South Africa,2015,2024,1957,67,SEN
+Senegal,South Africa,2016,1717,1721,-4,SEN
+Senegal,South Africa,2017,1931,1973,-42,SEN
+Senegal,South Africa,2018,1877,1963,-86,SEN
+Sierra Leone,South Africa,1996,0,0,0,SLE
+Sierra Leone,South Africa,1997,0,0,0,SLE
+Sierra Leone,South Africa,1998,0,0,0,SLE
+Sierra Leone,South Africa,1999,0,0,0,SLE
+Sierra Leone,South Africa,2000,0,0,0,SLE
+Sierra Leone,South Africa,2001,0,0,0,SLE
+Sierra Leone,South Africa,2002,0,0,0,SLE
+Sierra Leone,South Africa,2003,0,0,0,SLE
+Sierra Leone,South Africa,2004,0,0,0,SLE
+Sierra Leone,South Africa,2005,0,0,0,SLE
+Sierra Leone,South Africa,2006,0,0,0,SLE
+Sierra Leone,South Africa,2007,0,0,0,SLE
+Sierra Leone,South Africa,2008,0,0,0,SLE
+Sierra Leone,South Africa,2009,0,0,0,SLE
+Sierra Leone,South Africa,2010,0,0,0,SLE
+Sierra Leone,South Africa,2011,0,0,0,SLE
+Sierra Leone,South Africa,2012,0,0,0,SLE
+Sierra Leone,South Africa,2013,0,0,0,SLE
+Sierra Leone,South Africa,2014,0,0,0,SLE
+Sierra Leone,South Africa,2015,0,0,0,SLE
+Sierra Leone,South Africa,2016,0,0,0,SLE
+Sierra Leone,South Africa,2017,0,0,0,SLE
+Sierra Leone,South Africa,2018,0,0,0,SLE
+Togo,South Africa,1996,142,229,-87,TGO
+Togo,South Africa,1997,93,25,68,TGO
+Togo,South Africa,1998,34,71,-37,TGO
+Togo,South Africa,1999,22,49,-27,TGO
+Togo,South Africa,2000,65,67,-2,TGO
+Togo,South Africa,2001,135,87,48,TGO
+Togo,South Africa,2002,217,130,87,TGO
+Togo,South Africa,2003,126,121,5,TGO
+Togo,South Africa,2004,114,152,-38,TGO
+Togo,South Africa,2005,132,158,-26,TGO
+Togo,South Africa,2006,143,159,-16,TGO
+Togo,South Africa,2007,204,153,51,TGO
+Togo,South Africa,2008,274,179,95,TGO
+Togo,South Africa,2009,351,232,119,TGO
+Togo,South Africa,2010,389,265,124,TGO
+Togo,South Africa,2011,587,325,262,TGO
+Togo,South Africa,2012,773,446,327,TGO
+Togo,South Africa,2013,1111,1111,0,TGO
+Togo,South Africa,2014,1036,772,264,TGO
+Togo,South Africa,2015,784,945,-161,TGO
+Togo,South Africa,2016,593,874,-281,TGO
+Togo,South Africa,2017,683,908,-225,TGO
+Togo,South Africa,2018,726,767,-41,TGO
+Antegua and Bermud,Carribbean,1996,3,7,-4,BMU
+Antegua and Bermud,Carribbean,1997,7,6,1,BMU
+Antegua and Bermud,Carribbean,1998,2,1,1,BMU
+Antegua and Bermud,Carribbean,1999,11,10,1,BMU
+Antegua and Bermud,Carribbean,2000,15,19,-4,BMU
+Antegua and Bermud,Carribbean,2001,9,14,-5,BMU
+Antegua and Bermud,Carribbean,2002,28,24,4,BMU
+Antegua and Bermud,Carribbean,2003,25,23,2,BMU
+Antegua and Bermud,Carribbean,2004,19,19,0,BMU
+Antegua and Bermud,Carribbean,2005,19,21,-2,BMU
+Antegua and Bermud,Carribbean,2006,24,24,0,BMU
+Antegua and Bermud,Carribbean,2007,20,21,-1,BMU
+Antegua and Bermud,Carribbean,2008,15,17,-2,BMU
+Antegua and Bermud,Carribbean,2009,61,52,9,BMU
+Antegua and Bermud,Carribbean,2010,60,56,4,BMU
+Antegua and Bermud,Carribbean,2011,41,36,5,BMU
+Antegua and Bermud,Carribbean,2012,27,30,-3,BMU
+Antegua and Bermud,Carribbean,2013,67,67,0,BMU
+Antegua and Bermud,Carribbean,2014,115,121,-6,BMU
+Antegua and Bermud,Carribbean,2015,264,264,0,BMU
+Antegua and Bermud,Carribbean,2016,368,371,-3,BMU
+Antegua and Bermud,Carribbean,2017,442,449,-7,BMU
+Antegua and Bermud,Carribbean,2018,619,609,10,BMU
+Bahamas,Carribbean,1996,0,0,0,BHS
+Bahamas,Carribbean,1997,1,1,0,BHS
+Bahamas,Carribbean,1998,2,2,0,BHS
+Bahamas,Carribbean,1999,2,2,0,BHS
+Bahamas,Carribbean,2000,0,0,0,BHS
+Bahamas,Carribbean,2001,5,4,1,BHS
+Bahamas,Carribbean,2002,8,9,-1,BHS
+Bahamas,Carribbean,2003,2,2,0,BHS
+Bahamas,Carribbean,2004,0,0,0,BHS
+Bahamas,Carribbean,2005,1,1,0,BHS
+Bahamas,Carribbean,2006,2,3,-1,BHS
+Bahamas,Carribbean,2007,1,0,1,BHS
+Bahamas,Carribbean,2008,0,0,0,BHS
+Bahamas,Carribbean,2009,3,2,1,BHS
+Bahamas,Carribbean,2010,3,2,1,BHS
+Bahamas,Carribbean,2011,6,5,1,BHS
+Bahamas,Carribbean,2012,5,5,0,BHS
+Bahamas,Carribbean,2013,3,3,0,BHS
+Bahamas,Carribbean,2014,3,4,-1,BHS
+Bahamas,Carribbean,2015,8,8,0,BHS
+Bahamas,Carribbean,2016,6,7,-1,BHS
+Bahamas,Carribbean,2017,4,4,0,BHS
+Bahamas,Carribbean,2018,6,7,-1,BHS
+Barbedos,Carribbean,1996,18,4,14,BRB
+Barbedos,Carribbean,1997,5,0,5,BRB
+Barbedos,Carribbean,1998,1,3,-2,BRB
+Barbedos,Carribbean,1999,1,0,1,BRB
+Barbedos,Carribbean,2000,1,0,1,BRB
+Barbedos,Carribbean,2001,5,3,2,BRB
+Barbedos,Carribbean,2002,12,6,6,BRB
+Barbedos,Carribbean,2003,16,16,0,BRB
+Barbedos,Carribbean,2004,16,17,-1,BRB
+Barbedos,Carribbean,2005,11,9,2,BRB
+Barbedos,Carribbean,2006,7,8,-1,BRB
+Barbedos,Carribbean,2007,11,8,3,BRB
+Barbedos,Carribbean,2008,14,13,1,BRB
+Barbedos,Carribbean,2009,10,14,-4,BRB
+Barbedos,Carribbean,2010,10,11,-1,BRB
+Barbedos,Carribbean,2011,4,4,0,BRB
+Barbedos,Carribbean,2012,12,14,-2,BRB
+Barbedos,Carribbean,2013,6,6,0,BRB
+Barbedos,Carribbean,2014,7,10,-3,BRB
+Barbedos,Carribbean,2015,14,16,-2,BRB
+Barbedos,Carribbean,2016,8,7,1,BRB
+Barbedos,Carribbean,2017,25,26,-1,BRB
+Barbedos,Carribbean,2018,31,44,-13,BRB
+Cuba,Carribbean,1996,163,148,15,CUB
+Cuba,Carribbean,1997,98,75,23,CUB
+Cuba,Carribbean,1998,150,133,17,CUB
+Cuba,Carribbean,1999,150,128,22,CUB
+Cuba,Carribbean,2000,164,174,-10,CUB
+Cuba,Carribbean,2001,168,155,13,CUB
+Cuba,Carribbean,2002,179,185,-6,CUB
+Cuba,Carribbean,2003,243,249,-6,CUB
+Cuba,Carribbean,2004,230,224,6,CUB
+Cuba,Carribbean,2005,278,278,0,CUB
+Cuba,Carribbean,2006,144,156,-12,CUB
+Cuba,Carribbean,2007,194,195,-1,CUB
+Cuba,Carribbean,2008,204,184,20,CUB
+Cuba,Carribbean,2009,209,202,7,CUB
+Cuba,Carribbean,2010,167,163,4,CUB
+Cuba,Carribbean,2011,133,141,-8,CUB
+Cuba,Carribbean,2012,138,148,-10,CUB
+Cuba,Carribbean,2013,140,140,0,CUB
+Cuba,Carribbean,2014,132,122,10,CUB
+Cuba,Carribbean,2015,144,151,-7,CUB
+Cuba,Carribbean,2016,190,184,6,CUB
+Cuba,Carribbean,2017,231,216,15,CUB
+Cuba,Carribbean,2018,249,241,8,CUB
+Dominca,Carribbean,1996,27,22,5,DMA
+Dominca,Carribbean,1997,24,17,7,DMA
+Dominca,Carribbean,1998,6,1,5,DMA
+Dominca,Carribbean,1999,53,63,-10,DMA
+Dominca,Carribbean,2000,76,103,-27,DMA
+Dominca,Carribbean,2001,90,79,11,DMA
+Dominca,Carribbean,2002,32,34,-2,DMA
+Dominca,Carribbean,2003,0,0,0,DMA
+Dominca,Carribbean,2004,0,0,0,DMA
+Dominca,Carribbean,2005,0,0,0,DMA
+Dominca,Carribbean,2006,0,0,0,DMA
+Dominca,Carribbean,2007,0,0,0,DMA
+Dominca,Carribbean,2008,0,0,0,DMA
+Dominca,Carribbean,2009,0,0,0,DMA
+Dominca,Carribbean,2010,0,0,0,DMA
+Dominca,Carribbean,2011,0,0,0,DMA
+Dominca,Carribbean,2012,0,0,0,DMA
+Dominca,Carribbean,2013,0,0,0,DMA
+Dominca,Carribbean,2014,0,0,0,DMA
+Dominca,Carribbean,2015,0,0,0,DMA
+Dominca,Carribbean,2016,0,0,0,DMA
+Dominca,Carribbean,2017,0,0,0,DMA
+Dominca,Carribbean,2018,0,0,0,DMA
+Dominica,Carribbean,1996,38,44,-6,0
+Dominica,Carribbean,1997,70,79,-9,0
+Dominica,Carribbean,1998,72,61,11,0
+Dominica,Carribbean,1999,37,40,-3,0
+Dominica,Carribbean,2000,56,33,23,0
+Dominica,Carribbean,2001,21,39,-18,0
+Dominica,Carribbean,2002,47,44,3,0
+Dominica,Carribbean,2003,118,122,-4,0
+Dominica,Carribbean,2004,241,240,1,0
+Dominica,Carribbean,2005,173,172,1,0
+Dominica,Carribbean,2006,120,117,3,0
+Dominica,Carribbean,2007,75,60,15,0
+Dominica,Carribbean,2008,151,116,35,0
+Dominica,Carribbean,2009,236,234,2,0
+Dominica,Carribbean,2010,335,319,16,0
+Dominica,Carribbean,2011,414,413,1,0
+Dominica,Carribbean,2012,354,332,22,0
+Dominica,Carribbean,2013,431,431,0,0
+Dominica,Carribbean,2014,333,340,-7,0
+Dominica,Carribbean,2015,386,416,-30,0
+Dominica,Carribbean,2016,383,407,-24,0
+Dominica,Carribbean,2017,533,554,-21,0
+Dominica,Carribbean,2018,550,567,-17,0
+Granada,Carribbean,1996,3,12,-9,0
+Granada,Carribbean,1997,0,1,-1,0
+Granada,Carribbean,1998,1,3,-2,0
+Granada,Carribbean,1999,3,1,2,0
+Granada,Carribbean,2000,7,4,3,0
+Granada,Carribbean,2001,10,9,1,0
+Granada,Carribbean,2002,12,12,0,0
+Granada,Carribbean,2003,15,14,1,0
+Granada,Carribbean,2004,18,17,1,0
+Granada,Carribbean,2005,13,14,-1,0
+Granada,Carribbean,2006,6,7,-1,0
+Granada,Carribbean,2007,14,14,0,0
+Granada,Carribbean,2008,2,3,-1,0
+Granada,Carribbean,2009,27,23,4,0
+Granada,Carribbean,2010,18,16,2,0
+Granada,Carribbean,2011,14,17,-3,0
+Granada,Carribbean,2012,17,15,2,0
+Granada,Carribbean,2013,17,17,0,0
+Granada,Carribbean,2014,19,25,-6,0
+Granada,Carribbean,2015,18,21,-3,0
+Granada,Carribbean,2016,26,23,3,0
+Granada,Carribbean,2017,28,27,1,0
+Granada,Carribbean,2018,44,51,-7,0
+Haiti,Carribbean,1996,11,9,2,HTI
+Haiti,Carribbean,1997,36,36,0,HTI
+Haiti,Carribbean,1998,41,28,13,HTI
+Haiti,Carribbean,1999,29,27,2,HTI
+Haiti,Carribbean,2000,47,49,-2,HTI
+Haiti,Carribbean,2001,38,34,4,HTI
+Haiti,Carribbean,2002,49,50,-1,HTI
+Haiti,Carribbean,2003,33,28,5,HTI
+Haiti,Carribbean,2004,45,47,-2,HTI
+Haiti,Carribbean,2005,26,27,-1,HTI
+Haiti,Carribbean,2006,22,24,-2,HTI
+Haiti,Carribbean,2007,36,32,4,HTI
+Haiti,Carribbean,2008,50,49,1,HTI
+Haiti,Carribbean,2009,63,55,8,HTI
+Haiti,Carribbean,2010,55,53,2,HTI
+Haiti,Carribbean,2011,31,30,1,HTI
+Haiti,Carribbean,2012,36,39,-3,HTI
+Haiti,Carribbean,2013,28,28,0,HTI
+Haiti,Carribbean,2014,41,42,-1,HTI
+Haiti,Carribbean,2015,38,39,-1,HTI
+Haiti,Carribbean,2016,49,45,4,HTI
+Haiti,Carribbean,2017,42,42,0,HTI
+Haiti,Carribbean,2018,66,65,1,HTI
+Jamaica,Carribbean,1996,28,28,0,JAM
+Jamaica,Carribbean,1997,26,27,-1,JAM
+Jamaica,Carribbean,1998,38,33,5,JAM
+Jamaica,Carribbean,1999,30,28,2,JAM
+Jamaica,Carribbean,2000,36,31,5,JAM
+Jamaica,Carribbean,2001,36,44,-8,JAM
+Jamaica,Carribbean,2002,40,39,1,JAM
+Jamaica,Carribbean,2003,54,51,3,JAM
+Jamaica,Carribbean,2004,64,57,7,JAM
+Jamaica,Carribbean,2005,46,47,-1,JAM
+Jamaica,Carribbean,2006,30,34,-4,JAM
+Jamaica,Carribbean,2007,64,61,3,JAM
+Jamaica,Carribbean,2008,53,59,-6,JAM
+Jamaica,Carribbean,2009,69,70,-1,JAM
+Jamaica,Carribbean,2010,57,61,-4,JAM
+Jamaica,Carribbean,2011,37,40,-3,JAM
+Jamaica,Carribbean,2012,57,51,6,JAM
+Jamaica,Carribbean,2013,25,25,0,JAM
+Jamaica,Carribbean,2014,20,23,-3,JAM
+Jamaica,Carribbean,2015,24,27,-3,JAM
+Jamaica,Carribbean,2016,31,27,4,JAM
+Jamaica,Carribbean,2017,40,42,-2,JAM
+Jamaica,Carribbean,2018,42,43,-1,JAM
+Porto-Rico,Carribbean,1996,0,0,0,PRI
+Porto-Rico,Carribbean,1997,2,6,-4,PRI
+Porto-Rico,Carribbean,1998,1,7,-6,PRI
+Porto-Rico,Carribbean,1999,0,4,-4,PRI
+Porto-Rico,Carribbean,2000,1,0,1,PRI
+Porto-Rico,Carribbean,2001,1,2,-1,PRI
+Porto-Rico,Carribbean,2002,0,0,0,PRI
+Porto-Rico,Carribbean,2003,2,1,1,PRI
+Porto-Rico,Carribbean,2004,0,0,0,PRI
+Porto-Rico,Carribbean,2005,1,0,1,PRI
+Porto-Rico,Carribbean,2006,1,1,0,PRI
+Porto-Rico,Carribbean,2007,1,3,-2,PRI
+Porto-Rico,Carribbean,2008,1,0,1,PRI
+Porto-Rico,Carribbean,2009,0,0,0,PRI
+Porto-Rico,Carribbean,2010,1,0,1,PRI
+Porto-Rico,Carribbean,2011,0,2,-2,PRI
+Porto-Rico,Carribbean,2012,1,1,0,PRI
+Porto-Rico,Carribbean,2013,1,1,0,PRI
+Porto-Rico,Carribbean,2014,0,2,-2,PRI
+Porto-Rico,Carribbean,2015,0,0,0,PRI
+Porto-Rico,Carribbean,2016,1,0,1,PRI
+Porto-Rico,Carribbean,2017,0,0,0,PRI
+Porto-Rico,Carribbean,2018,0,8,-8,PRI
+Saint Kits& Nefts,Carribbean,1996,0,0,0,0
+Saint Kits& Nefts,Carribbean,1997,0,0,0,0
+Saint Kits& Nefts,Carribbean,1998,0,0,0,0
+Saint Kits& Nefts,Carribbean,1999,0,0,0,0
+Saint Kits& Nefts,Carribbean,2000,0,0,0,0
+Saint Kits& Nefts,Carribbean,2001,0,0,0,0
+Saint Kits& Nefts,Carribbean,2002,0,0,0,0
+Saint Kits& Nefts,Carribbean,2003,0,0,0,0
+Saint Kits& Nefts,Carribbean,2004,0,0,0,0
+Saint Kits& Nefts,Carribbean,2005,0,0,0,0
+Saint Kits& Nefts,Carribbean,2006,0,0,0,0
+Saint Kits& Nefts,Carribbean,2007,0,0,0,0
+Saint Kits& Nefts,Carribbean,2008,0,0,0,0
+Saint Kits& Nefts,Carribbean,2009,0,0,0,0
+Saint Kits& Nefts,Carribbean,2010,0,0,0,0
+Saint Kits& Nefts,Carribbean,2011,0,0,0,0
+Saint Kits& Nefts,Carribbean,2012,0,0,0,0
+Saint Kits& Nefts,Carribbean,2013,0,0,0,0
+Saint Kits& Nefts,Carribbean,2014,0,0,0,0
+Saint Kits& Nefts,Carribbean,2015,0,0,0,0
+Saint Kits& Nefts,Carribbean,2016,0,0,0,0
+Saint Kits& Nefts,Carribbean,2017,0,0,0,0
+Saint Kits& Nefts,Carribbean,2018,0,0,0,0
+??? ?????,Carribbean,1996,0,0,0,0
+??? ?????,Carribbean,1997,0,0,0,0
+??? ?????,Carribbean,1998,0,0,0,0
+??? ?????,Carribbean,1999,0,0,0,0
+??? ?????,Carribbean,2000,0,0,0,0
+??? ?????,Carribbean,2001,0,0,0,0
+??? ?????,Carribbean,2002,0,0,0,0
+??? ?????,Carribbean,2003,0,0,0,0
+??? ?????,Carribbean,2004,0,0,0,0
+??? ?????,Carribbean,2005,0,0,0,0
+??? ?????,Carribbean,2006,0,0,0,0
+??? ?????,Carribbean,2007,0,0,0,0
+??? ?????,Carribbean,2008,0,0,0,0
+??? ?????,Carribbean,2009,0,0,0,0
+??? ?????,Carribbean,2010,0,0,0,0
+??? ?????,Carribbean,2011,0,0,0,0
+??? ?????,Carribbean,2012,0,0,0,0
+??? ?????,Carribbean,2013,0,0,0,0
+??? ?????,Carribbean,2014,0,0,0,0
+??? ?????,Carribbean,2015,0,0,0,0
+??? ?????,Carribbean,2016,0,0,0,0
+??? ?????,Carribbean,2017,0,0,0,0
+??? ?????,Carribbean,2018,0,0,0,0
+Saint-Vincent Grenadine,Carribbean,1996,0,0,0,VCT
+Saint-Vincent Grenadine,Carribbean,1997,0,0,0,VCT
+Saint-Vincent Grenadine,Carribbean,1998,94,101,-7,VCT
+Saint-Vincent Grenadine,Carribbean,1999,0,0,0,VCT
+Saint-Vincent Grenadine,Carribbean,2000,6,7,-1,VCT
+Saint-Vincent Grenadine,Carribbean,2001,5,5,0,VCT
+Saint-Vincent Grenadine,Carribbean,2002,12,6,6,VCT
+Saint-Vincent Grenadine,Carribbean,2003,15,16,-1,VCT
+Saint-Vincent Grenadine,Carribbean,2004,17,23,-6,VCT
+Saint-Vincent Grenadine,Carribbean,2005,10,7,3,VCT
+Saint-Vincent Grenadine,Carribbean,2006,6,3,3,VCT
+Saint-Vincent Grenadine,Carribbean,2007,15,18,-3,VCT
+Saint-Vincent Grenadine,Carribbean,2008,34,36,-2,VCT
+Saint-Vincent Grenadine,Carribbean,2009,34,25,9,VCT
+Saint-Vincent Grenadine,Carribbean,2010,37,38,-1,VCT
+Saint-Vincent Grenadine,Carribbean,2011,29,24,5,VCT
+Saint-Vincent Grenadine,Carribbean,2012,41,30,11,VCT
+Saint-Vincent Grenadine,Carribbean,2013,15,15,0,VCT
+Saint-Vincent Grenadine,Carribbean,2014,26,29,-3,VCT
+Saint-Vincent Grenadine,Carribbean,2015,15,13,2,VCT
+Saint-Vincent Grenadine,Carribbean,2016,26,28,-2,VCT
+Saint-Vincent Grenadine,Carribbean,2017,14,11,3,VCT
+Saint-Vincent Grenadine,Carribbean,2018,37,34,3,VCT
+Belize,Central America,1996,53,45,8,BLZ
+Belize,Central America,1997,25,35,-10,BLZ
+Belize,Central America,1998,59,53,6,BLZ
+Belize,Central America,1999,57,69,-12,BLZ
+Belize,Central America,2000,98,105,-7,BLZ
+Belize,Central America,2001,135,120,15,BLZ
+Belize,Central America,2002,186,182,4,BLZ
+Belize,Central America,2003,231,218,13,BLZ
+Belize,Central America,2004,209,203,6,BLZ
+Belize,Central America,2005,165,154,11,BLZ
+Belize,Central America,2006,158,165,-7,BLZ
+Belize,Central America,2007,164,143,21,BLZ
+Belize,Central America,2008,176,174,2,BLZ
+Belize,Central America,2009,218,221,-3,BLZ
+Belize,Central America,2010,261,238,23,BLZ
+Belize,Central America,2011,219,218,1,BLZ
+Belize,Central America,2012,217,231,-14,BLZ
+Belize,Central America,2013,237,237,0,BLZ
+Belize,Central America,2014,202,205,-3,BLZ
+Belize,Central America,2015,253,258,-5,BLZ
+Belize,Central America,2016,280,279,1,BLZ
+Belize,Central America,2017,288,287,1,BLZ
+Belize,Central America,2018,295,280,15,BLZ
+Costarica,Central America,1996,40,37,3,CRI
+Costarica,Central America,1997,44,66,-22,CRI
+Costarica,Central America,1998,35,50,-15,CRI
+Costarica,Central America,1999,76,70,6,CRI
+Costarica,Central America,2000,61,60,1,CRI
+Costarica,Central America,2001,49,55,-6,CRI
+Costarica,Central America,2002,91,79,12,CRI
+Costarica,Central America,2003,75,78,-3,CRI
+Costarica,Central America,2004,126,123,3,CRI
+Costarica,Central America,2005,80,81,-1,CRI
+Costarica,Central America,2006,56,54,2,CRI
+Costarica,Central America,2007,44,37,7,CRI
+Costarica,Central America,2008,76,81,-5,CRI
+Costarica,Central America,2009,119,111,8,CRI
+Costarica,Central America,2010,247,263,-16,CRI
+Costarica,Central America,2011,93,91,2,CRI
+Costarica,Central America,2012,93,91,2,CRI
+Costarica,Central America,2013,76,76,0,CRI
+Costarica,Central America,2014,142,139,3,CRI
+Costarica,Central America,2015,145,147,-2,CRI
+Costarica,Central America,2016,206,206,0,CRI
+Costarica,Central America,2017,255,246,9,CRI
+Costarica,Central America,2018,251,238,13,CRI
+Salvadore,Central America,1996,10,8,2,SLV
+Salvadore,Central America,1997,8,14,-6,SLV
+Salvadore,Central America,1998,26,21,5,SLV
+Salvadore,Central America,1999,23,11,12,SLV
+Salvadore,Central America,2000,23,28,-5,SLV
+Salvadore,Central America,2001,21,18,3,SLV
+Salvadore,Central America,2002,11,12,-1,SLV
+Salvadore,Central America,2003,14,13,1,SLV
+Salvadore,Central America,2004,51,52,-1,SLV
+Salvadore,Central America,2005,12,11,1,SLV
+Salvadore,Central America,2006,15,16,-1,SLV
+Salvadore,Central America,2007,21,21,0,SLV
+Salvadore,Central America,2008,31,32,-1,SLV
+Salvadore,Central America,2009,132,145,-13,SLV
+Salvadore,Central America,2010,109,154,-45,SLV
+Salvadore,Central America,2011,62,107,-45,SLV
+Salvadore,Central America,2012,64,93,-29,SLV
+Salvadore,Central America,2013,36,36,0,SLV
+Salvadore,Central America,2014,63,27,36,SLV
+Salvadore,Central America,2015,34,33,1,SLV
+Salvadore,Central America,2016,81,28,53,SLV
+Salvadore,Central America,2017,28,38,-10,SLV
+Salvadore,Central America,2018,89,81,8,SLV
+Guatemala,Central America,1996,24,27,-3,GTM
+Guatemala,Central America,1997,76,82,-6,GTM
+Guatemala,Central America,1998,33,43,-10,GTM
+Guatemala,Central America,1999,19,23,-4,GTM
+Guatemala,Central America,2000,25,22,3,GTM
+Guatemala,Central America,2001,33,31,2,GTM
+Guatemala,Central America,2002,47,48,-1,GTM
+Guatemala,Central America,2003,30,32,-2,GTM
+Guatemala,Central America,2004,52,53,-1,GTM
+Guatemala,Central America,2005,50,39,11,GTM
+Guatemala,Central America,2006,29,39,-10,GTM
+Guatemala,Central America,2007,59,42,17,GTM
+Guatemala,Central America,2008,69,79,-10,GTM
+Guatemala,Central America,2009,129,119,10,GTM
+Guatemala,Central America,2010,150,150,0,GTM
+Guatemala,Central America,2011,72,66,6,GTM
+Guatemala,Central America,2012,60,58,2,GTM
+Guatemala,Central America,2013,133,133,0,GTM
+Guatemala,Central America,2014,116,88,28,GTM
+Guatemala,Central America,2015,119,132,-13,GTM
+Guatemala,Central America,2016,126,124,2,GTM
+Guatemala,Central America,2017,137,135,2,GTM
+Guatemala,Central America,2018,124,119,5,GTM
+Honduras,Central America,1996,13,10,3,HND
+Honduras,Central America,1997,62,51,11,HND
+Honduras,Central America,1998,14,16,-2,HND
+Honduras,Central America,1999,24,24,0,HND
+Honduras,Central America,2000,48,52,-4,HND
+Honduras,Central America,2001,38,39,-1,HND
+Honduras,Central America,2002,40,34,6,HND
+Honduras,Central America,2003,24,30,-6,HND
+Honduras,Central America,2004,31,20,11,HND
+Honduras,Central America,2005,47,50,-3,HND
+Honduras,Central America,2006,38,29,9,HND
+Honduras,Central America,2007,19,23,-4,HND
+Honduras,Central America,2008,38,40,-2,HND
+Honduras,Central America,2009,31,27,4,HND
+Honduras,Central America,2010,59,54,5,HND
+Honduras,Central America,2011,42,40,2,HND
+Honduras,Central America,2012,36,35,1,HND
+Honduras,Central America,2013,58,58,0,HND
+Honduras,Central America,2014,29,33,-4,HND
+Honduras,Central America,2015,121,111,10,HND
+Honduras,Central America,2016,78,75,3,HND
+Honduras,Central America,2017,55,46,9,HND
+Honduras,Central America,2018,61,49,12,HND
+Nicaragua,Central America,1996,10,19,-9,NIC
+Nicaragua,Central America,1997,8,6,2,NIC
+Nicaragua,Central America,1998,12,5,7,NIC
+Nicaragua,Central America,1999,12,16,-4,NIC
+Nicaragua,Central America,2000,12,7,5,NIC
+Nicaragua,Central America,2001,21,16,5,NIC
+Nicaragua,Central America,2002,18,20,-2,NIC
+Nicaragua,Central America,2003,54,54,0,NIC
+Nicaragua,Central America,2004,67,60,7,NIC
+Nicaragua,Central America,2005,29,35,-6,NIC
+Nicaragua,Central America,2006,17,16,1,NIC
+Nicaragua,Central America,2007,20,21,-1,NIC
+Nicaragua,Central America,2008,21,21,0,NIC
+Nicaragua,Central America,2009,32,37,-5,NIC
+Nicaragua,Central America,2010,21,19,2,NIC
+Nicaragua,Central America,2011,25,23,2,NIC
+Nicaragua,Central America,2012,16,20,-4,NIC
+Nicaragua,Central America,2013,19,19,0,NIC
+Nicaragua,Central America,2014,32,31,1,NIC
+Nicaragua,Central America,2015,24,27,-3,NIC
+Nicaragua,Central America,2016,38,40,-2,NIC
+Nicaragua,Central America,2017,33,28,5,NIC
+Nicaragua,Central America,2018,19,18,1,NIC
+Panama,Central America,1996,114,94,20,PAN
+Panama,Central America,1997,70,57,13,PAN
+Panama,Central America,1998,138,112,26,PAN
+Panama,Central America,1999,157,146,11,PAN
+Panama,Central America,2000,167,165,2,PAN
+Panama,Central America,2001,216,198,18,PAN
+Panama,Central America,2002,222,217,5,PAN
+Panama,Central America,2003,269,236,33,PAN
+Panama,Central America,2004,314,303,11,PAN
+Panama,Central America,2005,307,282,25,PAN
+Panama,Central America,2006,340,356,-16,PAN
+Panama,Central America,2007,155,148,7,PAN
+Panama,Central America,2008,411,412,-1,PAN
+Panama,Central America,2009,625,540,85,PAN
+Panama,Central America,2010,553,566,-13,PAN
+Panama,Central America,2011,582,559,23,PAN
+Panama,Central America,2012,578,586,-8,PAN
+Panama,Central America,2013,446,446,0,PAN
+Panama,Central America,2014,507,473,34,PAN
+Panama,Central America,2015,545,566,-21,PAN
+Panama,Central America,2016,748,718,30,PAN
+Panama,Central America,2017,861,880,-19,PAN
+Panama,Central America,2018,885,817,68,PAN
+Canada,North America,1996,18815,19610,-795,CAN
+Canada,North America,1997,21516,22959,-1443,CAN
+Canada,North America,1998,22324,23637,-1313,CAN
+Canada,North America,1999,28087,29310,-1223,CAN
+Canada,North America,2000,30209,31639,-1430,CAN
+Canada,North America,2001,36523,37905,-1382,CAN
+Canada,North America,2002,39685,40563,-878,CAN
+Canada,North America,2003,43136,44108,-972,CAN
+Canada,North America,2004,52425,53218,-793,CAN
+Canada,North America,2005,48453,48696,-243,CAN
+Canada,North America,2006,48324,55123,-6799,CAN
+Canada,North America,2007,47166,46293,873,CAN
+Canada,North America,2008,66780,66059,721,CAN
+Canada,North America,2009,87144,86373,771,CAN
+Canada,North America,2010,88002,88385,-383,CAN
+Canada,North America,2011,79978,80303,-325,CAN
+Canada,North America,2012,75751,78056,-2305,CAN
+Canada,North America,2013,71841,71841,0,CAN
+Canada,North America,2014,78419,79427,-1008,CAN
+Canada,North America,2015,91324,92196,-872,CAN
+Canada,North America,2016,100076,100889,-813,CAN
+Canada,North America,2017,107713,108840,-1127,CAN
+Canada,North America,2018,114137,114845,-708,CAN
+Mexico,North America,1996,647,632,15,MEX
+Mexico,North America,1997,1041,1039,2,MEX
+Mexico,North America,1998,1136,1206,-70,MEX
+Mexico,North America,1999,1705,1599,106,MEX
+Mexico,North America,2000,1854,1850,4,MEX
+Mexico,North America,2001,1624,1651,-27,MEX
+Mexico,North America,2002,1289,1291,-2,MEX
+Mexico,North America,2003,1629,1613,16,MEX
+Mexico,North America,2004,2012,1996,16,MEX
+Mexico,North America,2005,2193,2195,-2,MEX
+Mexico,North America,2006,1606,1594,12,MEX
+Mexico,North America,2007,989,991,-2,MEX
+Mexico,North America,2008,1796,1722,74,MEX
+Mexico,North America,2009,2332,2321,11,MEX
+Mexico,North America,2010,3303,3336,-33,MEX
+Mexico,North America,2011,2100,2131,-31,MEX
+Mexico,North America,2012,2075,2109,-34,MEX
+Mexico,North America,2013,1689,1689,0,MEX
+Mexico,North America,2014,1784,1800,-16,MEX
+Mexico,North America,2015,2352,2314,38,MEX
+Mexico,North America,2016,2446,2431,15,MEX
+Mexico,North America,2017,3262,3301,-39,MEX
+Mexico,North America,2018,4032,4047,-15,MEX
+United States,North America,1996,15358,14703,655,USA
+United States,North America,1997,21909,23192,-1283,USA
+United States,North America,1998,31421,32743,-1322,USA
+United States,North America,1999,40383,41387,-1004,USA
+United States,North America,2000,43343,44590,-1247,USA
+United States,North America,2001,48012,49309,-1297,USA
+United States,North America,2002,52571,53024,-453,USA
+United States,North America,2003,60050,61094,-1044,USA
+United States,North America,2004,78827,80188,-1361,USA
+United States,North America,2005,68361,68661,-300,USA
+United States,North America,2006,64136,63206,930,USA
+United States,North America,2007,56973,56530,443,USA
+United States,North America,2008,83843,83762,81,USA
+United States,North America,2009,111901,112246,-345,USA
+United States,North America,2010,123302,124822,-1520,USA
+United States,North America,2011,110165,110938,-773,USA
+United States,North America,2012,110539,113186,-2647,USA
+United States,North America,2013,103483,103483,0,USA
+United States,North America,2014,114015,115482,-1467,USA
+United States,North America,2015,135606,137507,-1901,USA
+United States,North America,2016,154095,154509,-414,USA
+United States,North America,2017,171110,172356,-1246,USA
+United States,North America,2018,190464,190701,-237,USA
+Argentina,South America,1996,876,882,-6,ARG
+Argentina,South America,1997,1187,1153,34,ARG
+Argentina,South America,1998,1153,1056,97,ARG
+Argentina,South America,1999,1468,1509,-41,ARG
+Argentina,South America,2000,1401,1529,-128,ARG
+Argentina,South America,2001,1091,1064,27,ARG
+Argentina,South America,2002,756,734,22,ARG
+Argentina,South America,2003,910,914,-4,ARG
+Argentina,South America,2004,1156,1176,-20,ARG
+Argentina,South America,2005,1018,1035,-17,ARG
+Argentina,South America,2006,775,766,9,ARG
+Argentina,South America,2007,703,704,-1,ARG
+Argentina,South America,2008,916,937,-21,ARG
+Argentina,South America,2009,1542,1554,-12,ARG
+Argentina,South America,2010,2114,2115,-1,ARG
+Argentina,South America,2011,1397,1368,29,ARG
+Argentina,South America,2012,1432,1476,-44,ARG
+Argentina,South America,2013,1258,1258,0,ARG
+Argentina,South America,2014,1241,1286,-45,ARG
+Argentina,South America,2015,1846,1856,-10,ARG
+Argentina,South America,2016,1923,1957,-34,ARG
+Argentina,South America,2017,2466,2460,6,ARG
+Argentina,South America,2018,2780,2772,8,ARG
+Bolivia,South America,1996,42,22,20,BOL
+Bolivia,South America,1997,52,56,-4,BOL
+Bolivia,South America,1998,45,33,12,BOL
+Bolivia,South America,1999,25,36,-11,BOL
+Bolivia,South America,2000,20,17,3,BOL
+Bolivia,South America,2001,43,48,-5,BOL
+Bolivia,South America,2002,81,74,7,BOL
+Bolivia,South America,2003,59,63,-4,BOL
+Bolivia,South America,2004,86,87,-1,BOL
+Bolivia,South America,2005,81,78,3,BOL
+Bolivia,South America,2006,69,64,5,BOL
+Bolivia,South America,2007,46,37,9,BOL
+Bolivia,South America,2008,73,61,12,BOL
+Bolivia,South America,2009,82,77,5,BOL
+Bolivia,South America,2010,105,111,-6,BOL
+Bolivia,South America,2011,94,93,1,BOL
+Bolivia,South America,2012,103,99,4,BOL
+Bolivia,South America,2013,80,80,0,BOL
+Bolivia,South America,2014,78,79,-1,BOL
+Bolivia,South America,2015,77,71,6,BOL
+Bolivia,South America,2016,134,168,-34,BOL
+Bolivia,South America,2017,158,126,32,BOL
+Bolivia,South America,2018,111,122,-11,BOL
+Brazil,South America,1996,5470,5546,-76,BRA
+Brazil,South America,1997,7788,7609,179,BRA
+Brazil,South America,1998,6058,5940,118,BRA
+Brazil,South America,1999,5882,5727,155,BRA
+Brazil,South America,2000,5901,5760,141,BRA
+Brazil,South America,2001,6120,6101,19,BRA
+Brazil,South America,2002,6112,6026,86,BRA
+Brazil,South America,2003,6200,6101,99,BRA
+Brazil,South America,2004,8031,7995,36,BRA
+Brazil,South America,2005,7432,7409,23,BRA
+Brazil,South America,2006,6789,7416,-627,BRA
+Brazil,South America,2007,6583,5963,620,BRA
+Brazil,South America,2008,9932,9821,111,BRA
+Brazil,South America,2009,13332,12836,496,BRA
+Brazil,South America,2010,15371,15029,342,BRA
+Brazil,South America,2011,13431,13502,-71,BRA
+Brazil,South America,2012,13383,13551,-168,BRA
+Brazil,South America,2013,13603,13603,0,BRA
+Brazil,South America,2014,14034,14126,-92,BRA
+Brazil,South America,2015,15834,15619,215,BRA
+Brazil,South America,2016,17661,17415,246,BRA
+Brazil,South America,2017,21947,21914,33,BRA
+Brazil,South America,2018,25014,24893,121,BRA
+Chile,South America,1996,365,254,111,CHL
+Chile,South America,1997,487,393,94,CHL
+Chile,South America,1998,341,349,-8,CHL
+Chile,South America,1999,496,458,38,CHL
+Chile,South America,2000,462,531,-69,CHL
+Chile,South America,2001,406,405,1,CHL
+Chile,South America,2002,389,376,13,CHL
+Chile,South America,2003,467,491,-24,CHL
+Chile,South America,2004,624,617,7,CHL
+Chile,South America,2005,681,693,-12,CHL
+Chile,South America,2006,394,409,-15,CHL
+Chile,South America,2007,301,306,-5,CHL
+Chile,South America,2008,695,665,30,CHL
+Chile,South America,2009,642,663,-21,CHL
+Chile,South America,2010,822,814,8,CHL
+Chile,South America,2011,740,724,16,CHL
+Chile,South America,2012,604,645,-41,CHL
+Chile,South America,2013,515,515,0,CHL
+Chile,South America,2014,486,487,-1,CHL
+Chile,South America,2015,634,650,-16,CHL
+Chile,South America,2016,629,611,18,CHL
+Chile,South America,2017,854,853,1,CHL
+Chile,South America,2018,756,774,-18,CHL
+Colombia,South America,1996,971,954,17,COL
+Colombia,South America,1997,1038,983,55,COL
+Colombia,South America,1998,939,934,5,COL
+Colombia,South America,1999,1233,1118,115,COL
+Colombia,South America,2000,1154,1106,48,COL
+Colombia,South America,2001,1074,997,77,COL
+Colombia,South America,2002,1057,922,135,COL
+Colombia,South America,2003,1117,969,148,COL
+Colombia,South America,2004,1236,1211,25,COL
+Colombia,South America,2005,1197,1246,-49,COL
+Colombia,South America,2006,1174,1332,-158,COL
+Colombia,South America,2007,957,840,117,COL
+Colombia,South America,2008,1155,1054,101,COL
+Colombia,South America,2009,1440,1339,101,COL
+Colombia,South America,2010,1370,1357,13,COL
+Colombia,South America,2011,1202,1202,0,COL
+Colombia,South America,2012,1203,1232,-29,COL
+Colombia,South America,2013,974,974,0,COL
+Colombia,South America,2014,1102,1107,-5,COL
+Colombia,South America,2015,1490,1496,-6,COL
+Colombia,South America,2016,1670,1642,28,COL
+Colombia,South America,2017,1973,1987,-14,COL
+Colombia,South America,2018,2296,2282,14,COL
+Peru,South America,1996,27,38,-11,PER
+Peru,South America,1997,61,55,6,PER
+Peru,South America,1998,39,26,13,PER
+Peru,South America,1999,57,44,13,PER
+Peru,South America,2000,59,58,1,PER
+Peru,South America,2001,60,60,0,PER
+Peru,South America,2002,71,65,6,PER
+Peru,South America,2003,114,126,-12,PER
+Peru,South America,2004,105,107,-2,PER
+Peru,South America,2005,146,140,6,PER
+Peru,South America,2006,116,118,-2,PER
+Peru,South America,2007,127,113,14,PER
+Peru,South America,2008,176,160,16,PER
+Peru,South America,2009,178,171,7,PER
+Peru,South America,2010,287,274,13,PER
+Peru,South America,2011,233,245,-12,PER
+Peru,South America,2012,238,225,13,PER
+Peru,South America,2013,208,208,0,PER
+Peru,South America,2014,262,254,8,PER
+Peru,South America,2015,339,352,-13,PER
+Peru,South America,2016,328,324,4,PER
+Peru,South America,2017,323,324,-1,PER
+Peru,South America,2018,412,433,-21,PER
+Surinam,South America,1996,7,5,2,SUR
+Surinam,South America,1997,11,2,9,SUR
+Surinam,South America,1998,30,32,-2,SUR
+Surinam,South America,1999,24,14,10,SUR
+Surinam,South America,2000,43,19,24,SUR
+Surinam,South America,2001,16,17,-1,SUR
+Surinam,South America,2002,29,22,7,SUR
+Surinam,South America,2003,47,53,-6,SUR
+Surinam,South America,2004,59,54,5,SUR
+Surinam,South America,2005,40,42,-2,SUR
+Surinam,South America,2006,34,34,0,SUR
+Surinam,South America,2007,53,49,4,SUR
+Surinam,South America,2008,49,52,-3,SUR
+Surinam,South America,2009,71,73,-2,SUR
+Surinam,South America,2010,93,93,0,SUR
+Surinam,South America,2011,38,42,-4,SUR
+Surinam,South America,2012,48,55,-7,SUR
+Surinam,South America,2013,41,41,0,SUR
+Surinam,South America,2014,57,53,4,SUR
+Surinam,South America,2015,49,40,9,SUR
+Surinam,South America,2016,44,38,6,SUR
+Surinam,South America,2017,38,31,7,SUR
+Surinam,South America,2018,49,43,6,SUR
+Trinidad and Tobago,South America,1996,33,65,-32,TTO
+Trinidad and Tobago,South America,1997,29,22,7,TTO
+Trinidad and Tobago,South America,1998,53,34,19,TTO
+Trinidad and Tobago,South America,1999,104,48,56,TTO
+Trinidad and Tobago,South America,2000,82,91,-9,TTO
+Trinidad and Tobago,South America,2001,56,57,-1,TTO
+Trinidad and Tobago,South America,2002,70,67,3,TTO
+Trinidad and Tobago,South America,2003,86,92,-6,TTO
+Trinidad and Tobago,South America,2004,58,65,-7,TTO
+Trinidad and Tobago,South America,2005,66,73,-7,TTO
+Trinidad and Tobago,South America,2006,101,93,8,TTO
+Trinidad and Tobago,South America,2007,82,78,4,TTO
+Trinidad and Tobago,South America,2008,113,105,8,TTO
+Trinidad and Tobago,South America,2009,90,94,-4,TTO
+Trinidad and Tobago,South America,2010,123,122,1,TTO
+Trinidad and Tobago,South America,2011,74,75,-1,TTO
+Trinidad and Tobago,South America,2012,84,88,-4,TTO
+Trinidad and Tobago,South America,2013,78,78,0,TTO
+Trinidad and Tobago,South America,2014,83,82,1,TTO
+Trinidad and Tobago,South America,2015,105,115,-10,TTO
+Trinidad and Tobago,South America,2016,103,106,-3,TTO
+Trinidad and Tobago,South America,2017,138,134,4,TTO
+Trinidad and Tobago,South America,2018,109,109,0,TTO
+Guayan,South America,1996,11,7,4,GUY
+Guayan,South America,1997,38,26,12,GUY
+Guayan,South America,1998,5,1,4,GUY
+Guayan,South America,1999,5,6,-1,GUY
+Guayan,South America,2000,7,3,4,GUY
+Guayan,South America,2001,5,6,-1,GUY
+Guayan,South America,2002,0,0,0,GUY
+Guayan,South America,2003,0,2,-2,GUY
+Guayan,South America,2004,0,0,0,GUY
+Guayan,South America,2005,0,0,0,GUY
+Guayan,South America,2006,0,0,0,GUY
+Guayan,South America,2007,0,0,0,GUY
+Guayan,South America,2008,0,0,0,GUY
+Guayan,South America,2009,0,0,0,GUY
+Guayan,South America,2010,0,0,0,GUY
+Guayan,South America,2011,0,0,0,GUY
+Guayan,South America,2012,0,0,0,GUY
+Guayan,South America,2013,0,0,0,GUY
+Guayan,South America,2014,0,0,0,GUY
+Guayan,South America,2015,0,0,0,GUY
+Guayan,South America,2016,0,0,0,GUY
+Guayan,South America,2017,0,0,0,GUY
+Guayan,South America,2018,0,0,0,GUY
+Urugway,South America,1996,94,117,-23,URY
+Urugway,South America,1997,147,143,4,URY
+Urugway,South America,1998,69,88,-19,URY
+Urugway,South America,1999,101,90,11,URY
+Urugway,South America,2000,82,76,6,URY
+Urugway,South America,2001,76,73,3,URY
+Urugway,South America,2002,61,67,-6,URY
+Urugway,South America,2003,81,83,-2,URY
+Urugway,South America,2004,90,87,3,URY
+Urugway,South America,2005,83,83,0,URY
+Urugway,South America,2006,120,120,0,URY
+Urugway,South America,2007,71,78,-7,URY
+Urugway,South America,2008,92,86,6,URY
+Urugway,South America,2009,143,139,4,URY
+Urugway,South America,2010,143,147,-4,URY
+Urugway,South America,2011,135,133,2,URY
+Urugway,South America,2012,136,131,5,URY
+Urugway,South America,2013,125,125,0,URY
+Urugway,South America,2014,175,177,-2,URY
+Urugway,South America,2015,184,179,5,URY
+Urugway,South America,2016,160,172,-12,URY
+Urugway,South America,2017,192,197,-5,URY
+Urugway,South America,2018,225,209,16,URY
+Venezuela,South America,1996,2895,2296,599,VEN
+Venezuela,South America,1997,3225,3302,-77,VEN
+Venezuela,South America,1998,3326,3181,145,VEN
+Venezuela,South America,1999,3495,3690,-195,VEN
+Venezuela,South America,2000,3895,3848,47,VEN
+Venezuela,South America,2001,4540,4645,-105,VEN
+Venezuela,South America,2002,4492,4266,226,VEN
+Venezuela,South America,2003,4467,4170,297,VEN
+Venezuela,South America,2004,5163,5061,102,VEN
+Venezuela,South America,2005,5303,5355,-52,VEN
+Venezuela,South America,2006,4890,5032,-142,VEN
+Venezuela,South America,2007,6046,5680,366,VEN
+Venezuela,South America,2008,8898,8668,230,VEN
+Venezuela,South America,2009,10922,10691,231,VEN
+Venezuela,South America,2010,10535,9942,593,VEN
+Venezuela,South America,2011,10310,10203,107,VEN
+Venezuela,South America,2012,12867,12823,44,VEN
+Venezuela,South America,2013,13034,13034,0,VEN
+Venezuela,South America,2014,9974,9793,181,VEN
+Venezuela,South America,2015,10573,10182,391,VEN
+Venezuela,South America,2016,13208,12416,792,VEN
+Venezuela,South America,2017,12608,12021,587,VEN
+Venezuela,South America,2018,12232,11597,635,VEN
+Equador,South America,1996,185,177,8,ECU
+Equador,South America,1997,140,130,10,ECU
+Equador,South America,1998,216,432,-216,ECU
+Equador,South America,1999,148,145,3,ECU
+Equador,South America,2000,171,166,5,ECU
+Equador,South America,2001,182,157,25,ECU
+Equador,South America,2002,182,209,-27,ECU
+Equador,South America,2003,237,267,-30,ECU
+Equador,South America,2004,271,275,-4,ECU
+Equador,South America,2005,179,183,-4,ECU
+Equador,South America,2006,154,170,-16,ECU
+Equador,South America,2007,174,121,53,ECU
+Equador,South America,2008,300,224,76,ECU
+Equador,South America,2009,290,235,55,ECU
+Equador,South America,2010,399,408,-9,ECU
+Equador,South America,2011,355,371,-16,ECU
+Equador,South America,2012,296,275,21,ECU
+Equador,South America,2013,226,226,0,ECU
+Equador,South America,2014,237,260,-23,ECU
+Equador,South America,2015,252,254,-2,ECU
+Equador,South America,2016,249,252,-3,ECU
+Equador,South America,2017,258,275,-17,ECU
+Equador,South America,2018,329,327,2,ECU
+Paraguay,South America,1996,363,910,-547,PRY
+Paraguay,South America,1997,256,296,-40,PRY
+Paraguay,South America,1998,386,233,153,PRY
+Paraguay,South America,1999,612,360,252,PRY
+Paraguay,South America,2000,433,431,2,PRY
+Paraguay,South America,2001,466,436,30,PRY
+Paraguay,South America,2002,445,443,2,PRY
+Paraguay,South America,2003,416,410,6,PRY
+Paraguay,South America,2004,420,415,5,PRY
+Paraguay,South America,2005,401,432,-31,PRY
+Paraguay,South America,2006,419,413,6,PRY
+Paraguay,South America,2007,407,394,13,PRY
+Paraguay,South America,2008,473,459,14,PRY
+Paraguay,South America,2009,574,546,28,PRY
+Paraguay,South America,2010,584,583,1,PRY
+Paraguay,South America,2011,556,579,-23,PRY
+Paraguay,South America,2012,577,556,21,PRY
+Paraguay,South America,2013,534,534,0,PRY
+Paraguay,South America,2014,521,527,-6,PRY
+Paraguay,South America,2015,624,613,11,PRY
+Paraguay,South America,2016,675,640,35,PRY
+Paraguay,South America,2017,617,607,10,PRY
+Paraguay,South America,2018,646,595,51,PRY
+China,Far East,1996,902,837,65,CHN
+China,Far East,1997,808,879,-71,CHN
+China,Far East,1998,889,906,-17,CHN
+China,Far East,1999,1313,1033,280,CHN
+China,Far East,2000,1638,1427,211,CHN
+China,Far East,2001,1591,1573,18,CHN
+China,Far East,2002,1463,1559,-96,CHN
+China,Far East,2003,950,1068,-118,CHN
+China,Far East,2004,1559,1647,-88,CHN
+China,Far East,2005,1642,1836,-194,CHN
+China,Far East,2006,1734,1779,-45,CHN
+China,Far East,2007,2028,2093,-65,CHN
+China,Far East,2008,2472,2598,-126,CHN
+China,Far East,2009,3895,3984,-89,CHN
+China,Far East,2010,5938,5923,15,CHN
+China,Far East,2011,4862,5032,-170,CHN
+China,Far East,2012,3564,3335,229,CHN
+China,Far East,2013,3793,3793,0,CHN
+China,Far East,2014,4161,4340,-179,CHN
+China,Far East,2015,5512,5301,211,CHN
+China,Far East,2016,6227,6140,87,CHN
+China,Far East,2017,7730,7688,42,CHN
+China,Far East,2018,9467,9594,-127,CHN
+Hong Kong,Far East,1996,0,0,0,HKG
+Hong Kong,Far East,1997,0,0,0,HKG
+Hong Kong,Far East,1998,0,0,0,HKG
+Hong Kong,Far East,1999,0,0,0,HKG
+Hong Kong,Far East,2000,0,0,0,HKG
+Hong Kong,Far East,2001,0,0,0,HKG
+Hong Kong,Far East,2002,0,0,0,HKG
+Hong Kong,Far East,2003,0,0,0,HKG
+Hong Kong,Far East,2004,0,0,0,HKG
+Hong Kong,Far East,2005,0,0,0,HKG
+Hong Kong,Far East,2006,0,0,0,HKG
+Hong Kong,Far East,2007,0,0,0,HKG
+Hong Kong,Far East,2008,0,0,0,HKG
+Hong Kong,Far East,2009,0,0,0,HKG
+Hong Kong,Far East,2010,0,0,0,HKG
+Hong Kong,Far East,2011,0,0,0,HKG
+Hong Kong,Far East,2012,0,0,0,HKG
+Hong Kong,Far East,2013,0,0,0,HKG
+Hong Kong,Far East,2014,0,0,0,HKG
+Hong Kong,Far East,2015,0,0,0,HKG
+Hong Kong,Far East,2016,0,0,0,HKG
+Hong Kong,Far East,2017,0,0,0,HKG
+Hong Kong,Far East,2018,0,0,0,HKG
+Japan,Far East,1996,1884,1949,-65,JPN
+Japan,Far East,1997,3604,3675,-71,JPN
+Japan,Far East,1998,3516,3691,-175,JPN
+Japan,Far East,1999,5213,5047,166,JPN
+Japan,Far East,2000,6839,6163,676,JPN
+Japan,Far East,2001,4710,4706,4,JPN
+Japan,Far East,2002,3944,3934,10,JPN
+Japan,Far East,2003,3487,3536,-49,JPN
+Japan,Far East,2004,4753,4732,21,JPN
+Japan,Far East,2005,5475,5424,51,JPN
+Japan,Far East,2006,3594,3567,27,JPN
+Japan,Far East,2007,1486,1473,13,JPN
+Japan,Far East,2008,1934,1951,-17,JPN
+Japan,Far East,2009,2562,2535,27,JPN
+Japan,Far East,2010,3906,3874,32,JPN
+Japan,Far East,2011,2186,2215,-29,JPN
+Japan,Far East,2012,1541,1566,-25,JPN
+Japan,Far East,2013,1398,1398,0,JPN
+Japan,Far East,2014,1399,1400,-1,JPN
+Japan,Far East,2015,1486,1486,0,JPN
+Japan,Far East,2016,1750,1734,16,JPN
+Japan,Far East,2017,2448,2440,8,JPN
+Japan,Far East,2018,3080,3033,47,JPN
+?????,Far East,1996,3,0,3,0
+?????,Far East,1997,0,1,-1,0
+?????,Far East,1998,0,0,0,0
+?????,Far East,1999,0,0,0,0
+?????,Far East,2000,0,0,0,0
+?????,Far East,2001,0,0,0,0
+?????,Far East,2002,0,0,0,0
+?????,Far East,2003,0,0,0,0
+?????,Far East,2004,0,0,0,0
+?????,Far East,2005,0,0,0,0
+?????,Far East,2006,0,0,0,0
+?????,Far East,2007,0,0,0,0
+?????,Far East,2008,0,0,0,0
+?????,Far East,2009,0,0,0,0
+?????,Far East,2010,0,0,0,0
+?????,Far East,2011,0,0,0,0
+?????,Far East,2012,0,0,0,0
+?????,Far East,2013,0,0,0,0
+?????,Far East,2014,0,0,0,0
+?????,Far East,2015,0,0,0,0
+?????,Far East,2016,0,0,0,0
+?????,Far East,2017,0,0,0,0
+?????,Far East,2018,0,0,0,0
+Mongolia,Far East,1996,86,1,85,MNG
+Mongolia,Far East,1997,4,9,-5,MNG
+Mongolia,Far East,1998,2,7,-5,MNG
+Mongolia,Far East,1999,8,4,4,MNG
+Mongolia,Far East,2000,8,14,-6,MNG
+Mongolia,Far East,2001,10,11,-1,MNG
+Mongolia,Far East,2002,10,14,-4,MNG
+Mongolia,Far East,2003,3,2,1,MNG
+Mongolia,Far East,2004,26,18,8,MNG
+Mongolia,Far East,2005,54,63,-9,MNG
+Mongolia,Far East,2006,3,2,1,MNG
+Mongolia,Far East,2007,5,7,-2,MNG
+Mongolia,Far East,2008,14,13,1,MNG
+Mongolia,Far East,2009,18,22,-4,MNG
+Mongolia,Far East,2010,25,23,2,MNG
+Mongolia,Far East,2011,31,28,3,MNG
+Mongolia,Far East,2012,42,41,1,MNG
+Mongolia,Far East,2013,20,20,0,MNG
+Mongolia,Far East,2014,23,15,8,MNG
+Mongolia,Far East,2015,20,28,-8,MNG
+Mongolia,Far East,2016,9,13,-4,MNG
+Mongolia,Far East,2017,26,24,2,MNG
+Mongolia,Far East,2018,81,82,-1,MNG
+North Corea,Far East,1996,690,760,-70,PRK
+North Corea,Far East,1997,368,343,25,PRK
+North Corea,Far East,1998,455,395,60,PRK
+North Corea,Far East,1999,439,418,21,PRK
+North Corea,Far East,2000,615,580,35,PRK
+North Corea,Far East,2001,508,489,19,PRK
+North Corea,Far East,2002,550,539,11,PRK
+North Corea,Far East,2003,524,549,-25,PRK
+North Corea,Far East,2004,577,569,8,PRK
+North Corea,Far East,2005,553,560,-7,PRK
+North Corea,Far East,2006,207,211,-4,PRK
+North Corea,Far East,2007,141,143,-2,PRK
+North Corea,Far East,2008,38,41,-3,PRK
+North Corea,Far East,2009,35,43,-8,PRK
+North Corea,Far East,2010,84,65,19,PRK
+North Corea,Far East,2011,63,65,-2,PRK
+North Corea,Far East,2012,72,76,-4,PRK
+North Corea,Far East,2013,307,307,0,PRK
+North Corea,Far East,2014,391,422,-31,PRK
+North Corea,Far East,2015,466,499,-33,PRK
+North Corea,Far East,2016,350,360,-10,PRK
+North Corea,Far East,2017,320,352,-32,PRK
+North Corea,Far East,2018,164,181,-17,PRK
+South Corea,Far East,1996,299,275,24,KOR
+South Corea,Far East,1997,493,514,-21,KOR
+South Corea,Far East,1998,644,554,90,KOR
+South Corea,Far East,1999,603,588,15,KOR
+South Corea,Far East,2000,693,706,-13,KOR
+South Corea,Far East,2001,1265,1259,6,KOR
+South Corea,Far East,2002,1037,1057,-20,KOR
+South Corea,Far East,2003,1193,1162,31,KOR
+South Corea,Far East,2004,1296,1308,-12,KOR
+South Corea,Far East,2005,1409,1430,-21,KOR
+South Corea,Far East,2006,2300,2245,55,KOR
+South Corea,Far East,2007,2845,2386,459,KOR
+South Corea,Far East,2008,2987,3036,-49,KOR
+South Corea,Far East,2009,3168,3121,47,KOR
+South Corea,Far East,2010,4200,4210,-10,KOR
+South Corea,Far East,2011,3606,3680,-74,KOR
+South Corea,Far East,2012,2571,2582,-11,KOR
+South Corea,Far East,2013,2827,2827,0,KOR
+South Corea,Far East,2014,2457,2421,36,KOR
+South Corea,Far East,2015,2543,2512,31,KOR
+South Corea,Far East,2016,2185,2146,39,KOR
+South Corea,Far East,2017,2988,2949,39,KOR
+South Corea,Far East,2018,3013,2926,87,KOR
+Taiwan,Far East,1996,55,55,0,TWN
+Taiwan,Far East,1997,122,78,44,TWN
+Taiwan,Far East,1998,147,147,0,TWN
+Taiwan,Far East,1999,188,219,-31,TWN
+Taiwan,Far East,2000,112,124,-12,TWN
+Taiwan,Far East,2001,39,41,-2,TWN
+Taiwan,Far East,2002,67,25,42,TWN
+Taiwan,Far East,2003,163,84,79,TWN
+Taiwan,Far East,2004,205,90,115,TWN
+Taiwan,Far East,2005,368,145,223,TWN
+Taiwan,Far East,2006,254,146,108,TWN
+Taiwan,Far East,2007,256,152,104,TWN
+Taiwan,Far East,2008,427,291,136,TWN
+Taiwan,Far East,2009,274,238,36,TWN
+Taiwan,Far East,2010,414,374,40,TWN
+Taiwan,Far East,2011,290,232,58,TWN
+Taiwan,Far East,2012,141,122,19,TWN
+Taiwan,Far East,2013,93,93,0,TWN
+Taiwan,Far East,2014,133,117,16,TWN
+Taiwan,Far East,2015,120,104,16,TWN
+Taiwan,Far East,2016,174,131,43,TWN
+Taiwan,Far East,2017,218,196,22,TWN
+Taiwan,Far East,2018,306,272,34,TWN
+Afghanistan,South Asia,1996,156,177,-21,AFG
+Afghanistan,South Asia,1997,165,200,-35,AFG
+Afghanistan,South Asia,1998,143,160,-17,AFG
+Afghanistan,South Asia,1999,216,175,41,AFG
+Afghanistan,South Asia,2000,217,227,-10,AFG
+Afghanistan,South Asia,2001,404,434,-30,AFG
+Afghanistan,South Asia,2002,406,421,-15,AFG
+Afghanistan,South Asia,2003,295,288,7,AFG
+Afghanistan,South Asia,2004,311,338,-27,AFG
+Afghanistan,South Asia,2005,311,301,10,AFG
+Afghanistan,South Asia,2006,198,204,-6,AFG
+Afghanistan,South Asia,2007,184,188,-4,AFG
+Afghanistan,South Asia,2008,306,312,-6,AFG
+Afghanistan,South Asia,2009,450,427,23,AFG
+Afghanistan,South Asia,2010,420,433,-13,AFG
+Afghanistan,South Asia,2011,383,397,-14,AFG
+Afghanistan,South Asia,2012,432,392,40,AFG
+Afghanistan,South Asia,2013,502,502,0,AFG
+Afghanistan,South Asia,2014,463,469,-6,AFG
+Afghanistan,South Asia,2015,540,534,6,AFG
+Afghanistan,South Asia,2016,645,647,-2,AFG
+Afghanistan,South Asia,2017,832,821,11,AFG
+Afghanistan,South Asia,2018,640,643,-3,AFG
+Bangladesh,South Asia,1996,559,448,111,BGD
+Bangladesh,South Asia,1997,1153,714,439,BGD
+Bangladesh,South Asia,1998,2288,877,1411,BGD
+Bangladesh,South Asia,1999,1292,1071,221,BGD
+Bangladesh,South Asia,2000,1800,1285,515,BGD
+Bangladesh,South Asia,2001,2515,1583,932,BGD
+Bangladesh,South Asia,2002,2443,1847,596,BGD
+Bangladesh,South Asia,2003,2283,2241,42,BGD
+Bangladesh,South Asia,2004,1512,2595,-1083,BGD
+Bangladesh,South Asia,2005,1499,2241,-742,BGD
+Bangladesh,South Asia,2006,3504,2978,526,BGD
+Bangladesh,South Asia,2007,4982,2263,2719,BGD
+Bangladesh,South Asia,2008,9430,2774,6656,BGD
+Bangladesh,South Asia,2009,16047,4999,11048,BGD
+Bangladesh,South Asia,2010,19980,7898,12082,BGD
+Bangladesh,South Asia,2011,23730,13083,10647,BGD
+Bangladesh,South Asia,2012,20557,15876,4681,BGD
+Bangladesh,South Asia,2013,20946,20946,0,BGD
+Bangladesh,South Asia,2014,22394,18682,3712,BGD
+Bangladesh,South Asia,2015,26198,18483,7715,BGD
+Bangladesh,South Asia,2016,23039,19744,3295,BGD
+Bangladesh,South Asia,2017,16764,20858,-4094,BGD
+Bangladesh,South Asia,2018,14320,17795,-3475,BGD
+Bhutan,South Asia,1996,0,0,0,BTN
+Bhutan,South Asia,1997,1,101,-100,BTN
+Bhutan,South Asia,1998,1,2,-1,BTN
+Bhutan,South Asia,1999,460,604,-144,BTN
+Bhutan,South Asia,2000,1,0,1,BTN
+Bhutan,South Asia,2001,0,0,0,BTN
+Bhutan,South Asia,2002,1,1,0,BTN
+Bhutan,South Asia,2003,2,0,2,BTN
+Bhutan,South Asia,2004,0,1,-1,BTN
+Bhutan,South Asia,2005,0,0,0,BTN
+Bhutan,South Asia,2006,4,3,1,BTN
+Bhutan,South Asia,2007,8,6,2,BTN
+Bhutan,South Asia,2008,13,16,-3,BTN
+Bhutan,South Asia,2009,19,20,-1,BTN
+Bhutan,South Asia,2010,7,6,1,BTN
+Bhutan,South Asia,2011,4,3,1,BTN
+Bhutan,South Asia,2012,13,15,-2,BTN
+Bhutan,South Asia,2013,29,29,0,BTN
+Bhutan,South Asia,2014,48,50,-2,BTN
+Bhutan,South Asia,2015,50,53,-3,BTN
+Bhutan,South Asia,2016,38,40,-2,BTN
+Bhutan,South Asia,2017,56,57,-1,BTN
+Bhutan,South Asia,2018,61,60,1,BTN
+India,South Asia,1996,4809,4458,351,IND
+India,South Asia,1997,6268,5711,557,IND
+India,South Asia,1998,8347,6951,1396,IND
+India,South Asia,1999,7630,8352,-722,IND
+India,South Asia,2000,7224,7924,-700,IND
+India,South Asia,2001,7276,8259,-983,IND
+India,South Asia,2002,8565,9460,-895,IND
+India,South Asia,2003,8603,9217,-614,IND
+India,South Asia,2004,11240,11924,-684,IND
+India,South Asia,2005,11111,11792,-681,IND
+India,South Asia,2006,10079,10549,-470,IND
+India,South Asia,2007,8242,7993,249,IND
+India,South Asia,2008,10668,11255,-587,IND
+India,South Asia,2009,13946,13877,69,IND
+India,South Asia,2010,16117,15855,262,IND
+India,South Asia,2011,15378,15129,249,IND
+India,South Asia,2012,13513,13977,-464,IND
+India,South Asia,2013,12889,12889,0,IND
+India,South Asia,2014,12097,12016,81,IND
+India,South Asia,2015,14236,14350,-114,IND
+India,South Asia,2016,15610,15883,-273,IND
+India,South Asia,2017,18331,18464,-133,IND
+India,South Asia,2018,20242,20350,-108,IND
+Iran,South Asia,1996,5373,5408,-35,IRN
+Iran,South Asia,1997,4690,5066,-376,IRN
+Iran,South Asia,1998,5956,6274,-318,IRN
+Iran,South Asia,1999,14043,13170,873,IRN
+Iran,South Asia,2000,23180,23242,-62,IRN
+Iran,South Asia,2001,51096,51416,-320,IRN
+Iran,South Asia,2002,65318,65264,54,IRN
+Iran,South Asia,2003,70400,70481,-81,IRN
+Iran,South Asia,2004,89770,89684,86,IRN
+Iran,South Asia,2005,92863,92430,433,IRN
+Iran,South Asia,2006,86385,86806,-421,IRN
+Iran,South Asia,2007,75526,75294,232,IRN
+Iran,South Asia,2008,92547,92337,210,IRN
+Iran,South Asia,2009,145706,145603,103,IRN
+Iran,South Asia,2010,241514,241441,73,IRN
+Iran,South Asia,2011,131870,132283,-413,IRN
+Iran,South Asia,2012,28134,27887,247,IRN
+Iran,South Asia,2013,16130,16130,0,IRN
+Iran,South Asia,2014,15490,15603,-113,IRN
+Iran,South Asia,2015,17861,17942,-81,IRN
+Iran,South Asia,2016,20951,20846,105,IRN
+Iran,South Asia,2017,23548,23648,-100,IRN
+Iran,South Asia,2018,23209,23241,-32,IRN
+Kazakhistan,South Asia,1996,10,26,-16,KAZ
+Kazakhistan,South Asia,1997,11,27,-16,KAZ
+Kazakhistan,South Asia,1998,96,91,5,KAZ
+Kazakhistan,South Asia,1999,49,45,4,KAZ
+Kazakhistan,South Asia,2000,55,71,-16,KAZ
+Kazakhistan,South Asia,2001,74,61,13,KAZ
+Kazakhistan,South Asia,2002,164,153,11,KAZ
+Kazakhistan,South Asia,2003,239,197,42,KAZ
+Kazakhistan,South Asia,2004,313,306,7,KAZ
+Kazakhistan,South Asia,2005,256,260,-4,KAZ
+Kazakhistan,South Asia,2006,299,281,18,KAZ
+Kazakhistan,South Asia,2007,201,198,3,KAZ
+Kazakhistan,South Asia,2008,289,270,19,KAZ
+Kazakhistan,South Asia,2009,497,482,15,KAZ
+Kazakhistan,South Asia,2010,555,556,-1,KAZ
+Kazakhistan,South Asia,2011,567,588,-21,KAZ
+Kazakhistan,South Asia,2012,598,575,23,KAZ
+Kazakhistan,South Asia,2013,626,626,0,KAZ
+Kazakhistan,South Asia,2014,572,574,-2,KAZ
+Kazakhistan,South Asia,2015,836,796,40,KAZ
+Kazakhistan,South Asia,2016,1033,1016,17,KAZ
+Kazakhistan,South Asia,2017,1158,1161,-3,KAZ
+Kazakhistan,South Asia,2018,1375,1369,6,KAZ
+Kirjistan,South Asia,1996,3,8,-5,KGZ
+Kirjistan,South Asia,1997,6,6,0,KGZ
+Kirjistan,South Asia,1998,0,0,0,KGZ
+Kirjistan,South Asia,1999,0,0,0,KGZ
+Kirjistan,South Asia,2000,3,0,3,KGZ
+Kirjistan,South Asia,2001,2,2,0,KGZ
+Kirjistan,South Asia,2002,25,19,6,KGZ
+Kirjistan,South Asia,2003,23,27,-4,KGZ
+Kirjistan,South Asia,2004,43,40,3,KGZ
+Kirjistan,South Asia,2005,58,50,8,KGZ
+Kirjistan,South Asia,2006,47,49,-2,KGZ
+Kirjistan,South Asia,2007,75,75,0,KGZ
+Kirjistan,South Asia,2008,79,68,11,KGZ
+Kirjistan,South Asia,2009,143,143,0,KGZ
+Kirjistan,South Asia,2010,161,173,-12,KGZ
+Kirjistan,South Asia,2011,225,217,8,KGZ
+Kirjistan,South Asia,2012,157,150,7,KGZ
+Kirjistan,South Asia,2013,150,150,0,KGZ
+Kirjistan,South Asia,2014,204,189,15,KGZ
+Kirjistan,South Asia,2015,336,326,10,KGZ
+Kirjistan,South Asia,2016,408,397,11,KGZ
+Kirjistan,South Asia,2017,321,336,-15,KGZ
+Kirjistan,South Asia,2018,393,394,-1,KGZ
+Maldive Islands,South Asia,1996,13,1,12,MDV
+Maldive Islands,South Asia,1997,25,15,10,MDV
+Maldive Islands,South Asia,1998,43,54,-11,MDV
+Maldive Islands,South Asia,1999,38,54,-16,MDV
+Maldive Islands,South Asia,2000,11,13,-2,MDV
+Maldive Islands,South Asia,2001,0,0,0,MDV
+Maldive Islands,South Asia,2002,0,1,-1,MDV
+Maldive Islands,South Asia,2003,1,0,1,MDV
+Maldive Islands,South Asia,2004,28,28,0,MDV
+Maldive Islands,South Asia,2005,1,2,-1,MDV
+Maldive Islands,South Asia,2006,2,2,0,MDV
+Maldive Islands,South Asia,2007,1,1,0,MDV
+Maldive Islands,South Asia,2008,4,4,0,MDV
+Maldive Islands,South Asia,2009,5,4,1,MDV
+Maldive Islands,South Asia,2010,7,1,6,MDV
+Maldive Islands,South Asia,2011,5,4,1,MDV
+Maldive Islands,South Asia,2012,36,32,4,MDV
+Maldive Islands,South Asia,2013,10,10,0,MDV
+Maldive Islands,South Asia,2014,3,8,-5,MDV
+Maldive Islands,South Asia,2015,12,11,1,MDV
+Maldive Islands,South Asia,2016,18,12,6,MDV
+Maldive Islands,South Asia,2017,6,4,2,MDV
+Maldive Islands,South Asia,2018,11,6,5,MDV
+Nepal,South Asia,1996,98,75,23,NPL
+Nepal,South Asia,1997,180,82,98,NPL
+Nepal,South Asia,1998,112,75,37,NPL
+Nepal,South Asia,1999,107,88,19,NPL
+Nepal,South Asia,2000,556,372,184,NPL
+Nepal,South Asia,2001,258,191,67,NPL
+Nepal,South Asia,2002,287,189,98,NPL
+Nepal,South Asia,2003,312,236,76,NPL
+Nepal,South Asia,2004,585,409,176,NPL
+Nepal,South Asia,2005,910,440,470,NPL
+Nepal,South Asia,2006,1306,542,764,NPL
+Nepal,South Asia,2007,3799,1836,1963,NPL
+Nepal,South Asia,2008,8705,2755,5950,NPL
+Nepal,South Asia,2009,8435,4151,4284,NPL
+Nepal,South Asia,2010,6975,6361,614,NPL
+Nepal,South Asia,2011,4560,8284,-3724,NPL
+Nepal,South Asia,2012,3803,7428,-3625,NPL
+Nepal,South Asia,2013,3813,3813,0,NPL
+Nepal,South Asia,2014,3856,4282,-426,NPL
+Nepal,South Asia,2015,2908,3765,-857,NPL
+Nepal,South Asia,2016,2776,3478,-702,NPL
+Nepal,South Asia,2017,2993,3633,-640,NPL
+Nepal,South Asia,2018,3373,3779,-406,NPL
+Pakistan,South Asia,1996,1033,1116,-83,PAK
+Pakistan,South Asia,1997,1193,1254,-61,PAK
+Pakistan,South Asia,1998,1863,1904,-41,PAK
+Pakistan,South Asia,1999,1961,1903,58,PAK
+Pakistan,South Asia,2000,1827,1794,33,PAK
+Pakistan,South Asia,2001,1898,1983,-85,PAK
+Pakistan,South Asia,2002,1908,1954,-46,PAK
+Pakistan,South Asia,2003,2015,2031,-16,PAK
+Pakistan,South Asia,2004,2885,2931,-46,PAK
+Pakistan,South Asia,2005,2184,2234,-50,PAK
+Pakistan,South Asia,2006,2336,2469,-133,PAK
+Pakistan,South Asia,2007,2042,2026,16,PAK
+Pakistan,South Asia,2008,2491,2472,19,PAK
+Pakistan,South Asia,2009,3336,3334,2,PAK
+Pakistan,South Asia,2010,3729,3799,-70,PAK
+Pakistan,South Asia,2011,3448,3464,-16,PAK
+Pakistan,South Asia,2012,2992,3080,-88,PAK
+Pakistan,South Asia,2013,2878,2878,0,PAK
+Pakistan,South Asia,2014,2999,3034,-35,PAK
+Pakistan,South Asia,2015,3446,3340,106,PAK
+Pakistan,South Asia,2016,4121,4143,-22,PAK
+Pakistan,South Asia,2017,10783,11110,-327,PAK
+Pakistan,South Asia,2018,11634,11948,-314,PAK
+Sri Lanka,South Asia,1996,0,0,0,LKA
+Sri Lanka,South Asia,1997,0,0,0,LKA
+Sri Lanka,South Asia,1998,0,0,0,LKA
+Sri Lanka,South Asia,1999,0,0,0,LKA
+Sri Lanka,South Asia,2000,0,0,0,LKA
+Sri Lanka,South Asia,2001,0,0,0,LKA
+Sri Lanka,South Asia,2002,0,0,0,LKA
+Sri Lanka,South Asia,2003,0,0,0,LKA
+Sri Lanka,South Asia,2004,0,0,0,LKA
+Sri Lanka,South Asia,2005,0,0,0,LKA
+Sri Lanka,South Asia,2006,0,0,0,LKA
+Sri Lanka,South Asia,2007,0,0,0,LKA
+Sri Lanka,South Asia,2008,0,0,0,LKA
+Sri Lanka,South Asia,2009,0,0,0,LKA
+Sri Lanka,South Asia,2010,0,0,0,LKA
+Sri Lanka,South Asia,2011,0,0,0,LKA
+Sri Lanka,South Asia,2012,0,0,0,LKA
+Sri Lanka,South Asia,2013,0,0,0,LKA
+Sri Lanka,South Asia,2014,0,0,0,LKA
+Sri Lanka,South Asia,2015,0,0,0,LKA
+Sri Lanka,South Asia,2016,0,0,0,LKA
+Sri Lanka,South Asia,2017,0,0,0,LKA
+Sri Lanka,South Asia,2018,0,0,0,LKA
+Tadjikistan,South Asia,1996,2,6,-4,TJK
+Tadjikistan,South Asia,1997,0,0,0,TJK
+Tadjikistan,South Asia,1998,1,15,-14,TJK
+Tadjikistan,South Asia,1999,12,9,3,TJK
+Tadjikistan,South Asia,2000,40,33,7,TJK
+Tadjikistan,South Asia,2001,9,11,-2,TJK
+Tadjikistan,South Asia,2002,17,18,-1,TJK
+Tadjikistan,South Asia,2003,15,17,-2,TJK
+Tadjikistan,South Asia,2004,21,21,0,TJK
+Tadjikistan,South Asia,2005,24,19,5,TJK
+Tadjikistan,South Asia,2006,34,33,1,TJK
+Tadjikistan,South Asia,2007,62,53,9,TJK
+Tadjikistan,South Asia,2008,63,57,6,TJK
+Tadjikistan,South Asia,2009,66,72,-6,TJK
+Tadjikistan,South Asia,2010,92,93,-1,TJK
+Tadjikistan,South Asia,2011,80,84,-4,TJK
+Tadjikistan,South Asia,2012,91,94,-3,TJK
+Tadjikistan,South Asia,2013,139,139,0,TJK
+Tadjikistan,South Asia,2014,153,162,-9,TJK
+Tadjikistan,South Asia,2015,217,217,0,TJK
+Tadjikistan,South Asia,2016,223,211,12,TJK
+Tadjikistan,South Asia,2017,143,139,4,TJK
+Tadjikistan,South Asia,2018,167,163,4,TJK
+Turkmenistan,South Asia,1996,7,28,-21,TKM
+Turkmenistan,South Asia,1997,7,12,-5,TKM
+Turkmenistan,South Asia,1998,3,4,-1,TKM
+Turkmenistan,South Asia,1999,14,14,0,TKM
+Turkmenistan,South Asia,2000,23,20,3,TKM
+Turkmenistan,South Asia,2001,23,23,0,TKM
+Turkmenistan,South Asia,2002,9,12,-3,TKM
+Turkmenistan,South Asia,2003,15,12,3,TKM
+Turkmenistan,South Asia,2004,60,60,0,TKM
+Turkmenistan,South Asia,2005,36,29,7,TKM
+Turkmenistan,South Asia,2006,36,39,-3,TKM
+Turkmenistan,South Asia,2007,47,36,11,TKM
+Turkmenistan,South Asia,2008,46,36,10,TKM
+Turkmenistan,South Asia,2009,54,53,1,TKM
+Turkmenistan,South Asia,2010,57,56,1,TKM
+Turkmenistan,South Asia,2011,72,81,-9,TKM
+Turkmenistan,South Asia,2012,88,78,10,TKM
+Turkmenistan,South Asia,2013,60,60,0,TKM
+Turkmenistan,South Asia,2014,87,82,5,TKM
+Turkmenistan,South Asia,2015,103,105,-2,TKM
+Turkmenistan,South Asia,2016,172,165,7,TKM
+Turkmenistan,South Asia,2017,218,238,-20,TKM
+Turkmenistan,South Asia,2018,235,245,-10,TKM
+Uzbekistan,South Asia,1996,42,29,13,UZB
+Uzbekistan,South Asia,1997,21,24,-3,UZB
+Uzbekistan,South Asia,1998,54,61,-7,UZB
+Uzbekistan,South Asia,1999,17,17,0,UZB
+Uzbekistan,South Asia,2000,111,98,13,UZB
+Uzbekistan,South Asia,2001,34,32,2,UZB
+Uzbekistan,South Asia,2002,56,55,1,UZB
+Uzbekistan,South Asia,2003,94,88,6,UZB
+Uzbekistan,South Asia,2004,94,97,-3,UZB
+Uzbekistan,South Asia,2005,131,113,18,UZB
+Uzbekistan,South Asia,2006,125,95,30,UZB
+Uzbekistan,South Asia,2007,151,141,10,UZB
+Uzbekistan,South Asia,2008,292,282,10,UZB
+Uzbekistan,South Asia,2009,460,425,35,UZB
+Uzbekistan,South Asia,2010,520,489,31,UZB
+Uzbekistan,South Asia,2011,497,510,-13,UZB
+Uzbekistan,South Asia,2012,557,543,14,UZB
+Uzbekistan,South Asia,2013,516,516,0,UZB
+Uzbekistan,South Asia,2014,572,564,8,UZB
+Uzbekistan,South Asia,2015,568,558,10,UZB
+Uzbekistan,South Asia,2016,552,527,25,UZB
+Uzbekistan,South Asia,2017,546,537,9,UZB
+Uzbekistan,South Asia,2018,704,722,-18,UZB
+Brunei,South East Asia,1996,0,0,0,BRN
+Brunei,South East Asia,1997,2,10,-8,BRN
+Brunei,South East Asia,1998,0,0,0,BRN
+Brunei,South East Asia,1999,3,5,-2,BRN
+Brunei,South East Asia,2000,6,6,0,BRN
+Brunei,South East Asia,2001,2,4,-2,BRN
+Brunei,South East Asia,2002,16,16,0,BRN
+Brunei,South East Asia,2003,8,6,2,BRN
+Brunei,South East Asia,2004,11,11,0,BRN
+Brunei,South East Asia,2005,6,6,0,BRN
+Brunei,South East Asia,2006,11,13,-2,BRN
+Brunei,South East Asia,2007,1,1,0,BRN
+Brunei,South East Asia,2008,2,2,0,BRN
+Brunei,South East Asia,2009,40,21,19,BRN
+Brunei,South East Asia,2010,24,16,8,BRN
+Brunei,South East Asia,2011,83,72,11,BRN
+Brunei,South East Asia,2012,56,87,-31,BRN
+Brunei,South East Asia,2013,67,67,0,BRN
+Brunei,South East Asia,2014,77,72,5,BRN
+Brunei,South East Asia,2015,115,96,19,BRN
+Brunei,South East Asia,2016,127,97,30,BRN
+Brunei,South East Asia,2017,113,99,14,BRN
+Brunei,South East Asia,2018,63,82,-19,BRN
+Myanmar,South East Asia,1996,6,6,0,MMR
+Myanmar,South East Asia,1997,5,5,0,MMR
+Myanmar,South East Asia,1998,7,5,2,MMR
+Myanmar,South East Asia,1999,5,5,0,MMR
+Myanmar,South East Asia,2000,2,1,1,MMR
+Myanmar,South East Asia,2001,6,6,0,MMR
+Myanmar,South East Asia,2002,37,37,0,MMR
+Myanmar,South East Asia,2003,11,11,0,MMR
+Myanmar,South East Asia,2004,34,30,4,MMR
+Myanmar,South East Asia,2005,24,22,2,MMR
+Myanmar,South East Asia,2006,48,47,1,MMR
+Myanmar,South East Asia,2007,50,41,9,MMR
+Myanmar,South East Asia,2008,78,77,1,MMR
+Myanmar,South East Asia,2009,48,58,-10,MMR
+Myanmar,South East Asia,2010,47,48,-1,MMR
+Myanmar,South East Asia,2011,65,68,-3,MMR
+Myanmar,South East Asia,2012,37,41,-4,MMR
+Myanmar,South East Asia,2013,52,52,0,MMR
+Myanmar,South East Asia,2014,33,36,-3,MMR
+Myanmar,South East Asia,2015,63,68,-5,MMR
+Myanmar,South East Asia,2016,106,96,10,MMR
+Myanmar,South East Asia,2017,66,65,1,MMR
+Myanmar,South East Asia,2018,56,54,2,MMR
+Cambodia,South East Asia,1996,5,11,-6,KHM
+Cambodia,South East Asia,1997,14,29,-15,KHM
+Cambodia,South East Asia,1998,9,9,0,KHM
+Cambodia,South East Asia,1999,3,7,-4,KHM
+Cambodia,South East Asia,2000,10,4,6,KHM
+Cambodia,South East Asia,2001,4,1,3,KHM
+Cambodia,South East Asia,2002,21,15,6,KHM
+Cambodia,South East Asia,2003,30,27,3,KHM
+Cambodia,South East Asia,2004,31,37,-6,KHM
+Cambodia,South East Asia,2005,24,25,-1,KHM
+Cambodia,South East Asia,2006,16,23,-7,KHM
+Cambodia,South East Asia,2007,6,7,-1,KHM
+Cambodia,South East Asia,2008,6,2,4,KHM
+Cambodia,South East Asia,2009,11,16,-5,KHM
+Cambodia,South East Asia,2010,229,8,221,KHM
+Cambodia,South East Asia,2011,240,243,-3,KHM
+Cambodia,South East Asia,2012,251,252,-1,KHM
+Cambodia,South East Asia,2013,197,197,0,KHM
+Cambodia,South East Asia,2014,225,225,0,KHM
+Cambodia,South East Asia,2015,68,68,0,KHM
+Cambodia,South East Asia,2016,207,210,-3,KHM
+Cambodia,South East Asia,2017,232,241,-9,KHM
+Cambodia,South East Asia,2018,249,249,0,KHM
+Indonesia,South East Asia,1996,1020,974,46,IDN
+Indonesia,South East Asia,1997,2004,1806,198,IDN
+Indonesia,South East Asia,1998,2422,2043,379,IDN
+Indonesia,South East Asia,1999,2900,2563,337,IDN
+Indonesia,South East Asia,2000,3334,3286,48,IDN
+Indonesia,South East Asia,2001,4143,4203,-60,IDN
+Indonesia,South East Asia,2002,5605,5677,-72,IDN
+Indonesia,South East Asia,2003,6466,6472,-6,IDN
+Indonesia,South East Asia,2004,8263,8226,37,IDN
+Indonesia,South East Asia,2005,5401,5477,-76,IDN
+Indonesia,South East Asia,2006,5264,4333,931,IDN
+Indonesia,South East Asia,2007,5593,5218,375,IDN
+Indonesia,South East Asia,2008,7451,7325,126,IDN
+Indonesia,South East Asia,2009,10567,10055,512,IDN
+Indonesia,South East Asia,2010,10525,10826,-301,IDN
+Indonesia,South East Asia,2011,8446,8640,-194,IDN
+Indonesia,South East Asia,2012,9218,8869,349,IDN
+Indonesia,South East Asia,2013,10816,10816,0,IDN
+Indonesia,South East Asia,2014,6759,6950,-191,IDN
+Indonesia,South East Asia,2015,5990,6172,-182,IDN
+Indonesia,South East Asia,2016,6167,6210,-43,IDN
+Indonesia,South East Asia,2017,5567,5539,28,IDN
+Indonesia,South East Asia,2018,6208,6112,96,IDN
+Laos,South East Asia,1996,1,1,0,LAO
+Laos,South East Asia,1997,0,2,-2,LAO
+Laos,South East Asia,1998,11,16,-5,LAO
+Laos,South East Asia,1999,34,35,-1,LAO
+Laos,South East Asia,2000,4,2,2,LAO
+Laos,South East Asia,2001,5,4,1,LAO
+Laos,South East Asia,2002,19,20,-1,LAO
+Laos,South East Asia,2003,3,40,-37,LAO
+Laos,South East Asia,2004,0,0,0,LAO
+Laos,South East Asia,2005,0,0,0,LAO
+Laos,South East Asia,2006,0,0,0,LAO
+Laos,South East Asia,2007,0,0,0,LAO
+Laos,South East Asia,2008,0,0,0,LAO
+Laos,South East Asia,2009,3,3,0,LAO
+Laos,South East Asia,2010,1,1,0,LAO
+Laos,South East Asia,2011,14,9,5,LAO
+Laos,South East Asia,2012,0,0,0,LAO
+Laos,South East Asia,2013,1,1,0,LAO
+Laos,South East Asia,2014,1,1,0,LAO
+Laos,South East Asia,2015,31,33,-2,LAO
+Laos,South East Asia,2016,2,0,2,LAO
+Laos,South East Asia,2017,2,0,2,LAO
+Laos,South East Asia,2018,6,5,1,LAO
+Malaysia,South East Asia,1996,3463,2862,601,MYS
+Malaysia,South East Asia,1997,2570,2994,-424,MYS
+Malaysia,South East Asia,1998,639,608,31,MYS
+Malaysia,South East Asia,1999,793,934,-141,MYS
+Malaysia,South East Asia,2000,633,621,12,MYS
+Malaysia,South East Asia,2001,553,553,0,MYS
+Malaysia,South East Asia,2002,1160,1142,18,MYS
+Malaysia,South East Asia,2003,1121,1091,30,MYS
+Malaysia,South East Asia,2004,1889,1875,14,MYS
+Malaysia,South East Asia,2005,1418,1398,20,MYS
+Malaysia,South East Asia,2006,1512,1522,-10,MYS
+Malaysia,South East Asia,2007,2338,1976,362,MYS
+Malaysia,South East Asia,2008,2875,2614,261,MYS
+Malaysia,South East Asia,2009,3587,3661,-74,MYS
+Malaysia,South East Asia,2010,4901,4739,162,MYS
+Malaysia,South East Asia,2011,4580,4624,-44,MYS
+Malaysia,South East Asia,2012,3598,3328,270,MYS
+Malaysia,South East Asia,2013,3252,3252,0,MYS
+Malaysia,South East Asia,2014,3166,3385,-219,MYS
+Malaysia,South East Asia,2015,2996,2913,83,MYS
+Malaysia,South East Asia,2016,3278,3302,-24,MYS
+Malaysia,South East Asia,2017,3301,3356,-55,MYS
+Malaysia,South East Asia,2018,3096,3303,-207,MYS
+Vietnam,South East Asia,1996,56,365,-309,VNM
+Vietnam,South East Asia,1997,93,85,8,VNM
+Vietnam,South East Asia,1998,59,92,-33,VNM
+Vietnam,South East Asia,1999,36,68,-32,VNM
+Vietnam,South East Asia,2000,225,42,183,VNM
+Vietnam,South East Asia,2001,553,77,476,VNM
+Vietnam,South East Asia,2002,168,216,-48,VNM
+Vietnam,South East Asia,2003,76,227,-151,VNM
+Vietnam,South East Asia,2004,100,315,-215,VNM
+Vietnam,South East Asia,2005,79,202,-123,VNM
+Vietnam,South East Asia,2006,55,141,-86,VNM
+Vietnam,South East Asia,2007,68,61,7,VNM
+Vietnam,South East Asia,2008,203,102,101,VNM
+Vietnam,South East Asia,2009,218,151,67,VNM
+Vietnam,South East Asia,2010,199,191,8,VNM
+Vietnam,South East Asia,2011,143,187,-44,VNM
+Vietnam,South East Asia,2012,104,135,-31,VNM
+Vietnam,South East Asia,2013,100,100,0,VNM
+Vietnam,South East Asia,2014,150,171,-21,VNM
+Vietnam,South East Asia,2015,134,149,-15,VNM
+Vietnam,South East Asia,2016,134,141,-7,VNM
+Vietnam,South East Asia,2017,144,158,-14,VNM
+Vietnam,South East Asia,2018,166,174,-8,VNM
+Singapur,South East Asia,1996,84,64,20,SGP
+Singapur,South East Asia,1997,179,119,60,SGP
+Singapur,South East Asia,1998,130,110,20,SGP
+Singapur,South East Asia,1999,118,114,4,SGP
+Singapur,South East Asia,2000,217,209,8,SGP
+Singapur,South East Asia,2001,188,182,6,SGP
+Singapur,South East Asia,2002,203,214,-11,SGP
+Singapur,South East Asia,2003,259,263,-4,SGP
+Singapur,South East Asia,2004,480,461,19,SGP
+Singapur,South East Asia,2005,541,531,10,SGP
+Singapur,South East Asia,2006,286,294,-8,SGP
+Singapur,South East Asia,2007,166,163,3,SGP
+Singapur,South East Asia,2008,392,392,0,SGP
+Singapur,South East Asia,2009,626,614,12,SGP
+Singapur,South East Asia,2010,828,824,4,SGP
+Singapur,South East Asia,2011,517,524,-7,SGP
+Singapur,South East Asia,2012,432,436,-4,SGP
+Singapur,South East Asia,2013,296,296,0,SGP
+Singapur,South East Asia,2014,284,288,-4,SGP
+Singapur,South East Asia,2015,314,306,8,SGP
+Singapur,South East Asia,2016,365,363,2,SGP
+Singapur,South East Asia,2017,558,555,3,SGP
+Singapur,South East Asia,2018,637,615,22,SGP
+Thailand,South East Asia,1996,148,336,-188,THA
+Thailand,South East Asia,1997,128,105,23,THA
+Thailand,South East Asia,1998,162,203,-41,THA
+Thailand,South East Asia,1999,166,159,7,THA
+Thailand,South East Asia,2000,398,377,21,THA
+Thailand,South East Asia,2001,292,323,-31,THA
+Thailand,South East Asia,2002,316,331,-15,THA
+Thailand,South East Asia,2003,318,315,3,THA
+Thailand,South East Asia,2004,371,356,15,THA
+Thailand,South East Asia,2005,310,317,-7,THA
+Thailand,South East Asia,2006,189,190,-1,THA
+Thailand,South East Asia,2007,151,144,7,THA
+Thailand,South East Asia,2008,184,178,6,THA
+Thailand,South East Asia,2009,288,275,13,THA
+Thailand,South East Asia,2010,308,302,6,THA
+Thailand,South East Asia,2011,355,351,4,THA
+Thailand,South East Asia,2012,307,302,5,THA
+Thailand,South East Asia,2013,370,370,0,THA
+Thailand,South East Asia,2014,286,288,-2,THA
+Thailand,South East Asia,2015,326,330,-4,THA
+Thailand,South East Asia,2016,361,334,27,THA
+Thailand,South East Asia,2017,431,412,19,THA
+Thailand,South East Asia,2018,544,474,70,THA
+Philippines,South East Asia,1996,4601,4791,-190,PHL
+Philippines,South East Asia,1997,6033,6216,-183,PHL
+Philippines,South East Asia,1998,7031,6583,448,PHL
+Philippines,South East Asia,1999,6301,5999,302,PHL
+Philippines,South East Asia,2000,8948,7616,1332,PHL
+Philippines,South East Asia,2001,11423,9736,1687,PHL
+Philippines,South East Asia,2002,14723,12810,1913,PHL
+Philippines,South East Asia,2003,18070,15131,2939,PHL
+Philippines,South East Asia,2004,25296,19837,5459,PHL
+Philippines,South East Asia,2005,30655,20315,10340,PHL
+Philippines,South East Asia,2006,26104,27270,-1166,PHL
+Philippines,South East Asia,2007,17388,20469,-3081,PHL
+Philippines,South East Asia,2008,28042,28750,-708,PHL
+Philippines,South East Asia,2009,39384,33490,5894,PHL
+Philippines,South East Asia,2010,41174,35802,5372,PHL
+Philippines,South East Asia,2011,30172,32624,-2452,PHL
+Philippines,South East Asia,2012,27620,31388,-3768,PHL
+Philippines,South East Asia,2013,29172,29172,0,PHL
+Philippines,South East Asia,2014,28971,28042,929,PHL
+Philippines,South East Asia,2015,29373,30851,-1478,PHL
+Philippines,South East Asia,2016,29438,31108,-1670,PHL
+Philippines,South East Asia,2017,31778,32707,-929,PHL
+Philippines,South East Asia,2018,32321,32026,295,PHL
+Armenia,Caucasia,1996,531,488,43,ARM
+Armenia,Caucasia,1997,545,555,-10,ARM
+Armenia,Caucasia,1998,821,813,8,ARM
+Armenia,Caucasia,1999,974,954,20,ARM
+Armenia,Caucasia,2000,883,838,45,ARM
+Armenia,Caucasia,2001,1287,1279,8,ARM
+Armenia,Caucasia,2002,1237,1201,36,ARM
+Armenia,Caucasia,2003,1395,1357,38,ARM
+Armenia,Caucasia,2004,1832,1806,26,ARM
+Armenia,Caucasia,2005,1396,1395,1,ARM
+Armenia,Caucasia,2006,1159,1245,-86,ARM
+Armenia,Caucasia,2007,991,941,50,ARM
+Armenia,Caucasia,2008,1511,1423,88,ARM
+Armenia,Caucasia,2009,1810,1805,5,ARM
+Armenia,Caucasia,2010,2123,2044,79,ARM
+Armenia,Caucasia,2011,1889,1794,95,ARM
+Armenia,Caucasia,2012,1617,1660,-43,ARM
+Armenia,Caucasia,2013,1972,1972,0,ARM
+Armenia,Caucasia,2014,3552,3460,92,ARM
+Armenia,Caucasia,2015,9875,9822,53,ARM
+Armenia,Caucasia,2016,11060,11039,21,ARM
+Armenia,Caucasia,2017,12490,12791,-301,ARM
+Armenia,Caucasia,2018,13680,14198,-518,ARM
+Azarbeijan,Caucasia,1996,3,2,1,AZE
+Azarbeijan,Caucasia,1997,16,8,8,AZE
+Azarbeijan,Caucasia,1998,16,24,-8,AZE
+Azarbeijan,Caucasia,1999,23,26,-3,AZE
+Azarbeijan,Caucasia,2000,21,21,0,AZE
+Azarbeijan,Caucasia,2001,46,54,-8,AZE
+Azarbeijan,Caucasia,2002,56,52,4,AZE
+Azarbeijan,Caucasia,2003,169,171,-2,AZE
+Azarbeijan,Caucasia,2004,105,97,8,AZE
+Azarbeijan,Caucasia,2005,83,88,-5,AZE
+Azarbeijan,Caucasia,2006,78,80,-2,AZE
+Azarbeijan,Caucasia,2007,78,78,0,AZE
+Azarbeijan,Caucasia,2008,114,111,3,AZE
+Azarbeijan,Caucasia,2009,222,223,-1,AZE
+Azarbeijan,Caucasia,2010,255,244,11,AZE
+Azarbeijan,Caucasia,2011,261,247,14,AZE
+Azarbeijan,Caucasia,2012,306,309,-3,AZE
+Azarbeijan,Caucasia,2013,268,268,0,AZE
+Azarbeijan,Caucasia,2014,256,259,-3,AZE
+Azarbeijan,Caucasia,2015,391,396,-5,AZE
+Azarbeijan,Caucasia,2016,400,406,-6,AZE
+Azarbeijan,Caucasia,2017,499,483,16,AZE
+Azarbeijan,Caucasia,2018,529,541,-12,AZE
+Georgia,Caucasia,1996,83,49,34,GEO
+Georgia,Caucasia,1997,27,25,2,GEO
+Georgia,Caucasia,1998,29,8,21,GEO
+Georgia,Caucasia,1999,74,71,3,GEO
+Georgia,Caucasia,2000,30,28,2,GEO
+Georgia,Caucasia,2001,50,43,7,GEO
+Georgia,Caucasia,2002,87,89,-2,GEO
+Georgia,Caucasia,2003,160,168,-8,GEO
+Georgia,Caucasia,2004,275,268,7,GEO
+Georgia,Caucasia,2005,257,233,24,GEO
+Georgia,Caucasia,2006,181,190,-9,GEO
+Georgia,Caucasia,2007,232,234,-2,GEO
+Georgia,Caucasia,2008,147,151,-4,GEO
+Georgia,Caucasia,2009,223,225,-2,GEO
+Georgia,Caucasia,2010,344,337,7,GEO
+Georgia,Caucasia,2011,393,397,-4,GEO
+Georgia,Caucasia,2012,422,415,7,GEO
+Georgia,Caucasia,2013,411,411,0,GEO
+Georgia,Caucasia,2014,467,469,-2,GEO
+Georgia,Caucasia,2015,1231,1229,2,GEO
+Georgia,Caucasia,2016,1231,1242,-11,GEO
+Georgia,Caucasia,2017,489,483,6,GEO
+Georgia,Caucasia,2018,582,577,5,GEO
+Albania,East Europe,1996,62,61,1,ALB
+Albania,East Europe,1997,92,65,27,ALB
+Albania,East Europe,1998,135,83,52,ALB
+Albania,East Europe,1999,108,120,-12,ALB
+Albania,East Europe,2000,130,164,-34,ALB
+Albania,East Europe,2001,65,63,2,ALB
+Albania,East Europe,2002,80,93,-13,ALB
+Albania,East Europe,2003,72,67,5,ALB
+Albania,East Europe,2004,90,88,2,ALB
+Albania,East Europe,2005,50,49,1,ALB
+Albania,East Europe,2006,60,56,4,ALB
+Albania,East Europe,2007,56,62,-6,ALB
+Albania,East Europe,2008,49,46,3,ALB
+Albania,East Europe,2009,95,84,11,ALB
+Albania,East Europe,2010,98,95,3,ALB
+Albania,East Europe,2011,87,84,3,ALB
+Albania,East Europe,2012,99,88,11,ALB
+Albania,East Europe,2013,111,111,0,ALB
+Albania,East Europe,2014,101,104,-3,ALB
+Albania,East Europe,2015,189,185,4,ALB
+Albania,East Europe,2016,206,191,15,ALB
+Albania,East Europe,2017,138,138,0,ALB
+Albania,East Europe,2018,184,180,4,ALB
+Belarusia,East Europe,1996,98,41,57,BLR
+Belarusia,East Europe,1997,27,53,-26,BLR
+Belarusia,East Europe,1998,335,231,104,BLR
+Belarusia,East Europe,1999,638,520,118,BLR
+Belarusia,East Europe,2000,682,701,-19,BLR
+Belarusia,East Europe,2001,1085,994,91,BLR
+Belarusia,East Europe,2002,1410,1308,102,BLR
+Belarusia,East Europe,2003,1431,1401,30,BLR
+Belarusia,East Europe,2004,1518,1502,16,BLR
+Belarusia,East Europe,2005,1623,1627,-4,BLR
+Belarusia,East Europe,2006,1506,1491,15,BLR
+Belarusia,East Europe,2007,1337,1338,-1,BLR
+Belarusia,East Europe,2008,1572,1542,30,BLR
+Belarusia,East Europe,2009,1972,1864,108,BLR
+Belarusia,East Europe,2010,2379,2308,71,BLR
+Belarusia,East Europe,2011,2279,2321,-42,BLR
+Belarusia,East Europe,2012,2383,2346,37,BLR
+Belarusia,East Europe,2013,2217,2217,0,BLR
+Belarusia,East Europe,2014,2367,2347,20,BLR
+Belarusia,East Europe,2015,2538,2527,11,BLR
+Belarusia,East Europe,2016,2733,2706,27,BLR
+Belarusia,East Europe,2017,3129,3128,1,BLR
+Belarusia,East Europe,2018,3379,3405,-26,BLR
+Bosnia,East Europe,1996,20,12,8,BIH
+Bosnia,East Europe,1997,10,16,-6,BIH
+Bosnia,East Europe,1998,38,30,8,BIH
+Bosnia,East Europe,1999,47,59,-12,BIH
+Bosnia,East Europe,2000,66,50,16,BIH
+Bosnia,East Europe,2001,92,87,5,BIH
+Bosnia,East Europe,2002,108,107,1,BIH
+Bosnia,East Europe,2003,160,151,9,BIH
+Bosnia,East Europe,2004,153,157,-4,BIH
+Bosnia,East Europe,2005,114,109,5,BIH
+Bosnia,East Europe,2006,154,140,14,BIH
+Bosnia,East Europe,2007,190,197,-7,BIH
+Bosnia,East Europe,2008,235,234,1,BIH
+Bosnia,East Europe,2009,306,292,14,BIH
+Bosnia,East Europe,2010,361,363,-2,BIH
+Bosnia,East Europe,2011,251,243,8,BIH
+Bosnia,East Europe,2012,286,278,8,BIH
+Bosnia,East Europe,2013,253,253,0,BIH
+Bosnia,East Europe,2014,234,225,9,BIH
+Bosnia,East Europe,2015,279,286,-7,BIH
+Bosnia,East Europe,2016,324,335,-11,BIH
+Bosnia,East Europe,2017,327,318,9,BIH
+Bosnia,East Europe,2018,338,320,18,BIH
+Bulgaria,East Europe,1996,1090,1130,-40,BGR
+Bulgaria,East Europe,1997,1151,1059,92,BGR
+Bulgaria,East Europe,1998,1285,1233,52,BGR
+Bulgaria,East Europe,1999,1213,1283,-70,BGR
+Bulgaria,East Europe,2000,1179,1190,-11,BGR
+Bulgaria,East Europe,2001,1391,1378,13,BGR
+Bulgaria,East Europe,2002,1523,1492,31,BGR
+Bulgaria,East Europe,2003,1410,1456,-46,BGR
+Bulgaria,East Europe,2004,1569,1555,14,BGR
+Bulgaria,East Europe,2005,1210,1221,-11,BGR
+Bulgaria,East Europe,2006,1096,1144,-48,BGR
+Bulgaria,East Europe,2007,1082,1077,5,BGR
+Bulgaria,East Europe,2008,1537,1514,23,BGR
+Bulgaria,East Europe,2009,1842,1859,-17,BGR
+Bulgaria,East Europe,2010,2591,2569,22,BGR
+Bulgaria,East Europe,2011,2167,2153,14,BGR
+Bulgaria,East Europe,2012,2020,2050,-30,BGR
+Bulgaria,East Europe,2013,2177,2177,0,BGR
+Bulgaria,East Europe,2014,2385,2384,1,BGR
+Bulgaria,East Europe,2015,2952,2952,0,BGR
+Bulgaria,East Europe,2016,2995,3061,-66,BGR
+Bulgaria,East Europe,2017,3122,3154,-32,BGR
+Bulgaria,East Europe,2018,3638,3602,36,BGR
+Croatia,East Europe,1996,100,71,29,HRV
+Croatia,East Europe,1997,210,174,36,HRV
+Croatia,East Europe,1998,138,134,4,HRV
+Croatia,East Europe,1999,113,131,-18,HRV
+Croatia,East Europe,2000,153,168,-15,HRV
+Croatia,East Europe,2001,179,169,10,HRV
+Croatia,East Europe,2002,342,334,8,HRV
+Croatia,East Europe,2003,395,400,-5,HRV
+Croatia,East Europe,2004,593,579,14,HRV
+Croatia,East Europe,2005,344,351,-7,HRV
+Croatia,East Europe,2006,412,351,61,HRV
+Croatia,East Europe,2007,429,483,-54,HRV
+Croatia,East Europe,2008,517,510,7,HRV
+Croatia,East Europe,2009,679,674,5,HRV
+Croatia,East Europe,2010,779,761,18,HRV
+Croatia,East Europe,2011,641,635,6,HRV
+Croatia,East Europe,2012,729,732,-3,HRV
+Croatia,East Europe,2013,708,708,0,HRV
+Croatia,East Europe,2014,743,753,-10,HRV
+Croatia,East Europe,2015,906,896,10,HRV
+Croatia,East Europe,2016,958,956,2,HRV
+Croatia,East Europe,2017,1241,1249,-8,HRV
+Croatia,East Europe,2018,1697,1616,81,HRV
+Czech Republic,East Europe,1996,664,661,3,CZE
+Czech Republic,East Europe,1997,782,750,32,CZE
+Czech Republic,East Europe,1998,724,739,-15,CZE
+Czech Republic,East Europe,1999,882,849,33,CZE
+Czech Republic,East Europe,2000,1017,1042,-25,CZE
+Czech Republic,East Europe,2001,1324,1324,0,CZE
+Czech Republic,East Europe,2002,1821,1835,-14,CZE
+Czech Republic,East Europe,2003,1591,1606,-15,CZE
+Czech Republic,East Europe,2004,1726,1715,11,CZE
+Czech Republic,East Europe,2005,1653,1687,-34,CZE
+Czech Republic,East Europe,2006,1200,1187,13,CZE
+Czech Republic,East Europe,2007,1570,1551,19,CZE
+Czech Republic,East Europe,2008,1724,1735,-11,CZE
+Czech Republic,East Europe,2009,2140,2110,30,CZE
+Czech Republic,East Europe,2010,2780,2830,-50,CZE
+Czech Republic,East Europe,2011,1838,1797,41,CZE
+Czech Republic,East Europe,2012,1820,1804,16,CZE
+Czech Republic,East Europe,2013,1646,1646,0,CZE
+Czech Republic,East Europe,2014,1610,1627,-17,CZE
+Czech Republic,East Europe,2015,1852,1863,-11,CZE
+Czech Republic,East Europe,2016,2314,2297,17,CZE
+Czech Republic,East Europe,2017,2911,2906,5,CZE
+Czech Republic,East Europe,2018,3248,3252,-4,CZE
+Hungary,East Europe,1996,560,576,-16,HUN
+Hungary,East Europe,1997,508,487,21,HUN
+Hungary,East Europe,1998,574,532,42,HUN
+Hungary,East Europe,1999,743,713,30,HUN
+Hungary,East Europe,2000,729,734,-5,HUN
+Hungary,East Europe,2001,717,721,-4,HUN
+Hungary,East Europe,2002,1123,1117,6,HUN
+Hungary,East Europe,2003,926,951,-25,HUN
+Hungary,East Europe,2004,1438,1453,-15,HUN
+Hungary,East Europe,2005,1314,1318,-4,HUN
+Hungary,East Europe,2006,1069,1075,-6,HUN
+Hungary,East Europe,2007,921,919,2,HUN
+Hungary,East Europe,2008,1433,1416,17,HUN
+Hungary,East Europe,2009,1657,1674,-17,HUN
+Hungary,East Europe,2010,1886,1886,0,HUN
+Hungary,East Europe,2011,1411,1416,-5,HUN
+Hungary,East Europe,2012,1168,1187,-19,HUN
+Hungary,East Europe,2013,1103,1103,0,HUN
+Hungary,East Europe,2014,1136,1174,-38,HUN
+Hungary,East Europe,2015,1351,1342,9,HUN
+Hungary,East Europe,2016,1511,1525,-14,HUN
+Hungary,East Europe,2017,1934,1926,8,HUN
+Hungary,East Europe,2018,2304,2291,13,HUN
+Macedonia,East Europe,1996,6,4,2,MKD
+Macedonia,East Europe,1997,5,19,-14,MKD
+Macedonia,East Europe,1998,4,7,-3,MKD
+Macedonia,East Europe,1999,4,11,-7,MKD
+Macedonia,East Europe,2000,2,0,2,MKD
+Macedonia,East Europe,2001,24,24,0,MKD
+Macedonia,East Europe,2002,61,55,6,MKD
+Macedonia,East Europe,2003,72,82,-10,MKD
+Macedonia,East Europe,2004,49,49,0,MKD
+Macedonia,East Europe,2005,35,35,0,MKD
+Macedonia,East Europe,2006,75,61,14,MKD
+Macedonia,East Europe,2007,121,117,4,MKD
+Macedonia,East Europe,2008,112,109,3,MKD
+Macedonia,East Europe,2009,185,182,3,MKD
+Macedonia,East Europe,2010,185,186,-1,MKD
+Macedonia,East Europe,2011,175,171,4,MKD
+Macedonia,East Europe,2012,152,155,-3,MKD
+Macedonia,East Europe,2013,163,163,0,MKD
+Macedonia,East Europe,2014,165,158,7,MKD
+Macedonia,East Europe,2015,220,221,-1,MKD
+Macedonia,East Europe,2016,205,210,-5,MKD
+Macedonia,East Europe,2017,263,265,-2,MKD
+Macedonia,East Europe,2018,323,317,6,MKD
+Moldavia,East Europe,1996,104,57,47,MDA
+Moldavia,East Europe,1997,64,76,-12,MDA
+Moldavia,East Europe,1998,245,176,69,MDA
+Moldavia,East Europe,1999,398,414,-16,MDA
+Moldavia,East Europe,2000,560,520,40,MDA
+Moldavia,East Europe,2001,715,686,29,MDA
+Moldavia,East Europe,2002,896,848,48,MDA
+Moldavia,East Europe,2003,769,787,-18,MDA
+Moldavia,East Europe,2004,980,982,-2,MDA
+Moldavia,East Europe,2005,780,729,51,MDA
+Moldavia,East Europe,2006,925,873,52,MDA
+Moldavia,East Europe,2007,931,915,16,MDA
+Moldavia,East Europe,2008,1082,1025,57,MDA
+Moldavia,East Europe,2009,1275,1261,14,MDA
+Moldavia,East Europe,2010,1439,1350,89,MDA
+Moldavia,East Europe,2011,1461,1516,-55,MDA
+Moldavia,East Europe,2012,1366,1385,-19,MDA
+Moldavia,East Europe,2013,1377,1377,0,MDA
+Moldavia,East Europe,2014,1324,1332,-8,MDA
+Moldavia,East Europe,2015,1258,1290,-32,MDA
+Moldavia,East Europe,2016,1243,1271,-28,MDA
+Moldavia,East Europe,2017,1202,1201,1,MDA
+Moldavia,East Europe,2018,1165,1212,-47,MDA
+Poland,East Europe,1996,819,760,59,POL
+Poland,East Europe,1997,855,1061,-206,POL
+Poland,East Europe,1998,1230,1442,-212,POL
+Poland,East Europe,1999,2394,2518,-124,POL
+Poland,East Europe,2000,2414,2660,-246,POL
+Poland,East Europe,2001,3729,4062,-333,POL
+Poland,East Europe,2002,3172,3247,-75,POL
+Poland,East Europe,2003,2684,2714,-30,POL
+Poland,East Europe,2004,3598,3490,108,POL
+Poland,East Europe,2005,3932,3887,45,POL
+Poland,East Europe,2006,3003,2954,49,POL
+Poland,East Europe,2007,2726,2601,125,POL
+Poland,East Europe,2008,3694,3914,-220,POL
+Poland,East Europe,2009,4397,4742,-345,POL
+Poland,East Europe,2010,4906,4812,94,POL
+Poland,East Europe,2011,3837,3880,-43,POL
+Poland,East Europe,2012,3118,3148,-30,POL
+Poland,East Europe,2013,3010,3010,0,POL
+Poland,East Europe,2014,3365,3383,-18,POL
+Poland,East Europe,2015,3431,3464,-33,POL
+Poland,East Europe,2016,4123,4101,22,POL
+Poland,East Europe,2017,4775,4728,47,POL
+Poland,East Europe,2018,5957,5928,29,POL
+Romania,East Europe,1996,2450,2181,269,ROU
+Romania,East Europe,1997,2989,2757,232,ROU
+Romania,East Europe,1998,3052,3113,-61,ROU
+Romania,East Europe,1999,2509,2741,-232,ROU
+Romania,East Europe,2000,2366,2196,170,ROU
+Romania,East Europe,2001,2233,2316,-83,ROU
+Romania,East Europe,2002,2209,2236,-27,ROU
+Romania,East Europe,2003,2285,2321,-36,ROU
+Romania,East Europe,2004,2134,2128,6,ROU
+Romania,East Europe,2005,1928,1923,5,ROU
+Romania,East Europe,2006,2123,2219,-96,ROU
+Romania,East Europe,2007,2222,2194,28,ROU
+Romania,East Europe,2008,3157,3124,33,ROU
+Romania,East Europe,2009,3933,3913,20,ROU
+Romania,East Europe,2010,4639,4610,29,ROU
+Romania,East Europe,2011,4190,4200,-10,ROU
+Romania,East Europe,2012,4272,4314,-42,ROU
+Romania,East Europe,2013,4844,4844,0,ROU
+Romania,East Europe,2014,5136,5171,-35,ROU
+Romania,East Europe,2015,6078,6187,-109,ROU
+Romania,East Europe,2016,6587,6660,-73,ROU
+Romania,East Europe,2017,7737,7771,-34,ROU
+Romania,East Europe,2018,8587,8584,3,ROU
+Russia,East Europe,1996,6032,6136,-104,RUS
+Russia,East Europe,1997,5360,5514,-154,RUS
+Russia,East Europe,1998,4511,4589,-78,RUS
+Russia,East Europe,1999,5944,5541,403,RUS
+Russia,East Europe,2000,5044,5076,-32,RUS
+Russia,East Europe,2001,5853,5874,-21,RUS
+Russia,East Europe,2002,6762,6718,44,RUS
+Russia,East Europe,2003,7881,7879,2,RUS
+Russia,East Europe,2004,8994,8873,121,RUS
+Russia,East Europe,2005,9157,8939,218,RUS
+Russia,East Europe,2006,8065,8342,-277,RUS
+Russia,East Europe,2007,6856,6834,22,RUS
+Russia,East Europe,2008,8333,8169,164,RUS
+Russia,East Europe,2009,9838,9753,85,RUS
+Russia,East Europe,2010,12175,12114,61,RUS
+Russia,East Europe,2011,11121,10999,122,RUS
+Russia,East Europe,2012,9954,10164,-210,RUS
+Russia,East Europe,2013,11942,11942,0,RUS
+Russia,East Europe,2014,12841,12837,4,RUS
+Russia,East Europe,2015,13933,14108,-175,RUS
+Russia,East Europe,2016,16205,16200,5,RUS
+Russia,East Europe,2017,20080,20111,-31,RUS
+Russia,East Europe,2018,22075,22189,-114,RUS
+Slovakia,East Europe,1996,191,167,24,SVK
+Slovakia,East Europe,1997,150,124,26,SVK
+Slovakia,East Europe,1998,239,288,-49,SVK
+Slovakia,East Europe,1999,421,367,54,SVK
+Slovakia,East Europe,2000,448,495,-47,SVK
+Slovakia,East Europe,2001,571,593,-22,SVK
+Slovakia,East Europe,2002,569,548,21,SVK
+Slovakia,East Europe,2003,554,586,-32,SVK
+Slovakia,East Europe,2004,616,611,5,SVK
+Slovakia,East Europe,2005,620,624,-4,SVK
+Slovakia,East Europe,2006,415,402,13,SVK
+Slovakia,East Europe,2007,592,570,22,SVK
+Slovakia,East Europe,2008,841,852,-11,SVK
+Slovakia,East Europe,2009,1024,1035,-11,SVK
+Slovakia,East Europe,2010,1143,1169,-26,SVK
+Slovakia,East Europe,2011,1014,1011,3,SVK
+Slovakia,East Europe,2012,738,765,-27,SVK
+Slovakia,East Europe,2013,705,705,0,SVK
+Slovakia,East Europe,2014,762,763,-1,SVK
+Slovakia,East Europe,2015,1659,1644,15,SVK
+Slovakia,East Europe,2016,1633,1650,-17,SVK
+Slovakia,East Europe,2017,1274,1280,-6,SVK
+Slovakia,East Europe,2018,1587,1566,21,SVK
+Slovenia,East Europe,1996,7,16,-9,SVN
+Slovenia,East Europe,1997,13,24,-11,SVN
+Slovenia,East Europe,1998,56,67,-11,SVN
+Slovenia,East Europe,1999,74,186,-112,SVN
+Slovenia,East Europe,2000,216,165,51,SVN
+Slovenia,East Europe,2001,59,53,6,SVN
+Slovenia,East Europe,2002,151,170,-19,SVN
+Slovenia,East Europe,2003,124,96,28,SVN
+Slovenia,East Europe,2004,181,187,-6,SVN
+Slovenia,East Europe,2005,178,174,4,SVN
+Slovenia,East Europe,2006,183,182,1,SVN
+Slovenia,East Europe,2007,123,133,-10,SVN
+Slovenia,East Europe,2008,197,182,15,SVN
+Slovenia,East Europe,2009,314,278,36,SVN
+Slovenia,East Europe,2010,385,353,32,SVN
+Slovenia,East Europe,2011,292,296,-4,SVN
+Slovenia,East Europe,2012,290,282,8,SVN
+Slovenia,East Europe,2013,340,340,0,SVN
+Slovenia,East Europe,2014,331,335,-4,SVN
+Slovenia,East Europe,2015,427,419,8,SVN
+Slovenia,East Europe,2016,510,502,8,SVN
+Slovenia,East Europe,2017,529,521,8,SVN
+Slovenia,East Europe,2018,638,636,2,SVN
+Ukraine,East Europe,1996,1535,1671,-136,UKR
+Ukraine,East Europe,1997,1679,1879,-200,UKR
+Ukraine,East Europe,1998,2354,2332,22,UKR
+Ukraine,East Europe,1999,3522,3550,-28,UKR
+Ukraine,East Europe,2000,3647,3214,433,UKR
+Ukraine,East Europe,2001,4016,3979,37,UKR
+Ukraine,East Europe,2002,4925,4691,234,UKR
+Ukraine,East Europe,2003,5262,5193,69,UKR
+Ukraine,East Europe,2004,6140,5983,157,UKR
+Ukraine,East Europe,2005,6048,5797,251,UKR
+Ukraine,East Europe,2006,5808,5830,-22,UKR
+Ukraine,East Europe,2007,5107,5055,52,UKR
+Ukraine,East Europe,2008,5546,5393,153,UKR
+Ukraine,East Europe,2009,7024,6734,290,UKR
+Ukraine,East Europe,2010,7484,7415,69,UKR
+Ukraine,East Europe,2011,8140,8036,104,UKR
+Ukraine,East Europe,2012,8450,8450,0,UKR
+Ukraine,East Europe,2013,8812,8812,0,UKR
+Ukraine,East Europe,2014,8667,8525,142,UKR
+Ukraine,East Europe,2015,10953,11077,-124,UKR
+Ukraine,East Europe,2016,11669,11621,48,UKR
+Ukraine,East Europe,2017,12397,12415,-18,UKR
+Ukraine,East Europe,2018,13311,13446,-135,UKR
+Yougoslavia,East Europe,1996,318,306,12,0
+Yougoslavia,East Europe,1997,337,427,-90,0
+Yougoslavia,East Europe,1998,466,458,8,0
+Yougoslavia,East Europe,1999,495,458,37,0
+Yougoslavia,East Europe,2000,607,623,-16,0
+Yougoslavia,East Europe,2001,691,674,17,0
+Yougoslavia,East Europe,2002,824,793,31,0
+Yougoslavia,East Europe,2003,964,959,5,0
+Yougoslavia,East Europe,2004,1165,1108,57,0
+Yougoslavia,East Europe,2005,857,850,7,0
+Yougoslavia,East Europe,2006,841,810,31,0
+Yougoslavia,East Europe,2007,678,603,75,0
+Yougoslavia,East Europe,2008,626,602,24,0
+Yougoslavia,East Europe,2009,390,368,22,0
+Yougoslavia,East Europe,2010,70,67,3,0
+Yougoslavia,East Europe,2011,21,19,2,0
+Yougoslavia,East Europe,2012,13,9,4,0
+Yougoslavia,East Europe,2013,0,0,0,0
+Yougoslavia,East Europe,2014,0,0,0,0
+Yougoslavia,East Europe,2015,0,0,0,0
+Yougoslavia,East Europe,2016,0,1,-1,0
+Yougoslavia,East Europe,2017,0,0,0,0
+Yougoslavia,East Europe,2018,0,0,0,0
+Cyprus,Middle Eastern Europe,1996,2874,2760,114,CYP
+Cyprus,Middle Eastern Europe,1997,3057,3238,-181,CYP
+Cyprus,Middle Eastern Europe,1998,4411,4006,405,CYP
+Cyprus,Middle Eastern Europe,1999,4625,4507,118,CYP
+Cyprus,Middle Eastern Europe,2000,4396,4355,41,CYP
+Cyprus,Middle Eastern Europe,2001,5629,5641,-12,CYP
+Cyprus,Middle Eastern Europe,2002,5566,5532,34,CYP
+Cyprus,Middle Eastern Europe,2003,8032,8067,-35,CYP
+Cyprus,Middle Eastern Europe,2004,12347,12306,41,CYP
+Cyprus,Middle Eastern Europe,2005,8955,8874,81,CYP
+Cyprus,Middle Eastern Europe,2006,7920,8602,-682,CYP
+Cyprus,Middle Eastern Europe,2007,5092,5062,30,CYP
+Cyprus,Middle Eastern Europe,2008,7181,7272,-91,CYP
+Cyprus,Middle Eastern Europe,2009,8241,8211,30,CYP
+Cyprus,Middle Eastern Europe,2010,9325,9415,-90,CYP
+Cyprus,Middle Eastern Europe,2011,7932,7924,8,CYP
+Cyprus,Middle Eastern Europe,2012,7229,7350,-121,CYP
+Cyprus,Middle Eastern Europe,2013,7439,7439,0,CYP
+Cyprus,Middle Eastern Europe,2014,7636,7659,-23,CYP
+Cyprus,Middle Eastern Europe,2015,6532,6599,-67,CYP
+Cyprus,Middle Eastern Europe,2016,6569,6550,19,CYP
+Cyprus,Middle Eastern Europe,2017,8654,8634,20,CYP
+Cyprus,Middle Eastern Europe,2018,11650,11601,49,CYP
+Greece,Middle Eastern Europe,1996,3454,4029,-575,GRC
+Greece,Middle Eastern Europe,1997,4182,4016,166,GRC
+Greece,Middle Eastern Europe,1998,4008,3995,13,GRC
+Greece,Middle Eastern Europe,1999,4846,5002,-156,GRC
+Greece,Middle Eastern Europe,2000,4372,4366,6,GRC
+Greece,Middle Eastern Europe,2001,5745,5858,-113,GRC
+Greece,Middle Eastern Europe,2002,4837,4922,-85,GRC
+Greece,Middle Eastern Europe,2003,5628,5617,11,GRC
+Greece,Middle Eastern Europe,2004,7397,7386,11,GRC
+Greece,Middle Eastern Europe,2005,6424,6390,34,GRC
+Greece,Middle Eastern Europe,2006,5755,6118,-363,GRC
+Greece,Middle Eastern Europe,2007,4556,4557,-1,GRC
+Greece,Middle Eastern Europe,2008,6071,6068,3,GRC
+Greece,Middle Eastern Europe,2009,8041,7982,59,GRC
+Greece,Middle Eastern Europe,2010,9328,9394,-66,GRC
+Greece,Middle Eastern Europe,2011,7695,7747,-52,GRC
+Greece,Middle Eastern Europe,2012,7532,7663,-131,GRC
+Greece,Middle Eastern Europe,2013,7987,7987,0,GRC
+Greece,Middle Eastern Europe,2014,8415,8498,-83,GRC
+Greece,Middle Eastern Europe,2015,9578,9729,-151,GRC
+Greece,Middle Eastern Europe,2016,11323,11361,-38,GRC
+Greece,Middle Eastern Europe,2017,13702,13737,-35,GRC
+Greece,Middle Eastern Europe,2018,13558,13657,-99,GRC
+Turkey,Middle Eastern Europe,1996,3883,3979,-96,TUR
+Turkey,Middle Eastern Europe,1997,3902,3999,-97,TUR
+Turkey,Middle Eastern Europe,1998,4585,4424,161,TUR
+Turkey,Middle Eastern Europe,1999,4446,4413,33,TUR
+Turkey,Middle Eastern Europe,2000,4638,4597,41,TUR
+Turkey,Middle Eastern Europe,2001,5349,5539,-190,TUR
+Turkey,Middle Eastern Europe,2002,6421,6466,-45,TUR
+Turkey,Middle Eastern Europe,2003,6799,6922,-123,TUR
+Turkey,Middle Eastern Europe,2004,9629,9641,-12,TUR
+Turkey,Middle Eastern Europe,2005,8618,8745,-127,TUR
+Turkey,Middle Eastern Europe,2006,10410,11575,-1165,TUR
+Turkey,Middle Eastern Europe,2007,7960,7779,181,TUR
+Turkey,Middle Eastern Europe,2008,9329,9177,152,TUR
+Turkey,Middle Eastern Europe,2009,12979,12621,358,TUR
+Turkey,Middle Eastern Europe,2010,42680,41692,988,TUR
+Turkey,Middle Eastern Europe,2011,35644,35561,83,TUR
+Turkey,Middle Eastern Europe,2012,28850,28737,113,TUR
+Turkey,Middle Eastern Europe,2013,23823,23823,0,TUR
+Turkey,Middle Eastern Europe,2014,16126,16086,40,TUR
+Turkey,Middle Eastern Europe,2015,21027,21757,-730,TUR
+Turkey,Middle Eastern Europe,2016,25487,25368,119,TUR
+Turkey,Middle Eastern Europe,2017,29839,29412,427,TUR
+Turkey,Middle Eastern Europe,2018,32744,33078,-334,TUR
+Denmark,North Europe,1996,3459,3588,-129,DNK
+Denmark,North Europe,1997,3610,3848,-238,DNK
+Denmark,North Europe,1998,5039,4867,172,DNK
+Denmark,North Europe,1999,6347,6419,-72,DNK
+Denmark,North Europe,2000,6861,6944,-83,DNK
+Denmark,North Europe,2001,9003,9008,-5,DNK
+Denmark,North Europe,2002,9321,9450,-129,DNK
+Denmark,North Europe,2003,10479,10492,-13,DNK
+Denmark,North Europe,2004,13487,13531,-44,DNK
+Denmark,North Europe,2005,13367,13183,184,DNK
+Denmark,North Europe,2006,12155,12815,-660,DNK
+Denmark,North Europe,2007,10321,10168,153,DNK
+Denmark,North Europe,2008,14510,14477,33,DNK
+Denmark,North Europe,2009,18078,17878,200,DNK
+Denmark,North Europe,2010,19332,19467,-135,DNK
+Denmark,North Europe,2011,16830,16785,45,DNK
+Denmark,North Europe,2012,13937,14287,-350,DNK
+Denmark,North Europe,2013,12590,12590,0,DNK
+Denmark,North Europe,2014,13021,13157,-136,DNK
+Denmark,North Europe,2015,13624,13873,-249,DNK
+Denmark,North Europe,2016,16133,16274,-141,DNK
+Denmark,North Europe,2017,17240,17151,89,DNK
+Denmark,North Europe,2018,18146,18322,-176,DNK
+Estonia,North Europe,1996,9,4,5,EST
+Estonia,North Europe,1997,16,16,0,EST
+Estonia,North Europe,1998,24,28,-4,EST
+Estonia,North Europe,1999,13,22,-9,EST
+Estonia,North Europe,2000,40,40,0,EST
+Estonia,North Europe,2001,81,61,20,EST
+Estonia,North Europe,2002,49,42,7,EST
+Estonia,North Europe,2003,94,89,5,EST
+Estonia,North Europe,2004,173,175,-2,EST
+Estonia,North Europe,2005,136,133,3,EST
+Estonia,North Europe,2006,209,209,0,EST
+Estonia,North Europe,2007,113,116,-3,EST
+Estonia,North Europe,2008,162,167,-5,EST
+Estonia,North Europe,2009,186,171,15,EST
+Estonia,North Europe,2010,380,371,9,EST
+Estonia,North Europe,2011,416,407,9,EST
+Estonia,North Europe,2012,132,138,-6,EST
+Estonia,North Europe,2013,110,110,0,EST
+Estonia,North Europe,2014,144,141,3,EST
+Estonia,North Europe,2015,219,174,45,EST
+Estonia,North Europe,2016,300,298,2,EST
+Estonia,North Europe,2017,378,380,-2,EST
+Estonia,North Europe,2018,446,475,-29,EST
+Finland,North Europe,1996,593,694,-101,FIN
+Finland,North Europe,1997,853,841,12,FIN
+Finland,North Europe,1998,1055,961,94,FIN
+Finland,North Europe,1999,1882,1388,494,FIN
+Finland,North Europe,2000,1690,2150,-460,FIN
+Finland,North Europe,2001,1414,1521,-107,FIN
+Finland,North Europe,2002,1033,1017,16,FIN
+Finland,North Europe,2003,1126,1135,-9,FIN
+Finland,North Europe,2004,1369,1392,-23,FIN
+Finland,North Europe,2005,1392,1384,8,FIN
+Finland,North Europe,2006,1303,1325,-22,FIN
+Finland,North Europe,2007,2610,2626,-16,FIN
+Finland,North Europe,2008,1352,1347,5,FIN
+Finland,North Europe,2009,1661,1654,7,FIN
+Finland,North Europe,2010,2391,2342,49,FIN
+Finland,North Europe,2011,1810,1870,-60,FIN
+Finland,North Europe,2012,2392,2108,284,FIN
+Finland,North Europe,2013,3095,3095,0,FIN
+Finland,North Europe,2014,3806,3664,142,FIN
+Finland,North Europe,2015,4062,4128,-66,FIN
+Finland,North Europe,2016,3960,4141,-181,FIN
+Finland,North Europe,2017,3725,3531,194,FIN
+Finland,North Europe,2018,3719,4002,-283,FIN
+Iceland,North Europe,1996,21,11,10,ISL
+Iceland,North Europe,1997,21,35,-14,ISL
+Iceland,North Europe,1998,25,21,4,ISL
+Iceland,North Europe,1999,83,71,12,ISL
+Iceland,North Europe,2000,46,40,6,ISL
+Iceland,North Europe,2001,58,57,1,ISL
+Iceland,North Europe,2002,66,76,-10,ISL
+Iceland,North Europe,2003,132,138,-6,ISL
+Iceland,North Europe,2004,201,189,12,ISL
+Iceland,North Europe,2005,109,108,1,ISL
+Iceland,North Europe,2006,99,103,-4,ISL
+Iceland,North Europe,2007,99,98,1,ISL
+Iceland,North Europe,2008,126,133,-7,ISL
+Iceland,North Europe,2009,153,135,18,ISL
+Iceland,North Europe,2010,211,223,-12,ISL
+Iceland,North Europe,2011,143,136,7,ISL
+Iceland,North Europe,2012,81,78,3,ISL
+Iceland,North Europe,2013,80,80,0,ISL
+Iceland,North Europe,2014,120,123,-3,ISL
+Iceland,North Europe,2015,117,114,3,ISL
+Iceland,North Europe,2016,111,113,-2,ISL
+Iceland,North Europe,2017,114,122,-8,ISL
+Iceland,North Europe,2018,165,163,2,ISL
+Latvia,North Europe,1996,12,14,-2,LVA
+Latvia,North Europe,1997,17,10,7,LVA
+Latvia,North Europe,1998,16,11,5,LVA
+Latvia,North Europe,1999,57,61,-4,LVA
+Latvia,North Europe,2000,57,73,-16,LVA
+Latvia,North Europe,2001,107,131,-24,LVA
+Latvia,North Europe,2002,73,91,-18,LVA
+Latvia,North Europe,2003,120,112,8,LVA
+Latvia,North Europe,2004,272,259,13,LVA
+Latvia,North Europe,2005,256,236,20,LVA
+Latvia,North Europe,2006,228,200,28,LVA
+Latvia,North Europe,2007,208,216,-8,LVA
+Latvia,North Europe,2008,391,379,12,LVA
+Latvia,North Europe,2009,400,391,9,LVA
+Latvia,North Europe,2010,614,603,11,LVA
+Latvia,North Europe,2011,597,593,4,LVA
+Latvia,North Europe,2012,353,354,-1,LVA
+Latvia,North Europe,2013,367,367,0,LVA
+Latvia,North Europe,2014,900,911,-11,LVA
+Latvia,North Europe,2015,1038,1062,-24,LVA
+Latvia,North Europe,2016,398,409,-11,LVA
+Latvia,North Europe,2017,453,468,-15,LVA
+Latvia,North Europe,2018,507,507,0,LVA
+Sweden,North Europe,1996,5944,5841,103,SWE
+Sweden,North Europe,1997,7410,6128,1282,SWE
+Sweden,North Europe,1998,7153,7791,-638,SWE
+Sweden,North Europe,1999,9984,9618,366,SWE
+Sweden,North Europe,2000,10412,10443,-31,SWE
+Sweden,North Europe,2001,11746,12157,-411,SWE
+Sweden,North Europe,2002,13407,13506,-99,SWE
+Sweden,North Europe,2003,14732,14946,-214,SWE
+Sweden,North Europe,2004,20218,20451,-233,SWE
+Sweden,North Europe,2005,18314,18275,39,SWE
+Sweden,North Europe,2006,17331,18390,-1059,SWE
+Sweden,North Europe,2007,14497,14014,483,SWE
+Sweden,North Europe,2008,21624,21467,157,SWE
+Sweden,North Europe,2009,26894,26962,-68,SWE
+Sweden,North Europe,2010,29512,29520,-8,SWE
+Sweden,North Europe,2011,26752,26937,-185,SWE
+Sweden,North Europe,2012,24340,24875,-535,SWE
+Sweden,North Europe,2013,24011,24011,0,SWE
+Sweden,North Europe,2014,26031,26233,-202,SWE
+Sweden,North Europe,2015,28376,28549,-173,SWE
+Sweden,North Europe,2016,34722,34770,-48,SWE
+Sweden,North Europe,2017,38958,39020,-62,SWE
+Sweden,North Europe,2018,44032,43941,91,SWE
+Lituania,North Europe,1996,200,137,63,LTU
+Lituania,North Europe,1997,180,401,-221,LTU
+Lituania,North Europe,1998,302,139,163,LTU
+Lituania,North Europe,1999,196,206,-10,LTU
+Lituania,North Europe,2000,103,104,-1,LTU
+Lituania,North Europe,2001,183,160,23,LTU
+Lituania,North Europe,2002,269,207,62,LTU
+Lituania,North Europe,2003,180,191,-11,LTU
+Lituania,North Europe,2004,258,247,11,LTU
+Lituania,North Europe,2005,323,307,16,LTU
+Lituania,North Europe,2006,247,250,-3,LTU
+Lituania,North Europe,2007,210,200,10,LTU
+Lituania,North Europe,2008,358,352,6,LTU
+Lituania,North Europe,2009,453,438,15,LTU
+Lituania,North Europe,2010,725,717,8,LTU
+Lituania,North Europe,2011,709,681,28,LTU
+Lituania,North Europe,2012,512,544,-32,LTU
+Lituania,North Europe,2013,536,536,0,LTU
+Lituania,North Europe,2014,593,583,10,LTU
+Lituania,North Europe,2015,735,717,18,LTU
+Lituania,North Europe,2016,802,784,18,LTU
+Lituania,North Europe,2017,924,909,15,LTU
+Lituania,North Europe,2018,1470,1467,3,LTU
+Norway,North Europe,1996,1363,1430,-67,NOR
+Norway,North Europe,1997,1641,2342,-701,NOR
+Norway,North Europe,1998,2973,2594,379,NOR
+Norway,North Europe,1999,1821,1742,79,NOR
+Norway,North Europe,2000,1813,1745,68,NOR
+Norway,North Europe,2001,2004,1997,7,NOR
+Norway,North Europe,2002,2269,2299,-30,NOR
+Norway,North Europe,2003,2752,2749,3,NOR
+Norway,North Europe,2004,3284,3289,-5,NOR
+Norway,North Europe,2005,3567,3572,-5,NOR
+Norway,North Europe,2006,2792,2777,15,NOR
+Norway,North Europe,2007,2703,2635,68,NOR
+Norway,North Europe,2008,3498,3491,7,NOR
+Norway,North Europe,2009,4552,4530,22,NOR
+Norway,North Europe,2010,5484,5498,-14,NOR
+Norway,North Europe,2011,4697,4730,-33,NOR
+Norway,North Europe,2012,4088,4123,-35,NOR
+Norway,North Europe,2013,4050,4050,0,NOR
+Norway,North Europe,2014,3838,3888,-50,NOR
+Norway,North Europe,2015,4355,4432,-77,NOR
+Norway,North Europe,2016,5114,5130,-16,NOR
+Norway,North Europe,2017,5584,5587,-3,NOR
+Norway,North Europe,2018,6616,6670,-54,NOR
+Andorra,West Europe,1996,0,0,0,AND
+Andorra,West Europe,1997,0,22,-22,AND
+Andorra,West Europe,1998,1,1,0,AND
+Andorra,West Europe,1999,4,0,4,AND
+Andorra,West Europe,2000,3,6,-3,AND
+Andorra,West Europe,2001,7,21,-14,AND
+Andorra,West Europe,2002,3,3,0,AND
+Andorra,West Europe,2003,0,0,0,AND
+Andorra,West Europe,2004,3,3,0,AND
+Andorra,West Europe,2005,1,1,0,AND
+Andorra,West Europe,2006,2,2,0,AND
+Andorra,West Europe,2007,1,1,0,AND
+Andorra,West Europe,2008,2,2,0,AND
+Andorra,West Europe,2009,9,8,1,AND
+Andorra,West Europe,2010,14,13,1,AND
+Andorra,West Europe,2011,3,2,1,AND
+Andorra,West Europe,2012,4,2,2,AND
+Andorra,West Europe,2013,8,8,0,AND
+Andorra,West Europe,2014,10,9,1,AND
+Andorra,West Europe,2015,9,9,0,AND
+Andorra,West Europe,2016,2,1,1,AND
+Andorra,West Europe,2017,9,8,1,AND
+Andorra,West Europe,2018,10,8,2,AND
+Austria,West Europe,1996,2107,1979,128,AUT
+Austria,West Europe,1997,2998,2768,230,AUT
+Austria,West Europe,1998,2914,2746,168,AUT
+Austria,West Europe,1999,4001,3846,155,AUT
+Austria,West Europe,2000,4345,4299,46,AUT
+Austria,West Europe,2001,3586,3608,-22,AUT
+Austria,West Europe,2002,3376,3396,-20,AUT
+Austria,West Europe,2003,3216,3150,66,AUT
+Austria,West Europe,2004,4406,4417,-11,AUT
+Austria,West Europe,2005,4022,3989,33,AUT
+Austria,West Europe,2006,3014,3005,9,AUT
+Austria,West Europe,2007,2373,2365,8,AUT
+Austria,West Europe,2008,3235,3143,92,AUT
+Austria,West Europe,2009,4252,4182,70,AUT
+Austria,West Europe,2010,5823,5779,44,AUT
+Austria,West Europe,2011,5002,4904,98,AUT
+Austria,West Europe,2012,4665,4712,-47,AUT
+Austria,West Europe,2013,4674,4674,0,AUT
+Austria,West Europe,2014,4676,4710,-34,AUT
+Austria,West Europe,2015,5045,5081,-36,AUT
+Austria,West Europe,2016,5295,5219,76,AUT
+Austria,West Europe,2017,6091,6213,-122,AUT
+Austria,West Europe,2018,6661,6603,58,AUT
+Belgium,West Europe,1996,3962,4120,-158,BEL
+Belgium,West Europe,1997,5608,6958,-1350,BEL
+Belgium,West Europe,1998,6397,6687,-290,BEL
+Belgium,West Europe,1999,7839,7504,335,BEL
+Belgium,West Europe,2000,7466,8396,-930,BEL
+Belgium,West Europe,2001,6834,7067,-233,BEL
+Belgium,West Europe,2002,7090,7128,-38,BEL
+Belgium,West Europe,2003,7136,7232,-96,BEL
+Belgium,West Europe,2004,9048,9047,1,BEL
+Belgium,West Europe,2005,8342,8241,101,BEL
+Belgium,West Europe,2006,7230,7049,181,BEL
+Belgium,West Europe,2007,8548,8978,-430,BEL
+Belgium,West Europe,2008,10924,10854,70,BEL
+Belgium,West Europe,2009,13661,13747,-86,BEL
+Belgium,West Europe,2010,15379,15559,-180,BEL
+Belgium,West Europe,2011,13497,13646,-149,BEL
+Belgium,West Europe,2012,12873,12961,-88,BEL
+Belgium,West Europe,2013,12888,12888,0,BEL
+Belgium,West Europe,2014,12625,12712,-87,BEL
+Belgium,West Europe,2015,13343,13497,-154,BEL
+Belgium,West Europe,2016,14703,14613,90,BEL
+Belgium,West Europe,2017,16577,16675,-98,BEL
+Belgium,West Europe,2018,18346,18304,42,BEL
+France,West Europe,1996,41260,42272,-1012,FRA
+France,West Europe,1997,51003,52910,-1907,FRA
+France,West Europe,1998,58527,59579,-1052,FRA
+France,West Europe,1999,66977,69360,-2383,FRA
+France,West Europe,2000,64766,65220,-454,FRA
+France,West Europe,2001,66312,67625,-1313,FRA
+France,West Europe,2002,70872,72038,-1166,FRA
+France,West Europe,2003,76409,77436,-1027,FRA
+France,West Europe,2004,94347,95396,-1049,FRA
+France,West Europe,2005,80480,80979,-499,FRA
+France,West Europe,2006,66764,69178,-2414,FRA
+France,West Europe,2007,72359,73544,-1185,FRA
+France,West Europe,2008,91071,91544,-473,FRA
+France,West Europe,2009,120408,119575,833,FRA
+France,West Europe,2010,139534,140165,-631,FRA
+France,West Europe,2011,128999,128791,208,FRA
+France,West Europe,2012,120134,121940,-1806,FRA
+France,West Europe,2013,117688,117688,0,FRA
+France,West Europe,2014,120710,121388,-678,FRA
+France,West Europe,2015,134181,135330,-1149,FRA
+France,West Europe,2016,145666,146188,-522,FRA
+France,West Europe,2017,164924,164811,113,FRA
+France,West Europe,2018,181321,182056,-735,FRA
+Germany,West Europe,1996,19234,18520,714,DEU
+Germany,West Europe,1997,21757,23869,-2112,DEU
+Germany,West Europe,1998,27148,25971,1177,DEU
+Germany,West Europe,1999,30015,29719,296,DEU
+Germany,West Europe,2000,35396,34482,914,DEU
+Germany,West Europe,2001,35729,35593,136,DEU
+Germany,West Europe,2002,36287,36067,220,DEU
+Germany,West Europe,2003,37942,37881,61,DEU
+Germany,West Europe,2004,48370,48152,218,DEU
+Germany,West Europe,2005,51948,51160,788,DEU
+Germany,West Europe,2006,39314,38395,919,DEU
+Germany,West Europe,2007,42083,41888,195,DEU
+Germany,West Europe,2008,53851,53988,-137,DEU
+Germany,West Europe,2009,69847,69131,716,DEU
+Germany,West Europe,2010,76854,76483,371,DEU
+Germany,West Europe,2011,68401,68579,-178,DEU
+Germany,West Europe,2012,62160,62939,-779,DEU
+Germany,West Europe,2013,61123,61123,0,DEU
+Germany,West Europe,2014,67988,68240,-252,DEU
+Germany,West Europe,2015,74823,75457,-634,DEU
+Germany,West Europe,2016,87567,87304,263,DEU
+Germany,West Europe,2017,96711,97170,-459,DEU
+Germany,West Europe,2018,104167,104302,-135,DEU
+Irland,West Europe,1996,1021,1231,-210,IRL
+Irland,West Europe,1997,1652,1506,146,IRL
+Irland,West Europe,1998,2237,2497,-260,IRL
+Irland,West Europe,1999,2986,2984,2,IRL
+Irland,West Europe,2000,2758,2549,209,IRL
+Irland,West Europe,2001,3357,3283,74,IRL
+Irland,West Europe,2002,1766,1756,10,IRL
+Irland,West Europe,2003,2000,2002,-2,IRL
+Irland,West Europe,2004,2417,2444,-27,IRL
+Irland,West Europe,2005,2237,2213,24,IRL
+Irland,West Europe,2006,2034,2095,-61,IRL
+Irland,West Europe,2007,2635,2769,-134,IRL
+Irland,West Europe,2008,2283,2338,-55,IRL
+Irland,West Europe,2009,3222,3240,-18,IRL
+Irland,West Europe,2010,4050,4131,-81,IRL
+Irland,West Europe,2011,4953,4614,339,IRL
+Irland,West Europe,2012,5232,5580,-348,IRL
+Irland,West Europe,2013,4444,4444,0,IRL
+Irland,West Europe,2014,4278,4347,-69,IRL
+Irland,West Europe,2015,4799,4869,-70,IRL
+Irland,West Europe,2016,5327,5205,122,IRL
+Irland,West Europe,2017,6653,6545,108,IRL
+Irland,West Europe,2018,7834,7928,-94,IRL
+Italy,West Europe,1996,9984,9537,447,ITA
+Italy,West Europe,1997,13857,13855,2,ITA
+Italy,West Europe,1998,14674,14628,46,ITA
+Italy,West Europe,1999,15793,15566,227,ITA
+Italy,West Europe,2000,14706,14785,-79,ITA
+Italy,West Europe,2001,13503,13537,-34,ITA
+Italy,West Europe,2002,12332,12317,15,ITA
+Italy,West Europe,2003,13119,13129,-10,ITA
+Italy,West Europe,2004,15567,15678,-111,ITA
+Italy,West Europe,2005,14104,13936,168,ITA
+Italy,West Europe,2006,13290,12683,607,ITA
+Italy,West Europe,2007,21563,21353,210,ITA
+Italy,West Europe,2008,23085,23280,-195,ITA
+Italy,West Europe,2009,32619,32322,297,ITA
+Italy,West Europe,2010,36625,36762,-137,ITA
+Italy,West Europe,2011,28808,29501,-693,ITA
+Italy,West Europe,2012,25539,25709,-170,ITA
+Italy,West Europe,2013,24971,24971,0,ITA
+Italy,West Europe,2014,27983,27735,248,ITA
+Italy,West Europe,2015,29143,29673,-530,ITA
+Italy,West Europe,2016,29574,29256,318,ITA
+Italy,West Europe,2017,33642,33558,84,ITA
+Italy,West Europe,2018,37013,37160,-147,ITA
+Lichenshtein,West Europe,1996,1,6,-5,0
+Lichenshtein,West Europe,1997,3,15,-12,0
+Lichenshtein,West Europe,1998,1,3,-2,0
+Lichenshtein,West Europe,1999,8,4,4,0
+Lichenshtein,West Europe,2000,53,27,26,0
+Lichenshtein,West Europe,2001,6,6,0,0
+Lichenshtein,West Europe,2002,14,15,-1,0
+Lichenshtein,West Europe,2003,7,7,0,0
+Lichenshtein,West Europe,2004,10,11,-1,0
+Lichenshtein,West Europe,2005,7,7,0,0
+Lichenshtein,West Europe,2006,5,6,-1,0
+Lichenshtein,West Europe,2007,4,3,1,0
+Lichenshtein,West Europe,2008,13,12,1,0
+Lichenshtein,West Europe,2009,17,16,1,0
+Lichenshtein,West Europe,2010,13,14,-1,0
+Lichenshtein,West Europe,2011,20,21,-1,0
+Lichenshtein,West Europe,2012,20,22,-2,0
+Lichenshtein,West Europe,2013,12,12,0,0
+Lichenshtein,West Europe,2014,8,8,0,0
+Lichenshtein,West Europe,2015,8,7,1,0
+Lichenshtein,West Europe,2016,5,6,-1,0
+Lichenshtein,West Europe,2017,19,20,-1,0
+Lichenshtein,West Europe,2018,27,16,11,0
+Luxembourg,West Europe,1996,81,68,13,LUX
+Luxembourg,West Europe,1997,108,120,-12,LUX
+Luxembourg,West Europe,1998,161,165,-4,LUX
+Luxembourg,West Europe,1999,169,191,-22,LUX
+Luxembourg,West Europe,2000,195,192,3,LUX
+Luxembourg,West Europe,2001,172,166,6,LUX
+Luxembourg,West Europe,2002,183,194,-11,LUX
+Luxembourg,West Europe,2003,212,197,15,LUX
+Luxembourg,West Europe,2004,200,195,5,LUX
+Luxembourg,West Europe,2005,221,216,5,LUX
+Luxembourg,West Europe,2006,156,158,-2,LUX
+Luxembourg,West Europe,2007,159,161,-2,LUX
+Luxembourg,West Europe,2008,227,223,4,LUX
+Luxembourg,West Europe,2009,378,374,4,LUX
+Luxembourg,West Europe,2010,406,397,9,LUX
+Luxembourg,West Europe,2011,337,337,0,LUX
+Luxembourg,West Europe,2012,232,235,-3,LUX
+Luxembourg,West Europe,2013,232,232,0,LUX
+Luxembourg,West Europe,2014,185,186,-1,LUX
+Luxembourg,West Europe,2015,217,204,13,LUX
+Luxembourg,West Europe,2016,276,277,-1,LUX
+Luxembourg,West Europe,2017,302,310,-8,LUX
+Luxembourg,West Europe,2018,432,408,24,LUX
+Malta,West Europe,1996,65,57,8,MLT
+Malta,West Europe,1997,115,130,-15,MLT
+Malta,West Europe,1998,115,124,-9,MLT
+Malta,West Europe,1999,238,247,-9,MLT
+Malta,West Europe,2000,260,253,7,MLT
+Malta,West Europe,2001,235,230,5,MLT
+Malta,West Europe,2002,184,188,-4,MLT
+Malta,West Europe,2003,202,199,3,MLT
+Malta,West Europe,2004,194,197,-3,MLT
+Malta,West Europe,2005,198,187,11,MLT
+Malta,West Europe,2006,151,144,7,MLT
+Malta,West Europe,2007,125,117,8,MLT
+Malta,West Europe,2008,141,140,1,MLT
+Malta,West Europe,2009,252,255,-3,MLT
+Malta,West Europe,2010,300,323,-23,MLT
+Malta,West Europe,2011,258,266,-8,MLT
+Malta,West Europe,2012,216,210,6,MLT
+Malta,West Europe,2013,232,232,0,MLT
+Malta,West Europe,2014,242,236,6,MLT
+Malta,West Europe,2015,315,314,1,MLT
+Malta,West Europe,2016,334,331,3,MLT
+Malta,West Europe,2017,400,402,-2,MLT
+Malta,West Europe,2018,453,459,-6,MLT
+Monaco,West Europe,1996,5,4,1,MCO
+Monaco,West Europe,1997,5,12,-7,MCO
+Monaco,West Europe,1998,13,26,-13,MCO
+Monaco,West Europe,1999,23,16,7,MCO
+Monaco,West Europe,2000,26,23,3,MCO
+Monaco,West Europe,2001,20,20,0,MCO
+Monaco,West Europe,2002,21,23,-2,MCO
+Monaco,West Europe,2003,28,29,-1,MCO
+Monaco,West Europe,2004,29,30,-1,MCO
+Monaco,West Europe,2005,11,12,-1,MCO
+Monaco,West Europe,2006,8,7,1,MCO
+Monaco,West Europe,2007,15,14,1,MCO
+Monaco,West Europe,2008,31,26,5,MCO
+Monaco,West Europe,2009,55,60,-5,MCO
+Monaco,West Europe,2010,60,63,-3,MCO
+Monaco,West Europe,2011,85,83,2,MCO
+Monaco,West Europe,2012,26,31,-5,MCO
+Monaco,West Europe,2013,27,27,0,MCO
+Monaco,West Europe,2014,30,30,0,MCO
+Monaco,West Europe,2015,29,28,1,MCO
+Monaco,West Europe,2016,15,21,-6,MCO
+Monaco,West Europe,2017,34,36,-2,MCO
+Monaco,West Europe,2018,40,36,4,MCO
+Netherlands,West Europe,1996,4724,4579,145,NLD
+Netherlands,West Europe,1997,4340,4789,-449,NLD
+Netherlands,West Europe,1998,5663,5567,96,NLD
+Netherlands,West Europe,1999,6809,6514,295,NLD
+Netherlands,West Europe,2000,7215,7257,-42,NLD
+Netherlands,West Europe,2001,6489,6491,-2,NLD
+Netherlands,West Europe,2002,6594,6671,-77,NLD
+Netherlands,West Europe,2003,6839,6780,59,NLD
+Netherlands,West Europe,2004,9071,9069,2,NLD
+Netherlands,West Europe,2005,8567,8426,141,NLD
+Netherlands,West Europe,2006,6387,6439,-52,NLD
+Netherlands,West Europe,2007,6152,6139,13,NLD
+Netherlands,West Europe,2008,7357,7314,43,NLD
+Netherlands,West Europe,2009,10268,10101,167,NLD
+Netherlands,West Europe,2010,11824,11813,11,NLD
+Netherlands,West Europe,2011,10281,10173,108,NLD
+Netherlands,West Europe,2012,9298,9474,-176,NLD
+Netherlands,West Europe,2013,8677,8677,0,NLD
+Netherlands,West Europe,2014,8721,8777,-56,NLD
+Netherlands,West Europe,2015,9743,9999,-256,NLD
+Netherlands,West Europe,2016,10969,11146,-177,NLD
+Netherlands,West Europe,2017,13172,13442,-270,NLD
+Netherlands,West Europe,2018,14759,14808,-49,NLD
+Portugal,West Europe,1996,181,161,20,PRT
+Portugal,West Europe,1997,394,240,154,PRT
+Portugal,West Europe,1998,350,267,83,PRT
+Portugal,West Europe,1999,443,453,-10,PRT
+Portugal,West Europe,2000,338,330,8,PRT
+Portugal,West Europe,2001,358,353,5,PRT
+Portugal,West Europe,2002,439,437,2,PRT
+Portugal,West Europe,2003,468,543,-75,PRT
+Portugal,West Europe,2004,581,590,-9,PRT
+Portugal,West Europe,2005,598,608,-10,PRT
+Portugal,West Europe,2006,629,490,139,PRT
+Portugal,West Europe,2007,1071,1046,25,PRT
+Portugal,West Europe,2008,1309,1318,-9,PRT
+Portugal,West Europe,2009,1707,1691,16,PRT
+Portugal,West Europe,2010,2091,2107,-16,PRT
+Portugal,West Europe,2011,1701,1682,19,PRT
+Portugal,West Europe,2012,1475,1621,-146,PRT
+Portugal,West Europe,2013,1801,1801,0,PRT
+Portugal,West Europe,2014,1476,1445,31,PRT
+Portugal,West Europe,2015,1761,1777,-16,PRT
+Portugal,West Europe,2016,1811,1784,27,PRT
+Portugal,West Europe,2017,2406,2422,-16,PRT
+Portugal,West Europe,2018,2754,2668,86,PRT
+San Marino,West Europe,1996,0,0,0,SMR
+San Marino,West Europe,1997,0,0,0,SMR
+San Marino,West Europe,1998,0,0,0,SMR
+San Marino,West Europe,1999,0,0,0,SMR
+San Marino,West Europe,2000,0,0,0,SMR
+San Marino,West Europe,2001,0,0,0,SMR
+San Marino,West Europe,2002,0,0,0,SMR
+San Marino,West Europe,2003,0,0,0,SMR
+San Marino,West Europe,2004,0,0,0,SMR
+San Marino,West Europe,2005,0,0,0,SMR
+San Marino,West Europe,2006,0,0,0,SMR
+San Marino,West Europe,2007,0,0,0,SMR
+San Marino,West Europe,2008,0,0,0,SMR
+San Marino,West Europe,2009,0,0,0,SMR
+San Marino,West Europe,2010,0,0,0,SMR
+San Marino,West Europe,2011,0,0,0,SMR
+San Marino,West Europe,2012,0,0,0,SMR
+San Marino,West Europe,2013,0,0,0,SMR
+San Marino,West Europe,2014,0,0,0,SMR
+San Marino,West Europe,2015,0,0,0,SMR
+San Marino,West Europe,2016,0,0,0,SMR
+San Marino,West Europe,2017,0,0,0,SMR
+San Marino,West Europe,2018,0,0,0,SMR
+Spain,West Europe,1996,2447,2476,-29,ESP
+Spain,West Europe,1997,3255,3411,-156,ESP
+Spain,West Europe,1998,4103,3436,667,ESP
+Spain,West Europe,1999,4774,4745,29,ESP
+Spain,West Europe,2000,5126,5092,34,ESP
+Spain,West Europe,2001,4883,4943,-60,ESP
+Spain,West Europe,2002,5341,5224,117,ESP
+Spain,West Europe,2003,5646,5614,32,ESP
+Spain,West Europe,2004,7868,7876,-8,ESP
+Spain,West Europe,2005,8442,8413,29,ESP
+Spain,West Europe,2006,6324,5822,502,ESP
+Spain,West Europe,2007,9183,8719,464,ESP
+Spain,West Europe,2008,9987,10173,-186,ESP
+Spain,West Europe,2009,13343,13236,107,ESP
+Spain,West Europe,2010,15417,15236,181,ESP
+Spain,West Europe,2011,11301,11815,-514,ESP
+Spain,West Europe,2012,11472,11887,-415,ESP
+Spain,West Europe,2013,10156,10156,0,ESP
+Spain,West Europe,2014,10853,10841,12,ESP
+Spain,West Europe,2015,11936,11641,295,ESP
+Spain,West Europe,2016,13645,13595,50,ESP
+Spain,West Europe,2017,16423,16369,54,ESP
+Spain,West Europe,2018,18847,18660,187,ESP
+Switzerland,West Europe,1996,3557,3639,-82,CHE
+Switzerland,West Europe,1997,4888,5254,-366,CHE
+Switzerland,West Europe,1998,5281,5317,-36,CHE
+Switzerland,West Europe,1999,6484,6591,-107,CHE
+Switzerland,West Europe,2000,7095,6877,218,CHE
+Switzerland,West Europe,2001,5380,5490,-110,CHE
+Switzerland,West Europe,2002,6693,7332,-639,CHE
+Switzerland,West Europe,2003,6957,7027,-70,CHE
+Switzerland,West Europe,2004,9931,9986,-55,CHE
+Switzerland,West Europe,2005,8239,8026,213,CHE
+Switzerland,West Europe,2006,6641,7217,-576,CHE
+Switzerland,West Europe,2007,6556,6587,-31,CHE
+Switzerland,West Europe,2008,8468,8535,-67,CHE
+Switzerland,West Europe,2009,11734,11625,109,CHE
+Switzerland,West Europe,2010,13540,13577,-37,CHE
+Switzerland,West Europe,2011,12935,12852,83,CHE
+Switzerland,West Europe,2012,11402,11625,-223,CHE
+Switzerland,West Europe,2013,10912,10912,0,CHE
+Switzerland,West Europe,2014,10967,10948,19,CHE
+Switzerland,West Europe,2015,12332,12546,-214,CHE
+Switzerland,West Europe,2016,14394,14397,-3,CHE
+Switzerland,West Europe,2017,17261,17294,-33,CHE
+Switzerland,West Europe,2018,18971,18985,-14,CHE
+Great-Britain,West Europe,1996,16886,16514,372,GBR
+Great-Britain,West Europe,1997,19319,20181,-862,GBR
+Great-Britain,West Europe,1998,21999,20520,1479,GBR
+Great-Britain,West Europe,1999,22344,22734,-390,GBR
+Great-Britain,West Europe,2000,24281,23923,358,GBR
+Great-Britain,West Europe,2001,24802,25154,-352,GBR
+Great-Britain,West Europe,2002,28578,27985,593,GBR
+Great-Britain,West Europe,2003,28024,28597,-573,GBR
+Great-Britain,West Europe,2004,34532,34667,-135,GBR
+Great-Britain,West Europe,2005,35538,35144,394,GBR
+Great-Britain,West Europe,2006,29892,32712,-2820,GBR
+Great-Britain,West Europe,2007,29627,29432,195,GBR
+Great-Britain,West Europe,2008,38085,37843,242,GBR
+Great-Britain,West Europe,2009,50027,50010,17,GBR
+Great-Britain,West Europe,2010,60239,60696,-457,GBR
+Great-Britain,West Europe,2011,53223,53370,-147,GBR
+Great-Britain,West Europe,2012,50214,50895,-681,GBR
+Great-Britain,West Europe,2013,48504,48504,0,GBR
+Great-Britain,West Europe,2014,49179,49508,-329,GBR
+Great-Britain,West Europe,2015,56608,57167,-559,GBR
+Great-Britain,West Europe,2016,61994,62068,-74,GBR
+Great-Britain,West Europe,2017,68360,68459,-99,GBR
+Great-Britain,West Europe,2018,75309,75255,54,GBR
+Vatican,West Europe,1996,23,24,-1,0
+Vatican,West Europe,1997,1282,113,1169,0
+Vatican,West Europe,1998,27,1720,-1693,0
+Vatican,West Europe,1999,65,68,-3,0
+Vatican,West Europe,2000,75,88,-13,0
+Vatican,West Europe,2001,79,66,13,0
+Vatican,West Europe,2002,97,91,6,0
+Vatican,West Europe,2003,88,91,-3,0
+Vatican,West Europe,2004,79,79,0,0
+Vatican,West Europe,2005,43,48,-5,0
+Vatican,West Europe,2006,34,35,-1,0
+Vatican,West Europe,2007,51,40,11,0
+Vatican,West Europe,2008,65,58,7,0
+Vatican,West Europe,2009,68,73,-5,0
+Vatican,West Europe,2010,79,75,4,0
+Vatican,West Europe,2011,109,106,3,0
+Vatican,West Europe,2012,155,156,-1,0
+Vatican,West Europe,2013,93,93,0,0
+Vatican,West Europe,2014,108,107,1,0
+Vatican,West Europe,2015,126,142,-16,0
+Vatican,West Europe,2016,146,143,3,0
+Vatican,West Europe,2017,107,113,-6,0
+Vatican,West Europe,2018,90,89,1,0
+Serbia,West Europe,1996,0,0,0,SRB
+Serbia,West Europe,1997,1,0,1,SRB
+Serbia,West Europe,1998,0,2,-2,SRB
+Serbia,West Europe,1999,0,0,0,SRB
+Serbia,West Europe,2000,0,0,0,SRB
+Serbia,West Europe,2001,0,0,0,SRB
+Serbia,West Europe,2002,4,5,-1,SRB
+Serbia,West Europe,2003,15,37,-22,SRB
+Serbia,West Europe,2004,25,49,-24,SRB
+Serbia,West Europe,2005,39,46,-7,SRB
+Serbia,West Europe,2006,112,136,-24,SRB
+Serbia,West Europe,2007,218,287,-69,SRB
+Serbia,West Europe,2008,312,329,-17,SRB
+Serbia,West Europe,2009,678,680,-2,SRB
+Serbia,West Europe,2010,1212,1216,-4,SRB
+Serbia,West Europe,2011,1091,1094,-3,SRB
+Serbia,West Europe,2012,1055,1070,-15,SRB
+Serbia,West Europe,2013,1392,1392,0,SRB
+Serbia,West Europe,2014,1550,1487,63,SRB
+Serbia,West Europe,2015,1670,1672,-2,SRB
+Serbia,West Europe,2016,1939,1891,48,SRB
+Serbia,West Europe,2017,2410,2408,2,SRB
+Serbia,West Europe,2018,2643,2642,1,SRB
+Australia,Oceania,1996,19452,18733,719,AUS
+Australia,Oceania,1997,23724,22976,748,AUS
+Australia,Oceania,1998,24255,25954,-1699,AUS
+Australia,Oceania,1999,27580,28129,-549,AUS
+Australia,Oceania,2000,30628,30581,47,AUS
+Australia,Oceania,2001,27888,29448,-1560,AUS
+Australia,Oceania,2002,30122,29611,511,AUS
+Australia,Oceania,2003,31854,31947,-93,AUS
+Australia,Oceania,2004,45915,45385,530,AUS
+Australia,Oceania,2005,38577,38184,393,AUS
+Australia,Oceania,2006,31929,34955,-3026,AUS
+Australia,Oceania,2007,29937,27779,2158,AUS
+Australia,Oceania,2008,40884,40403,481,AUS
+Australia,Oceania,2009,62140,60705,1435,AUS
+Australia,Oceania,2010,58150,58638,-488,AUS
+Australia,Oceania,2011,54522,53674,848,AUS
+Australia,Oceania,2012,50261,52376,-2115,AUS
+Australia,Oceania,2013,43560,43560,0,AUS
+Australia,Oceania,2014,48467,48962,-495,AUS
+Australia,Oceania,2015,57852,57523,329,AUS
+Australia,Oceania,2016,72743,71329,1414,AUS
+Australia,Oceania,2017,78664,79217,-553,AUS
+Australia,Oceania,2018,84218,84407,-189,AUS
+New Zealand,Oceania,1996,327,317,10,NZL
+New Zealand,Oceania,1997,549,554,-5,NZL
+New Zealand,Oceania,1998,574,531,43,NZL
+New Zealand,Oceania,1999,984,937,47,NZL
+New Zealand,Oceania,2000,1307,1305,2,NZL
+New Zealand,Oceania,2001,1051,1027,24,NZL
+New Zealand,Oceania,2002,1027,1026,1,NZL
+New Zealand,Oceania,2003,964,956,8,NZL
+New Zealand,Oceania,2004,1382,1399,-17,NZL
+New Zealand,Oceania,2005,1220,1227,-7,NZL
+New Zealand,Oceania,2006,892,880,12,NZL
+New Zealand,Oceania,2007,978,950,28,NZL
+New Zealand,Oceania,2008,1309,1283,26,NZL
+New Zealand,Oceania,2009,1759,1736,23,NZL
+New Zealand,Oceania,2010,2152,2177,-25,NZL
+New Zealand,Oceania,2011,1726,1757,-31,NZL
+New Zealand,Oceania,2012,1473,1527,-54,NZL
+New Zealand,Oceania,2013,1220,1220,0,NZL
+New Zealand,Oceania,2014,1215,1213,2,NZL
+New Zealand,Oceania,2015,1364,1403,-39,NZL
+New Zealand,Oceania,2016,1487,1442,45,NZL
+New Zealand,Oceania,2017,1796,1798,-2,NZL
+New Zealand,Oceania,2018,1964,1956,8,NZL
+Fidgi,Oceania,1996,459,476,-17,0
+Fidgi,Oceania,1997,197,307,-110,0
+Fidgi,Oceania,1998,123,174,-51,0
+Fidgi,Oceania,1999,156,184,-28,0
+Fidgi,Oceania,2000,14,28,-14,0
+Fidgi,Oceania,2001,28,56,-28,0
+Fidgi,Oceania,2002,33,52,-19,0
+Fidgi,Oceania,2003,21,22,-1,0
+Fidgi,Oceania,2004,42,48,-6,0
+Fidgi,Oceania,2005,27,26,1,0
+Fidgi,Oceania,2006,30,26,4,0
+Fidgi,Oceania,2007,97,39,58,0
+Fidgi,Oceania,2008,98,98,0,0
+Fidgi,Oceania,2009,158,159,-1,0
+Fidgi,Oceania,2010,129,145,-16,0
+Fidgi,Oceania,2011,133,123,10,0
+Fidgi,Oceania,2012,140,140,0,0
+Fidgi,Oceania,2013,375,375,0,0
+Fidgi,Oceania,2014,1183,1180,3,0
+Fidgi,Oceania,2015,411,425,-14,0
+Fidgi,Oceania,2016,618,695,-77,0
+Fidgi,Oceania,2017,1318,1315,3,0
+Fidgi,Oceania,2018,1372,1503,-131,0
+Kaledonia,Oceania,1996,0,0,0,0
+Kaledonia,Oceania,1997,0,1,-1,0
+Kaledonia,Oceania,1998,0,2,-2,0
+Kaledonia,Oceania,1999,0,0,0,0
+Kaledonia,Oceania,2000,0,1,-1,0
+Kaledonia,Oceania,2001,0,0,0,0
+Kaledonia,Oceania,2002,0,0,0,0
+Kaledonia,Oceania,2003,0,0,0,0
+Kaledonia,Oceania,2004,0,0,0,0
+Kaledonia,Oceania,2005,0,0,0,0
+Kaledonia,Oceania,2006,0,0,0,0
+Kaledonia,Oceania,2007,0,0,0,0
+Kaledonia,Oceania,2008,0,0,0,0
+Kaledonia,Oceania,2009,0,0,0,0
+Kaledonia,Oceania,2010,0,0,0,0
+Kaledonia,Oceania,2011,0,0,0,0
+Kaledonia,Oceania,2012,0,0,0,0
+Kaledonia,Oceania,2013,0,0,0,0
+Kaledonia,Oceania,2014,0,0,0,0
+Kaledonia,Oceania,2015,0,0,0,0
+Kaledonia,Oceania,2016,0,0,0,0
+Kaledonia,Oceania,2017,0,0,0,0
+Kaledonia,Oceania,2018,0,0,0,0
+New Guinea,Oceania,1996,7,7,0,0
+New Guinea,Oceania,1997,23,84,-61,0
+New Guinea,Oceania,1998,0,0,0,0
+New Guinea,Oceania,1999,13,19,-6,0
+New Guinea,Oceania,2000,0,0,0,0
+New Guinea,Oceania,2001,0,0,0,0
+New Guinea,Oceania,2002,0,1,-1,0
+New Guinea,Oceania,2003,0,0,0,0
+New Guinea,Oceania,2004,2,2,0,0
+New Guinea,Oceania,2005,1,1,0,0
+New Guinea,Oceania,2006,0,0,0,0
+New Guinea,Oceania,2007,0,2,-2,0
+New Guinea,Oceania,2008,0,4,-4,0
+New Guinea,Oceania,2009,1,1,0,0
+New Guinea,Oceania,2010,1,0,1,0
+New Guinea,Oceania,2011,1,1,0,0
+New Guinea,Oceania,2012,0,0,0,0
+New Guinea,Oceania,2013,0,0,0,0
+New Guinea,Oceania,2014,0,0,0,0
+New Guinea,Oceania,2015,0,0,0,0
+New Guinea,Oceania,2016,1,0,1,0
+New Guinea,Oceania,2017,1,1,0,0
+New Guinea,Oceania,2018,1,0,1,0
+Solomon Islands,Oceania,1996,0,0,0,SLB
+Solomon Islands,Oceania,1997,0,0,0,SLB
+Solomon Islands,Oceania,1998,0,0,0,SLB
+Solomon Islands,Oceania,1999,0,0,0,SLB
+Solomon Islands,Oceania,2000,0,0,0,SLB
+Solomon Islands,Oceania,2001,0,0,0,SLB
+Solomon Islands,Oceania,2002,0,0,0,SLB
+Solomon Islands,Oceania,2003,0,0,0,SLB
+Solomon Islands,Oceania,2004,0,0,0,SLB
+Solomon Islands,Oceania,2005,0,0,0,SLB
+Solomon Islands,Oceania,2006,0,0,0,SLB
+Solomon Islands,Oceania,2007,0,0,0,SLB
+Solomon Islands,Oceania,2008,0,0,0,SLB
+Solomon Islands,Oceania,2009,0,0,0,SLB
+Solomon Islands,Oceania,2010,0,0,0,SLB
+Solomon Islands,Oceania,2011,0,0,0,SLB
+Solomon Islands,Oceania,2012,0,0,0,SLB
+Solomon Islands,Oceania,2013,0,0,0,SLB
+Solomon Islands,Oceania,2014,0,0,0,SLB
+Solomon Islands,Oceania,2015,0,0,0,SLB
+Solomon Islands,Oceania,2016,0,0,0,SLB
+Solomon Islands,Oceania,2017,0,0,0,SLB
+Solomon Islands,Oceania,2018,0,0,0,SLB
+Vawato,Oceania,1996,0,0,0,0
+Vawato,Oceania,1997,0,0,0,0
+Vawato,Oceania,1998,0,0,0,0
+Vawato,Oceania,1999,0,0,0,0
+Vawato,Oceania,2000,1,1,0,0
+Vawato,Oceania,2001,0,0,0,0
+Vawato,Oceania,2002,2,1,1,0
+Vawato,Oceania,2003,1,1,0,0
+Vawato,Oceania,2004,0,0,0,0
+Vawato,Oceania,2005,0,0,0,0
+Vawato,Oceania,2006,0,0,0,0
+Vawato,Oceania,2007,0,0,0,0
+Vawato,Oceania,2008,3,1,2,0
+Vawato,Oceania,2009,1,2,-1,0
+Vawato,Oceania,2010,0,0,0,0
+Vawato,Oceania,2011,0,0,0,0
+Vawato,Oceania,2012,2,2,0,0
+Vawato,Oceania,2013,0,0,0,0
+Vawato,Oceania,2014,0,0,0,0
+Vawato,Oceania,2015,1,1,0,0
+Vawato,Oceania,2016,18,17,1,0
+Vawato,Oceania,2017,11,12,-1,0
+Vawato,Oceania,2018,23,25,-2,0
+WMMicronesia,Oceania,1996,0,0,0,0
+WMMicronesia,Oceania,1997,0,0,0,0
+WMMicronesia,Oceania,1998,0,0,0,0
+WMMicronesia,Oceania,1999,0,0,0,0
+WMMicronesia,Oceania,2000,0,0,0,0
+WMMicronesia,Oceania,2001,0,0,0,0
+WMMicronesia,Oceania,2002,0,0,0,0
+WMMicronesia,Oceania,2003,0,0,0,0
+WMMicronesia,Oceania,2004,0,0,0,0
+WMMicronesia,Oceania,2005,0,0,0,0
+WMMicronesia,Oceania,2006,0,0,0,0
+WMMicronesia,Oceania,2007,0,0,0,0
+WMMicronesia,Oceania,2008,0,0,0,0
+WMMicronesia,Oceania,2009,0,0,0,0
+WMMicronesia,Oceania,2010,0,0,0,0
+WMMicronesia,Oceania,2011,0,0,0,0
+WMMicronesia,Oceania,2012,0,0,0,0
+WMMicronesia,Oceania,2013,0,0,0,0
+WMMicronesia,Oceania,2014,0,0,0,0
+WMMicronesia,Oceania,2015,0,0,0,0
+WMMicronesia,Oceania,2016,0,0,0,0
+WMMicronesia,Oceania,2017,0,0,0,0
+WMMicronesia,Oceania,2018,0,0,0,0
+Marshall Islands,Oceania,1996,0,0,0,0
+Marshall Islands,Oceania,1997,0,0,0,0
+Marshall Islands,Oceania,1998,0,0,0,0
+Marshall Islands,Oceania,1999,0,0,0,0
+Marshall Islands,Oceania,2000,0,0,0,0
+Marshall Islands,Oceania,2001,0,0,0,0
+Marshall Islands,Oceania,2002,0,0,0,0
+Marshall Islands,Oceania,2003,0,0,0,0
+Marshall Islands,Oceania,2004,0,0,0,0
+Marshall Islands,Oceania,2005,0,0,0,0
+Marshall Islands,Oceania,2006,0,0,0,0
+Marshall Islands,Oceania,2007,0,0,0,0
+Marshall Islands,Oceania,2008,0,0,0,0
+Marshall Islands,Oceania,2009,0,0,0,0
+Marshall Islands,Oceania,2010,0,0,0,0
+Marshall Islands,Oceania,2011,0,0,0,0
+Marshall Islands,Oceania,2012,0,0,0,0
+Marshall Islands,Oceania,2013,0,0,0,0
+Marshall Islands,Oceania,2014,0,0,0,0
+Marshall Islands,Oceania,2015,0,0,0,0
+Marshall Islands,Oceania,2016,0,0,0,0
+Marshall Islands,Oceania,2017,0,0,0,0
+Marshall Islands,Oceania,2018,0,0,0,0
+Nauru,Oceania,1996,0,0,0,NRU
+Nauru,Oceania,1997,0,0,0,NRU
+Nauru,Oceania,1998,0,0,0,NRU
+Nauru,Oceania,1999,0,0,0,NRU
+Nauru,Oceania,2000,0,0,0,NRU
+Nauru,Oceania,2001,0,0,0,NRU
+Nauru,Oceania,2002,0,0,0,NRU
+Nauru,Oceania,2003,0,0,0,NRU
+Nauru,Oceania,2004,0,0,0,NRU
+Nauru,Oceania,2005,0,0,0,NRU
+Nauru,Oceania,2006,0,0,0,NRU
+Nauru,Oceania,2007,0,0,0,NRU
+Nauru,Oceania,2008,0,0,0,NRU
+Nauru,Oceania,2009,0,0,0,NRU
+Nauru,Oceania,2010,0,0,0,NRU
+Nauru,Oceania,2011,0,0,0,NRU
+Nauru,Oceania,2012,0,0,0,NRU
+Nauru,Oceania,2013,0,0,0,NRU
+Nauru,Oceania,2014,0,0,0,NRU
+Nauru,Oceania,2015,0,0,0,NRU
+Nauru,Oceania,2016,0,0,0,NRU
+Nauru,Oceania,2017,0,0,0,NRU
+Nauru,Oceania,2018,0,0,0,NRU
+Kiribati,Oceania,1996,0,0,0,KIR
+Kiribati,Oceania,1997,0,0,0,KIR
+Kiribati,Oceania,1998,0,0,0,KIR
+Kiribati,Oceania,1999,0,0,0,KIR
+Kiribati,Oceania,2000,1,0,1,KIR
+Kiribati,Oceania,2001,0,0,0,KIR
+Kiribati,Oceania,2002,1,6,-5,KIR
+Kiribati,Oceania,2003,7,7,0,KIR
+Kiribati,Oceania,2004,0,0,0,KIR
+Kiribati,Oceania,2005,0,1,-1,KIR
+Kiribati,Oceania,2006,0,0,0,KIR
+Kiribati,Oceania,2007,0,0,0,KIR
+Kiribati,Oceania,2008,0,0,0,KIR
+Kiribati,Oceania,2009,0,0,0,KIR
+Kiribati,Oceania,2010,0,0,0,KIR
+Kiribati,Oceania,2011,1,0,1,KIR
+Kiribati,Oceania,2012,4,4,0,KIR
+Kiribati,Oceania,2013,0,0,0,KIR
+Kiribati,Oceania,2014,1,1,0,KIR
+Kiribati,Oceania,2015,6,5,1,KIR
+Kiribati,Oceania,2016,12,12,0,KIR
+Kiribati,Oceania,2017,9,6,3,KIR
+Kiribati,Oceania,2018,4,3,1,KIR
+Tonga,Oceania,1996,0,0,0,TON
+Tonga,Oceania,1997,0,0,0,TON
+Tonga,Oceania,1998,0,0,0,TON
+Tonga,Oceania,1999,0,0,0,TON
+Tonga,Oceania,2000,0,0,0,TON
+Tonga,Oceania,2001,1,1,0,TON
+Tonga,Oceania,2002,0,1,-1,TON
+Tonga,Oceania,2003,0,1,-1,TON
+Tonga,Oceania,2004,1,2,-1,TON
+Tonga,Oceania,2005,1,1,0,TON
+Tonga,Oceania,2006,0,0,0,TON
+Tonga,Oceania,2007,0,0,0,TON
+Tonga,Oceania,2008,0,0,0,TON
+Tonga,Oceania,2009,0,0,0,TON
+Tonga,Oceania,2010,1,1,0,TON
+Tonga,Oceania,2011,1,1,0,TON
+Tonga,Oceania,2012,0,0,0,TON
+Tonga,Oceania,2013,0,0,0,TON
+Tonga,Oceania,2014,0,0,0,TON
+Tonga,Oceania,2015,0,0,0,TON
+Tonga,Oceania,2016,0,0,0,TON
+Tonga,Oceania,2017,0,0,0,TON
+Tonga,Oceania,2018,0,0,0,TON
+Toffalo,Oceania,1996,0,0,0,0
+Toffalo,Oceania,1997,0,0,0,0
+Toffalo,Oceania,1998,0,0,0,0
+Toffalo,Oceania,1999,0,0,0,0
+Toffalo,Oceania,2000,0,0,0,0
+Toffalo,Oceania,2001,0,0,0,0
+Toffalo,Oceania,2002,0,0,0,0
+Toffalo,Oceania,2003,0,0,0,0
+Toffalo,Oceania,2004,0,0,0,0
+Toffalo,Oceania,2005,0,0,0,0
+Toffalo,Oceania,2006,0,0,0,0
+Toffalo,Oceania,2007,0,0,0,0
+Toffalo,Oceania,2008,0,0,0,0
+Toffalo,Oceania,2009,0,0,0,0
+Toffalo,Oceania,2010,0,0,0,0
+Toffalo,Oceania,2011,0,0,0,0
+Toffalo,Oceania,2012,0,0,0,0
+Toffalo,Oceania,2013,0,0,0,0
+Toffalo,Oceania,2014,0,0,0,0
+Toffalo,Oceania,2015,0,0,0,0
+Toffalo,Oceania,2016,0,0,0,0
+Toffalo,Oceania,2017,0,0,0,0
+Toffalo,Oceania,2018,0,0,0,0
+North Samoa Islands,Oceania,1996,0,0,0,0
+North Samoa Islands,Oceania,1997,5,5,0,0
+North Samoa Islands,Oceania,1998,0,0,0,0
+North Samoa Islands,Oceania,1999,0,0,0,0
+North Samoa Islands,Oceania,2000,0,0,0,0
+North Samoa Islands,Oceania,2001,0,1,-1,0
+North Samoa Islands,Oceania,2002,0,0,0,0
+North Samoa Islands,Oceania,2003,0,0,0,0
+North Samoa Islands,Oceania,2004,1,1,0,0
+North Samoa Islands,Oceania,2005,0,0,0,0
+North Samoa Islands,Oceania,2006,0,0,0,0
+North Samoa Islands,Oceania,2007,0,0,0,0
+North Samoa Islands,Oceania,2008,0,0,0,0
+North Samoa Islands,Oceania,2009,0,0,0,0
+North Samoa Islands,Oceania,2010,0,0,0,0
+North Samoa Islands,Oceania,2011,2,2,0,0
+North Samoa Islands,Oceania,2012,12,13,-1,0
+North Samoa Islands,Oceania,2013,13,13,0,0
+North Samoa Islands,Oceania,2014,17,18,-1,0
+North Samoa Islands,Oceania,2015,36,36,0,0
+North Samoa Islands,Oceania,2016,37,37,0,0
+North Samoa Islands,Oceania,2017,32,30,2,0
+North Samoa Islands,Oceania,2018,25,26,-1,0
+Red Cross,International Organizations,1996,2,0,2,0
+Red Cross,International Organizations,1997,7,7,0,0
+Red Cross,International Organizations,1998,0,0,0,0
+Red Cross,International Organizations,1999,0,0,0,0
+Red Cross,International Organizations,2000,0,0,0,0
+Red Cross,International Organizations,2001,1,0,1,0
+Red Cross,International Organizations,2002,0,0,0,0
+Red Cross,International Organizations,2003,0,0,0,0
+Red Cross,International Organizations,2004,0,0,0,0
+Red Cross,International Organizations,2005,0,0,0,0
+Red Cross,International Organizations,2006,0,0,0,0
+Red Cross,International Organizations,2007,0,0,0,0
+Red Cross,International Organizations,2008,0,0,0,0
+Red Cross,International Organizations,2009,0,0,0,0
+Red Cross,International Organizations,2010,0,0,0,0
+Red Cross,International Organizations,2011,0,0,0,0
+Red Cross,International Organizations,2012,0,0,0,0
+Red Cross,International Organizations,2013,0,0,0,0
+Red Cross,International Organizations,2014,0,0,0,0
+Red Cross,International Organizations,2015,0,0,0,0
+Red Cross,International Organizations,2016,0,0,0,0
+Red Cross,International Organizations,2017,0,0,0,0
+Red Cross,International Organizations,2018,0,0,0,0
+United Nations,International Organizations,1996,247,210,37,0
+United Nations,International Organizations,1997,305,362,-57,0
+United Nations,International Organizations,1998,756,970,-214,0
+United Nations,International Organizations,1999,500,477,23,0
+United Nations,International Organizations,2000,3509,2625,884,0
+United Nations,International Organizations,2001,2072,2321,-249,0
+United Nations,International Organizations,2002,0,0,0,0
+United Nations,International Organizations,2003,0,0,0,0
+United Nations,International Organizations,2004,0,0,0,0
+United Nations,International Organizations,2005,0,0,0,0
+United Nations,International Organizations,2006,0,71,-71,0
+United Nations,International Organizations,2007,0,0,0,0
+United Nations,International Organizations,2008,0,0,0,0
+United Nations,International Organizations,2009,0,0,0,0
+United Nations,International Organizations,2010,0,0,0,0
+United Nations,International Organizations,2011,0,0,0,0
+United Nations,International Organizations,2012,0,0,0,0
+United Nations,International Organizations,2013,0,0,0,0
+United Nations,International Organizations,2014,0,0,0,0
+United Nations,International Organizations,2015,0,0,0,0
+United Nations,International Organizations,2016,0,0,0,0
+United Nations,International Organizations,2017,0,0,0,0
+United Nations,International Organizations,2018,0,0,0,0
+Non-defined,Other Nationalities,1996,0,0,0,0
+Non-defined,Other Nationalities,1997,0,0,0,0
+Non-defined,Other Nationalities,1998,0,0,0,0
+Non-defined,Other Nationalities,1999,0,0,0,0
+Non-defined,Other Nationalities,2000,0,0,0,0
+Non-defined,Other Nationalities,2001,0,0,0,0
+Non-defined,Other Nationalities,2002,854,644,210,0
+Non-defined,Other Nationalities,2003,1174,958,216,0
+Non-defined,Other Nationalities,2004,1256,1150,106,0
+Non-defined,Other Nationalities,2005,1192,936,256,0
+Non-defined,Other Nationalities,2006,933,339,594,0
+Non-defined,Other Nationalities,2007,852,415,437,0
+Non-defined,Other Nationalities,2008,996,536,460,0
+Non-defined,Other Nationalities,2009,1014,437,577,0
+Non-defined,Other Nationalities,2010,792,336,456,0
+Non-defined,Other Nationalities,2011,694,263,431,0
+Non-defined,Other Nationalities,2012,644,255,389,0
+Non-defined,Other Nationalities,2013,643,643,0,0
+Non-defined,Other Nationalities,2014,912,4955,-4043,0
+Non-defined,Other Nationalities,2015,310,10390,-10080,0
+Non-defined,Other Nationalities,2016,393,28526,-28133,0
+Non-defined,Other Nationalities,2017,353,14586,-14233,0
+Non-defined,Other Nationalities,2018,393,11646,-11253,0
+Other Lebanese,Other Nationalities,1996,0,0,0,0
+Other Lebanese,Other Nationalities,1997,0,0,0,0
+Other Lebanese,Other Nationalities,1998,0,0,0,0
+Other Lebanese,Other Nationalities,1999,0,0,0,0
+Other Lebanese,Other Nationalities,2000,0,0,0,0
+Other Lebanese,Other Nationalities,2001,0,0,0,0
+Other Lebanese,Other Nationalities,2002,14,19,-5,0
+Other Lebanese,Other Nationalities,2003,34,42,-8,0
+Other Lebanese,Other Nationalities,2004,42,48,-6,0
+Other Lebanese,Other Nationalities,2005,73,84,-11,0
+Other Lebanese,Other Nationalities,2006,150,149,1,0
+Other Lebanese,Other Nationalities,2007,196,191,5,0
+Other Lebanese,Other Nationalities,2008,299,259,40,0
+Other Lebanese,Other Nationalities,2009,261,258,3,0
+Other Lebanese,Other Nationalities,2010,358,344,14,0
+Other Lebanese,Other Nationalities,2011,253,239,14,0
+Other Lebanese,Other Nationalities,2012,140,137,3,0
+Other Lebanese,Other Nationalities,2013,90,90,0,0
+Other Lebanese,Other Nationalities,2014,124,140,-16,0
+Other Lebanese,Other Nationalities,2015,81,149,-68,0
+Other Lebanese,Other Nationalities,2016,101,136,-35,0
+Other Lebanese,Other Nationalities,2017,104,171,-67,0
+Other Lebanese,Other Nationalities,2018,110,107,3,0
+Other Kuwait,Other Nationalities,1996,0,0,0,0
+Other Kuwait,Other Nationalities,1997,0,0,0,0
+Other Kuwait,Other Nationalities,1998,0,0,0,0
+Other Kuwait,Other Nationalities,1999,0,0,0,0
+Other Kuwait,Other Nationalities,2000,0,0,0,0
+Other Kuwait,Other Nationalities,2001,0,0,0,0
+Other Kuwait,Other Nationalities,2002,20,22,-2,0
+Other Kuwait,Other Nationalities,2003,33,24,9,0
+Other Kuwait,Other Nationalities,2004,51,46,5,0
+Other Kuwait,Other Nationalities,2005,44,47,-3,0
+Other Kuwait,Other Nationalities,2006,44,36,8,0
+Other Kuwait,Other Nationalities,2007,94,76,18,0
+Other Kuwait,Other Nationalities,2008,207,181,26,0
+Other Kuwait,Other Nationalities,2009,543,496,47,0
+Other Kuwait,Other Nationalities,2010,587,515,72,0
+Other Kuwait,Other Nationalities,2011,962,878,84,0
+Other Kuwait,Other Nationalities,2012,549,548,1,0
+Other Kuwait,Other Nationalities,2013,326,326,0,0
+Other Kuwait,Other Nationalities,2014,407,346,61,0
+Other Kuwait,Other Nationalities,2015,231,237,-6,0
+Other Kuwait,Other Nationalities,2016,84,78,6,0
+Other Kuwait,Other Nationalities,2017,244,220,24,0
+Other Kuwait,Other Nationalities,2018,215,197,18,0
