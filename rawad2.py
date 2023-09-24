@@ -10,12 +10,6 @@ df = df.replace('', 0)
 st.title("Lebanon Immigration Data")
 st.sidebar.title("Interactive Options")
 
-# Add search bar to filter the first visual (Bar Chart) by country
-if st.sidebar.checkbox("Filter by Country"):
-    search_country = st.sidebar.text_input("Enter a country name:")
-else:
-    search_country = None
-
 # Add search bar to filter visuals by type
 visual_type = st.sidebar.selectbox("Select Visual Type", ["Bar Chart", "Choropleth Map", "Scatter Plot", "Sunburst Chart"])
 
@@ -37,10 +31,6 @@ elif visual_type == "Sunburst Chart":
     values3 = ["Lebanon", "Syria"]
     df_filtered = df.loc[~df['Country'].isin(values3)]
 
-# Apply the country filter for the first visual (Bar Chart)
-if search_country and visual_type == "Bar Chart":
-    df_filtered = df_filtered[df_filtered['Country'].str.contains(search_country, case=False)]
-
 # Create interactive visuals based on selected type
 if visual_type == "Bar Chart":
     fig = px.bar(df_filtered, x="Group", y="In", color="Group",
@@ -61,3 +51,17 @@ elif visual_type == "Sunburst Chart":
     fig = px.sunburst(df7, path=['Group', 'Country'], values='In',
                       color='Group', hover_data=['iso_alpha'])
     st.plotly_chart(fig)
+
+# Add a search bar for filtering by country
+st.sidebar.subheader("Search by Country")
+search_country = st.sidebar.text_input("Enter a country name:")
+if search_country:
+    st.subheader(f"Data for {search_country}")
+    st.write(df[df['Country'] == search_country])
+
+# Add a search bar for filtering by year
+st.sidebar.subheader("Search by Year")
+search_year = st.sidebar.number_input("Enter a year:", min_value=int(df['Year'].min()), max_value=int(df['Year'].max()))
+if search_year:
+    st.subheader(f"Data for {search_year}")
+    st.write(df[df['Year'] == search_year])
