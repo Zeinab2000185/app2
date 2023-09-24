@@ -10,6 +10,12 @@ df = df.replace('', 0)
 st.title("Lebanon Immigration Data")
 st.sidebar.title("Interactive Options")
 
+# Add search bar to filter the first visual (Bar Chart) by country
+if st.sidebar.checkbox("Filter by Country"):
+    search_country = st.sidebar.text_input("Enter a country name:")
+else:
+    search_country = None
+
 # Add search bar to filter visuals by type
 visual_type = st.sidebar.selectbox("Select Visual Type", ["Bar Chart", "Choropleth Map", "Scatter Plot", "Sunburst Chart"])
 
@@ -30,6 +36,10 @@ elif visual_type == "Sunburst Chart":
     st.subheader("Snapshot of Influx into Lebanon in 2018 (Excluding Lebanon and Syria)")
     values3 = ["Lebanon", "Syria"]
     df_filtered = df.loc[~df['Country'].isin(values3)]
+
+# Apply the country filter for the first visual (Bar Chart)
+if search_country and visual_type == "Bar Chart":
+    df_filtered = df_filtered[df_filtered['Country'].str.contains(search_country, case=False)]
 
 # Create interactive visuals based on selected type
 if visual_type == "Bar Chart":
