@@ -51,17 +51,3 @@ elif visual_type == "Sunburst Chart":
     fig = px.sunburst(df7, path=['Group', 'Country'], values='In',
                       color='Group', hover_data=['iso_alpha'])
     st.plotly_chart(fig)
-
-# Add a search bar for filtering by country
-st.sidebar.subheader("Search by Country")
-search_country = st.sidebar.text_input("Enter a country name:")
-if search_country:
-    st.subheader(f"Data for {search_country}")
-    st.write(df[df['Country'] == search_country])
-
-# Add a search bar for filtering by year
-st.sidebar.subheader("Search by Year")
-search_year = st.sidebar.number_input("Enter a year:", min_value=int(df['Year'].min()), max_value=int(df['Year'].max()))
-if search_year:
-    st.subheader(f"Data for {search_year}")
-    st.write(df[df['Year'] == search_year])
